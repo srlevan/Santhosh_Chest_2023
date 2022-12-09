@@ -1,0 +1,1151 @@
+UCSF_MRN,Admission_Date,Discharge_Date,Clinic_Visit_Date,Age_years,AdmMonth_scalar,AdmDuration_days,DaysSince20200301,Gender,Ethnic_Group,Race,Zip_Code,InsuranceType,ICU_Days,Gender_M,Race_White,Latinx,PrivateInsurance,ICU_Stay,Distance_miles,Discharge_Disposition
+1,10/17/20,10/21/20,NA,75,8,5,229,Female,Not Hispanic or Latino,White or Caucasian,94960,Medicare,0,0,1,0,0,0,16.22972554,Home_Health_Care
+2,4/8/21,4/29/21,NA,77,14,21,403,Female,Not Hispanic or Latino,White or Caucasian,94954,Medicare,16,0,1,0,0,1,34.09195347,Acute_Rehabilitation_Facility_Other
+3,1/31/21,2/1/21,NA,67,11,1,336,Male,Not Hispanic or Latino,Asian,94122,Medicare,0,1,0,0,0,0,1.470404567,Home_or_Self_Care
+4,12/14/21,12/16/21,NA,82,22,2,653,Male,Not Hispanic or Latino,White or Caucasian,94960,Medicare,0,1,1,0,0,0,16.22972554,Home_or_Self_Care
+5,12/17/21,12/18/21,NA,74,22,1,656,Male,Not Hispanic or Latino,White or Caucasian,94122,Medicare,0,1,1,0,0,0,1.470404567,Home_or_Self_Care
+6,12/5/20,12/6/20,NA,59,10,2,278,Female,Hispanic or Latino,White or Caucasian,94015,Commercial,0,0,1,1,1,0,5.702175128,Home_or_Self_Care
+7,4/11/20,5/12/20,NA,59,2,31,41,Male,Not Hispanic or Latino,White or Caucasian,94143,Medi-Cal,21,1,1,0,0,1,0.000985532,Home_or_Self_Care
+8,12/22/20,12/29/20,NA,91,10,7,296,Female,Not Hispanic or Latino,White or Caucasian,94112,Medicare,2,0,1,0,0,1,3.042419167,Skilled_Nursing_Facility
+9,7/30/20,8/18/20,NA,22,5,19,151,Male,Not Hispanic or Latino,Other,95825,Commercial,0,1,0,0,1,0,81.00517009,Home_or_Self_Care
+10,4/6/21,4/9/21,NA,56,14,3,401,Female,Not Hispanic or Latino,White or Caucasian,94563,Medicare,0,0,1,0,0,0,17.0544963,Home_or_Self_Care
+11,9/30/21,10/7/21,NA,65,19,7,578,Female,Not Hispanic or Latino,Asian,94116,Commercial,7,0,0,0,1,1,2.017505371,Home_or_Self_Care
+12,9/7/21,9/11/21,NA,88,19,4,555,Female,Not Hispanic or Latino,Black or African American,94102,Medicare,0,0,0,0,0,0,2.43157244,Home_Health_Care
+13,4/9/20,4/12/20,NA,55,2,3,39,Male,Not Hispanic or Latino,Asian,94131,Commercial,0,1,0,0,1,0,1.860640641,Home_or_Self_Care
+14,3/9/21,3/16/21,NA,56,13,8,372,Female,Not Hispanic or Latino,Asian,94127,Commercial,0,0,0,0,1,0,1.943464976,Home_or_Self_Care
+15,1/30/21,2/7/21,NA,74,11,8,335,Male,Not Hispanic or Latino,White or Caucasian,94110,Medicare,0,1,1,0,0,0,2.563001882,Home_Health_Care
+16,8/7/21,8/10/21,NA,51,18,3,524,Male,Not Hispanic or Latino,White or Caucasian,94107,Medicare,0,1,1,0,0,0,3.44795333,Home_Health_Care
+17,12/30/20,1/20/21,NA,86,10,21,304,Female,Not Hispanic or Latino,Asian,94122,Medicare,0,0,0,0,0,0,1.470404567,Home_or_Self_Care
+18,8/30/21,9/4/21,NA,60,18,6,546,Male,Not Hispanic or Latino,Black or African American,94109,Medi-Cal,0,1,0,0,0,0,2.867305718,Home_or_Self_Care
+19,4/1/20,4/17/20,NA,42,2,16,31,Male,Not Hispanic or Latino,Native Hawaiian or Other Pacific Islander,94124,Commercial,0,1,0,0,1,0,4.134478502,Home_or_Self_Care
+20,9/5/21,9/26/21,NA,90,19,21,553,Female,Not Hispanic or Latino,White or Caucasian,94115,Medicare,0,0,1,0,0,0,1.966713721,Skilled_Nursing_Facility
+21,12/15/20,1/4/21,NA,70,10,20,289,Male,Not Hispanic or Latino,White or Caucasian,94118,Medicare,0,1,1,0,0,0,1.313586868,Assisted_Living_Intermediate_Care_Facility
+22,8/3/21,8/7/21,NA,46,18,4,520,Male,Not Hispanic or Latino,Black or African American,94124,Medicare,0,1,0,0,0,0,4.134478502,Home_Health_Care
+23,12/25/20,2/11/21,NA,80,10,48,299,Female,Not Hispanic or Latino,Asian,94132,Medicare,0,0,0,0,0,0,2.918450656,Assisted_Living_Intermediate_Care_Facility
+24,12/30/21,12/31/21,NA,79,22,1,669,Male,Not Hispanic or Latino,White or Caucasian,94122,Medicare,0,1,1,0,0,0,1.470404567,Home_Health_Care
+25,8/6/20,9/19/20,NA,50,6,44,158,Female,Not Hispanic or Latino,White or Caucasian,94901,Medi-Cal,18,0,1,0,0,1,14.75852721,Home_Health_Care
+26,1/27/21,1/30/21,NA,46,11,3,332,Female,Not Hispanic or Latino,Black or African American,94530,Medicare,0,0,0,0,0,0,13.60197952,Home_or_Self_Care
+27,9/11/21,9/15/21,NA,84,19,4,559,Male,Not Hispanic or Latino,White or Caucasian,94122,Medicare,0,1,1,0,0,0,1.470404567,Home_Health_Care
+28,12/13/20,12/20/20,NA,91,10,7,287,Male,Not Hispanic or Latino,Asian,94132,Medicare,0,1,0,0,0,0,2.918450656,Home_or_Self_Care
+29,12/7/20,12/11/20,NA,87,10,4,281,Male,Not Hispanic or Latino,White or Caucasian,94102,Medicare,0,1,1,0,0,0,2.43157244,Home_or_Self_Care
+30,5/5/20,5/8/20,NA,48,3,4,64,Male,Not Hispanic or Latino,Black or African American,94143,Medi-Cal,0,1,0,0,0,0,0.000985532,Home_or_Self_Care
+31,11/6/20,11/21/20,NA,26,9,15,250,Female,Not Hispanic or Latino,White or Caucasian,94505,Commercial,3,0,1,0,1,1,45.28592282,Home_or_Self_Care
+32,7/6/20,7/28/20,NA,86,5,22,127,Male,Not Hispanic or Latino,Asian,94102,Medicare,0,1,0,0,0,0,2.43157244,Skilled_Nursing_Facility
+33,8/16/20,8/31/20,NA,70,6,15,168,Female,Not Hispanic or Latino,Other,94118,Medicare,5,0,0,0,0,1,1.313586868,Home_or_Self_Care
+34,6/15/21,6/17/21,NA,49,16,2,471,Male,Hispanic or Latino,Other,95330,Medi-Cal,0,1,0,1,0,0,64.31746089,Home_or_Self_Care
+35,3/16/21,3/24/21,NA,59,13,8,380,Male,Not Hispanic or Latino,White or Caucasian,94568,Commercial,3,1,1,0,1,1,29.38302391,Acute_Rehabilitation_Facility_Other
+36,12/10/20,12/19/20,NA,65,10,9,284,Female,Not Hispanic or Latino,Black or African American,94116,Medicare,0,0,0,0,0,0,2.017505371,Skilled_Nursing_Facility
+37,3/21/21,4/4/21,NA,64,13,14,385,Male,Not Hispanic or Latino,White or Caucasian,94114,Commercial,0,1,1,0,1,0,1.325779489,Home_Health_Care
+38,3/26/20,4/11/20,NA,53,1,17,24,Male,Not Hispanic or Latino,White or Caucasian,94119,Medicare,5,1,1,0,0,1,14.81290454,Psychiatric_Hospital
+39,9/10/20,9/15/20,NA,85,7,6,192,Female,Not Hispanic or Latino,Black or African American,94132,Medicare,0,0,0,0,0,0,2.918450656,Home_Health_Care
+40,8/31/21,9/7/21,NA,48,18,7,548,Female,Not Hispanic or Latino,American Indian or Alaska Native,94134,Commercial,0,0,0,0,1,0,3.98243549,Home_or_Self_Care
+41,8/18/20,8/24/20,NA,66,6,6,170,Female,Not Hispanic or Latino,Black or African American,94806,Medicare,0,0,0,0,0,0,15.86537453,Home_Health_Care
+42,2/12/21,2/13/21,NA,23,12,1,348,Female,Hispanic or Latino,Other,94109,Medi-Cal,0,0,0,1,0,0,2.867305718,Home_or_Self_Care
+43,5/20/21,5/29/21,NA,83,15,9,445,Female,Not Hispanic or Latino,White or Caucasian,94121,Medicare,0,0,1,0,0,0,2.152271771,Hospice
+44,5/23/20,5/28/20,NA,28,3,5,83,Male,Not Hispanic or Latino,Asian,94112,Commercial,2,1,0,0,1,1,3.042419167,Home_or_Self_Care
+45,10/29/21,11/7/21,NA,63,20,9,607,Male,Not Hispanic or Latino,White or Caucasian,94127,Commercial,0,1,1,0,1,0,1.943464976,Acute_Rehabilitation_Facility_Other
+46,5/26/21,5/27/21,NA,42,15,1,451,Female,Not Hispanic or Latino,Black or African American,94945,Medi-Cal,0,0,0,0,0,0,25.06990582,Home_or_Self_Care
+47,9/29/20,10/3/20,NA,67,7,4,212,Female,Not Hispanic or Latino,White or Caucasian,94970,Medicare,0,0,1,0,0,0,14.27197952,Home_or_Self_Care
+48,12/30/21,12/31/21,NA,32,22,1,669,Female,Not Hispanic or Latino,American Indian or Alaska Native,95482,Medi-Cal,0,0,0,0,0,0,104.0993482,Home_or_Self_Care
+49,9/16/21,9/23/21,NA,36,19,7,564,Female,Hispanic or Latino,Other,95675,Commercial,0,0,0,1,1,0,107.9065803,Home_or_Self_Care
+50,12/11/20,12/16/20,NA,60,10,5,285,Male,Not Hispanic or Latino,Asian,94122,Commercial,0,1,0,0,1,0,1.470404567,Home_or_Self_Care
+51,8/5/20,8/9/20,NA,47,6,4,157,Female,Not Hispanic or Latino,White or Caucasian,94551,Commercial,0,0,1,0,1,0,29.97462558,Home_or_Self_Care
+52,10/23/21,11/5/21,NA,62,20,13,601,Male,Not Hispanic or Latino,Black or African American,94103,Medi-Cal,0,1,0,0,0,0,2.689052947,Skilled_Nursing_Facility
+53,12/27/20,1/6/21,NA,59,10,10,301,Male,Not Hispanic or Latino,White or Caucasian,94103,Medi-Cal,0,1,1,0,0,0,2.689052947,Home_Health_Care
+54,10/11/21,10/14/21,NA,77,20,3,589,Female,Not Hispanic or Latino,Other,94121,Medicare,0,0,0,0,0,0,2.152271771,Home_Health_Care
+55,9/8/20,9/11/20,NA,35,7,4,190,Male,Not Hispanic or Latino,White or Caucasian,94945,Medi-Cal,0,1,1,0,0,0,25.06990582,Home_or_Self_Care
+56,12/29/21,12/31/21,NA,66,22,2,668,Male,Not Hispanic or Latino,White or Caucasian,94599,Commercial,0,1,1,0,1,0,44.44460015,Home_Health_Care
+57,9/20/21,10/12/21,NA,72,19,23,567,Female,Not Hispanic or Latino,Asian,94108,Medicare,6,0,0,0,0,1,3.441856072,Skilled_Nursing_Facility
+58,12/29/20,1/5/21,NA,94,10,7,303,Female,Not Hispanic or Latino,White or Caucasian,94112,Medicare,2,0,1,0,0,1,3.042419167,Skilled_Nursing_Facility
+59,2/27/21,3/8/21,NA,54,12,9,363,Female,Not Hispanic or Latino,Asian,94015,Commercial,5,0,0,0,1,1,5.702175128,Home_or_Self_Care
+60,1/6/21,2/1/21,NA,89,11,26,311,Female,Not Hispanic or Latino,White or Caucasian,94133,Medicare,8,0,1,0,0,1,3.7637824,Home_Health_Care
+61,7/7/21,7/12/21,NA,74,17,5,493,Female,Not Hispanic or Latino,White or Caucasian,94025,Medicare,0,0,1,0,0,0,26.24076379,Skilled_Nursing_Facility
+62,1/2/21,1/12/21,2/25/21,87,11,11,306,Female,Not Hispanic or Latino,White or Caucasian,94112,Medicare,0,0,1,0,0,0,3.042419167,Skilled_Nursing_Facility
+63,1/14/21,1/19/21,NA,77,11,5,319,Female,Not Hispanic or Latino,Asian,94121,Medicare,0,0,0,0,0,0,2.152271771,Home_or_Self_Care
+64,11/28/21,12/3/21,NA,41,21,5,637,Female,Not Hispanic or Latino,White or Caucasian,95348,Commercial,0,0,1,0,1,0,111.3077211,Home_or_Self_Care
+65,1/4/21,1/8/21,NA,60,11,4,309,Female,Not Hispanic or Latino,Asian,95209,Medicare,0,0,0,0,0,0,63.7559817,Home_or_Self_Care
+66,10/25/21,10/29/21,NA,55,20,4,603,Male,Not Hispanic or Latino,White or Caucasian,94118,Medicare,0,1,1,0,0,0,1.313586868,Home_or_Self_Care
+67,11/24/20,11/26/20,NA,20,9,2,268,Female,Not Hispanic or Latino,Black or African American,95206,Medi-Cal,1,0,0,0,0,1,64.17291261,Home_or_Self_Care
+68,8/28/21,9/2/21,NA,74,18,5,545,Male,Not Hispanic or Latino,White or Caucasian,94115,Medicare,0,1,1,0,0,0,1.966713721,Home_Health_Care
+69,6/21/21,6/27/21,NA,67,16,6,477,Male,Not Hispanic or Latino,White or Caucasian,94551,Medicare,0,1,1,0,0,0,29.97462558,Home_Health_Care
+70,11/3/21,11/9/21,NA,87,21,7,611,Female,Not Hispanic or Latino,Black or African American,94116,Medicare,0,0,0,0,0,0,2.017505371,Skilled_Nursing_Facility
+71,7/30/21,8/2/21,NA,66,17,3,516,Female,Hispanic or Latino,Other,93210,Medicare,0,0,0,1,0,0,160.7551493,Home_or_Self_Care
+72,3/26/21,4/14/21,NA,77,13,19,390,Male,Not Hispanic or Latino,Black or African American,94132,Medicare,0,1,0,0,0,0,2.918450656,Skilled_Nursing_Facility
+73,8/29/20,9/6/20,NA,44,6,8,181,Male,Hispanic or Latino,White or Caucasian,93657,Medicare,0,1,1,1,0,0,176.2209824,Home_or_Self_Care
+74,12/21/20,1/26/21,NA,68,10,37,294,Male,Not Hispanic or Latino,Native Hawaiian or Other Pacific Islander,94112,Medicare,22,1,0,0,0,1,3.042419167,Acute_Rehabilitation_Facility_Other
+75,4/11/21,5/7/21,NA,96,14,27,405,Female,Not Hispanic or Latino,White or Caucasian,94132,Medicare,1,0,1,0,0,1,2.918450656,Skilled_Nursing_Facility
+76,6/16/20,8/3/20,NA,74,4,48,107,Male,Hispanic or Latino,White or Caucasian,94560,Medicare,15,1,1,1,0,1,28.09516256,Home_or_Self_Care
+77,6/27/20,7/1/20,NA,66,4,5,117,Male,Not Hispanic or Latino,White or Caucasian,94117,Medicare,0,1,1,0,0,0,1.020774481,Home_Health_Care
+78,4/4/21,4/7/21,NA,30,14,3,399,Female,Hispanic or Latino,Other,95204,Commercial,0,0,0,1,1,0,64.21392144,Other_Acute_Care_Hospital
+79,3/30/20,4/24/20,NA,63,1,25,29,Male,Hispanic or Latino,White or Caucasian,94143,Medi-Cal,0,1,1,1,0,0,0.000985532,Home_or_Self_Care
+80,7/21/21,7/26/21,NA,25,17,5,507,Female,Hispanic or Latino,Other,94102,Commercial,0,0,0,1,1,0,2.43157244,Home_or_Self_Care
+81,9/15/20,12/22/20,NA,24,7,98,198,Male,Hispanic or Latino,Other,94108,Medi-Cal,3,1,0,1,0,1,3.441856072,Home_Health_Care
+82,9/14/21,9/17/21,NA,75,19,3,562,Female,Not Hispanic or Latino,White or Caucasian,94133,Medicare,0,0,1,0,0,0,3.7637824,Skilled_Nursing_Facility
+83,8/25/21,8/31/21,NA,79,18,7,541,Female,Hispanic or Latino,Other,94116,Medicare,0,0,0,1,0,0,2.017505371,Home_Health_Care
+84,3/24/20,3/27/20,NA,86,1,4,22,Male,Not Hispanic or Latino,Other,94044,Medicare,0,1,0,0,0,0,10.37988138,Home_or_Self_Care
+85,1/26/21,1/27/21,NA,56,11,1,331,Female,Not Hispanic or Latino,Black or African American,95464,Medicare,0,0,0,0,0,0,96.30253288,Home_or_Self_Care
+86,3/20/21,3/22/21,NA,66,13,2,384,Female,Not Hispanic or Latino,Black or African American,94115,Medicare,0,0,0,0,0,0,1.966713721,Home_or_Self_Care
+87,4/1/20,4/7/20,NA,72,1,7,30,Male,Not Hispanic or Latino,White or Caucasian,94110,Commercial,0,1,1,0,1,0,2.563001882,Home_Health_Care
+88,1/12/21,1/19/21,NA,65,11,8,316,Male,Not Hispanic or Latino,White or Caucasian,95112,Medi-Cal,0,1,1,0,0,0,42.48435152,Skilled_Nursing_Facility
+89,7/18/21,7/22/21,NA,79,17,4,504,Male,Not Hispanic or Latino,Black or African American,94158,Medicare,0,1,0,0,0,0,3.76224883,Home_Health_Care
+90,3/1/21,3/8/21,NA,73,12,8,364,Male,Hispanic or Latino,Other,94117,Medicare,0,1,0,1,0,0,1.020774481,Home_Health_Care
+91,11/14/20,11/16/20,NA,64,9,3,257,Female,Not Hispanic or Latino,Black or African American,94188,Medicare,0,0,0,0,0,0,14.81290454,Home_Health_Care
+92,10/6/20,10/8/20,NA,23,8,2,219,Female,Hispanic or Latino,White or Caucasian,94925,Commercial,0,0,1,1,1,0,11.54658934,Home_or_Self_Care
+93,9/5/21,9/8/21,NA,78,19,3,553,Female,Not Hispanic or Latino,Asian,94112,Medicare,0,0,0,0,0,0,3.042419167,Home_or_Self_Care
+94,12/17/20,12/27/20,NA,96,10,11,290,Female,Not Hispanic or Latino,White or Caucasian,94123,Medicare,0,0,1,0,0,0,2.838844466,Skilled_Nursing_Facility
+95,3/15/21,3/23/21,NA,46,13,8,379,Male,Not Hispanic or Latino,American Indian or Alaska Native,94124,Medi-Cal,0,1,0,0,0,0,4.134478502,Home_or_Self_Care
+96,3/20/20,3/23/20,NA,72,1,3,19,Male,Not Hispanic or Latino,Asian,94121,Medicare,0,1,0,0,0,0,2.152271771,Home_or_Self_Care
+97,12/6/21,12/10/21,NA,60,22,5,644,Female,Not Hispanic or Latino,American Indian or Alaska Native,94134,Medicare,0,0,0,0,0,0,3.98243549,Home_Health_Care
+98,3/29/20,4/8/20,NA,77,1,10,28,Male,Not Hispanic or Latino,Black or African American,94521,Commercial,0,1,0,0,1,0,29.55365326,Home_Health_Care
+99,8/18/20,8/29/20,NA,45,6,13,168,Female,Hispanic or Latino,Asian,94803,Medicare,0,0,0,1,0,0,16.845895,Home_or_Self_Care
+100,1/6/21,1/25/21,NA,64,11,19,311,Male,Not Hispanic or Latino,Asian,94109,Medi-Cal,0,1,0,0,0,0,2.867305718,Skilled_Nursing_Facility
+101,4/9/21,4/17/21,NA,54,14,8,404,Female,Hispanic or Latino,Black or African American,94014,Commercial,0,0,0,1,1,0,4.433394517,Home_Health_Care
+102,11/22/20,12/10/20,NA,36,9,19,265,Female,Not Hispanic or Latino,White or Caucasian,94536,Medi-Cal,0,0,1,0,0,0,28.98090572,Home_Health_Care
+103,11/13/20,11/24/20,NA,74,9,12,256,Female,Hispanic or Latino,Other,94110,Medicare,0,0,0,1,0,0,2.563001882,Home_or_Self_Care
+104,12/12/21,12/17/21,NA,59,22,5,651,Male,Not Hispanic or Latino,Black or African American,94115,Medi-Cal,0,1,0,0,0,0,1.966713721,Home_or_Self_Care
+105,1/21/21,2/17/21,NA,32,11,27,326,Male,Not Hispanic or Latino,Native Hawaiian or Other Pacific Islander,94103,Medi-Cal,0,1,0,0,0,0,2.689052947,Other_Acute_Care_Hospital
+106,7/21/21,8/5/21,NA,61,17,16,506,Male,Not Hispanic or Latino,Black or African American,94115,Medicare,0,1,0,0,0,0,1.966713721,Home_or_Self_Care
+107,3/15/20,3/22/20,NA,65,1,8,13,Male,Not Hispanic or Latino,Black or African American,94605,Commercial,0,1,0,0,1,0,16.18189276,Home_or_Self_Care
+108,9/30/20,10/3/20,NA,51,7,3,213,Female,Hispanic or Latino,Other,94143,Medi-Cal,0,0,0,1,0,0,0.000985532,Home_or_Self_Care
+109,12/26/20,1/4/21,NA,100,10,9,300,Female,Not Hispanic or Latino,White or Caucasian,94118,Medicare,0,0,1,0,0,0,1.313586868,Assisted_Living_Intermediate_Care_Facility
+110,9/16/21,9/21/21,NA,65,19,5,564,Male,Not Hispanic or Latino,White or Caucasian,94143,Medicare,0,1,1,0,0,0,0.000985532,Home_Health_Care
+111,7/14/20,7/25/20,NA,81,5,11,135,Female,Not Hispanic or Latino,White or Caucasian,94147,Medicare,5,0,1,0,0,1,14.81290454,Home_or_Self_Care
+112,1/26/21,2/6/21,NA,27,11,11,331,Female,Hispanic or Latino,White or Caucasian,93905,Medi-Cal,0,0,1,1,0,0,87.91732483,Skilled_Nursing_Facility
+113,3/27/20,3/30/20,NA,92,1,3,26,Female,Not Hispanic or Latino,White or Caucasian,94044,Medicare,0,0,1,0,0,0,10.37988138,Home_or_Self_Care
+114,12/24/21,12/31/21,NA,89,22,8,662,Male,Unknown or Declined,White or Caucasian,94127,Medicare,0,1,1,0,0,0,1.943464976,Home_Health_Care
+115,12/22/20,1/5/21,NA,84,10,15,295,Female,Not Hispanic or Latino,White or Caucasian,94116,Medicare,0,0,1,0,0,0,2.017505371,Skilled_Nursing_Facility
+116,7/5/21,7/8/21,NA,31,17,3,491,Female,Not Hispanic or Latino,Black or African American,94115,Medi-Cal,0,0,0,0,0,0,1.966713721,Home_or_Self_Care
+117,10/19/20,10/27/20,NA,74,8,8,232,Female,Not Hispanic or Latino,White or Caucasian,95603,Medicare,0,0,1,0,0,0,108.9224159,Home_or_Self_Care
+118,10/31/21,12/23/21,NA,79,20,54,608,Male,Not Hispanic or Latino,White or Caucasian,94132,Medicare,40,1,1,0,0,1,2.918450656,Skilled_Nursing_Facility
+119,9/12/21,9/16/21,NA,46,19,4,560,Female,Hispanic or Latino,Other,94014,Commercial,0,0,0,1,1,0,4.433394517,Home_or_Self_Care
+120,12/15/21,12/17/21,NA,84,22,2,654,Male,Not Hispanic or Latino,White or Caucasian,94121,Medicare,1,1,1,0,0,1,2.152271771,Home_or_Self_Care
+121,11/13/21,11/17/21,NA,74,21,4,622,Female,Not Hispanic or Latino,Asian,94122,Medicare,0,0,0,0,0,0,1.470404567,Home_Health_Care
+122,1/25/21,2/2/21,NA,71,11,8,330,Female,Not Hispanic or Latino,White or Caucasian,94115,Medicare,0,0,1,0,0,0,1.966713721,Home_or_Self_Care
+123,11/27/20,12/21/20,NA,63,9,24,271,Male,Not Hispanic or Latino,White or Caucasian,94116,Medi-Cal,4,1,1,0,0,1,2.017505371,Skilled_Nursing_Facility
+124,8/21/21,8/23/21,NA,45,18,2,538,Male,Not Hispanic or Latino,White or Caucasian,94121,Commercial,0,1,1,0,1,0,2.152271771,Home_or_Self_Care
+125,7/31/21,11/15/21,NA,71,17,107,517,Female,Not Hispanic or Latino,White or Caucasian,94133,Medicare,17,0,1,0,0,1,3.7637824,Home_Health_Care
+126,1/31/21,2/6/21,NA,35,11,6,336,Male,Not Hispanic or Latino,Asian,94134,Commercial,0,1,0,0,1,0,3.98243549,Home_or_Self_Care
+127,9/25/20,9/30/20,NA,85,7,6,207,Female,Not Hispanic or Latino,White or Caucasian,94122,Medicare,0,0,1,0,0,0,1.470404567,Home_Health_Care
+128,12/2/21,12/10/21,NA,52,22,8,641,Male,Not Hispanic or Latino,White or Caucasian,94122,Medi-Cal,0,1,1,0,0,0,1.470404567,Home_or_Self_Care
+129,7/25/20,7/31/20,NA,74,5,6,146,Female,Hispanic or Latino,Other,94112,Medicare,0,0,0,1,0,0,3.042419167,Home_Health_Care
+130,10/5/21,10/7/21,NA,38,20,2,583,Female,Not Hispanic or Latino,White or Caucasian,95747,Medicare,0,0,1,0,0,0,92.39073582,Home_or_Self_Care
+131,1/3/21,1/11/21,NA,98,11,8,308,Female,Not Hispanic or Latino,Black or African American,94102,Medicare,0,0,0,0,0,0,2.43157244,Home_Health_Care
+132,11/29/20,12/11/20,NA,28,9,12,273,Female,Not Hispanic or Latino,American Indian or Alaska Native,93940,Medi-Cal,4,0,0,0,0,1,87.08200414,Home_or_Self_Care
+133,10/9/20,10/11/20,NA,75,8,3,221,Male,Hispanic or Latino,Other,94114,Medicare,0,1,0,1,0,0,1.325779489,Home_or_Self_Care
+134,7/22/21,9/23/21,NA,57,17,63,508,Female,Not Hispanic or Latino,White or Caucasian,94143,Medicare,54,0,1,0,0,1,0.000985532,Long_Term_Acute_Care_Facility
+135,7/31/20,8/5/20,NA,50,5,5,152,Female,Hispanic or Latino,Other,94127,Commercial,0,0,0,1,1,0,1.943464976,Home_or_Self_Care
+136,7/10/21,8/4/21,NA,81,17,25,496,Male,Not Hispanic or Latino,White or Caucasian,94939,Medicare,0,1,1,0,0,0,12.65236481,Skilled_Nursing_Facility
+137,8/16/20,8/24/20,NA,39,6,9,167,Male,Hispanic or Latino,American Indian or Alaska Native,93905,Medi-Cal,0,1,0,1,0,0,87.91732483,Home_or_Self_Care
+138,8/17/20,8/22/20,NA,89,6,5,169,Female,Hispanic or Latino,Other,94112,Medi-Cal,0,0,0,1,0,0,3.042419167,Home_or_Self_Care
+139,4/19/21,4/26/21,NA,34,14,8,413,Female,Not Hispanic or Latino,White or Caucasian,94587,Commercial,0,0,1,0,1,0,25.5160742,Home_Health_Care
+140,2/2/21,3/3/21,NA,66,12,29,338,Female,Not Hispanic or Latino,White or Caucasian,94103,Medi-Cal,5,0,1,0,0,1,2.689052947,Skilled_Nursing_Facility
+141,8/24/21,8/28/21,NA,89,18,4,541,Female,Not Hispanic or Latino,White or Caucasian,94612,Medicare,0,0,1,0,0,0,10.71559475,Home_Health_Care
+142,8/26/20,8/29/20,NA,25,6,4,177,Male,Not Hispanic or Latino,Black or African American,94124,Medi-Cal,0,1,0,0,0,0,4.134478502,Home_or_Self_Care
+143,11/15/21,11/18/21,NA,37,21,3,624,Female,Not Hispanic or Latino,Black or African American,94102,Commercial,0,0,0,0,1,0,2.43157244,Home_or_Self_Care
+144,10/18/21,10/31/21,NA,75,20,14,595,Female,Not Hispanic or Latino,White or Caucasian,94134,Medicare,0,0,1,0,0,0,3.98243549,Home_or_Self_Care
+145,10/27/20,10/29/20,NA,24,8,2,240,Male,Hispanic or Latino,Other,94112,Commercial,0,1,0,1,1,0,3.042419167,Home_or_Self_Care
+146,5/10/21,5/11/21,NA,83,15,1,435,Male,Not Hispanic or Latino,White or Caucasian,81632,Medicare,0,1,1,0,0,0,864.8779646,Home_or_Self_Care
+147,12/25/20,1/12/21,NA,91,10,18,299,Female,Not Hispanic or Latino,White or Caucasian,94110,Medicare,6,0,1,0,0,1,2.563001882,Skilled_Nursing_Facility
+148,7/9/20,8/10/20,NA,65,5,32,130,Male,Not Hispanic or Latino,Black or African American,94102,Medicare,9,1,0,0,0,1,2.43157244,Residential_Care_Facility
+149,2/21/21,3/12/21,NA,73,12,19,357,Female,Hispanic or Latino,Other,95354,Medicare,0,0,0,1,0,0,81.40844336,Other_Acute_Care_Hospital
+150,4/17/20,6/25/20,NA,69,2,69,47,Male,Not Hispanic or Latino,Asian,94127,Commercial,49,1,0,0,1,1,1.943464976,Long_Term_Acute_Care_Facility
+151,7/18/20,8/4/20,NA,51,5,17,139,Male,Not Hispanic or Latino,American Indian or Alaska Native,94143,Medi-Cal,10,1,0,0,0,1,0.000985532,Home_or_Self_Care
+152,1/10/21,2/18/21,NA,90,11,39,315,Female,Not Hispanic or Latino,White or Caucasian,94117,Medicare,29,0,1,0,0,1,1.020774481,Skilled_Nursing_Facility
+153,1/7/21,1/26/21,NA,28,11,19,312,Male,Not Hispanic or Latino,Other,95326,Medicare,0,1,0,0,0,0,88.1630124,Home_Health_Care
+154,1/1/21,1/8/21,NA,92,11,7,306,Male,Not Hispanic or Latino,White or Caucasian,94115,Medicare,0,1,1,0,0,0,1.966713721,Skilled_Nursing_Facility
+155,10/6/21,11/2/21,NA,81,20,27,584,Female,Not Hispanic or Latino,White or Caucasian,94117,Medicare,9,0,1,0,0,1,1.020774481,Skilled_Nursing_Facility
+156,2/5/21,2/23/21,NA,67,12,18,341,Female,Not Hispanic or Latino,Native Hawaiian or Other Pacific Islander,94116,Medicare,11,0,0,0,0,1,2.017505371,Home_or_Self_Care
+157,1/7/21,1/11/21,NA,47,11,4,312,Male,Not Hispanic or Latino,White or Caucasian,94904,Commercial,0,1,1,0,1,0,13.69111119,Home_or_Self_Care
+158,8/4/21,8/7/21,NA,78,18,3,521,Male,Not Hispanic or Latino,White or Caucasian,94114,Medicare,0,1,1,0,0,0,1.325779489,Home_or_Self_Care
+159,7/19/21,7/26/21,NA,34,17,7,505,Male,Not Hispanic or Latino,Asian,94124,Medicare,0,1,0,0,0,0,4.134478502,Home_Health_Care
+160,10/30/21,10/31/21,NA,56,20,2,607,Male,Not Hispanic or Latino,White or Caucasian,94117,Medi-Cal,0,1,1,0,0,0,1.020774481,Home_or_Self_Care
+161,7/25/21,7/27/21,NA,62,17,2,511,Female,Not Hispanic or Latino,White or Caucasian,94121,Other,0,0,1,0,0,0,2.152271771,Home_or_Self_Care
+162,7/30/20,8/5/20,NA,71,5,6,151,Female,Not Hispanic or Latino,Native Hawaiian or Other Pacific Islander,94134,Medicare,0,0,0,0,0,0,3.98243549,Home_Health_Care
+163,3/14/20,3/15/20,NA,57,1,1,13,Male,Not Hispanic or Latino,Asian,94116,Commercial,0,1,0,0,1,0,2.017505371,Home_or_Self_Care
+164,1/5/21,1/23/21,NA,67,11,18,310,Female,Hispanic or Latino,White or Caucasian,94134,Medicare,0,0,1,1,0,0,3.98243549,Skilled_Nursing_Facility
+165,7/25/21,7/29/21,NA,48,17,5,510,Male,Not Hispanic or Latino,Black or African American,94591,Medi-Cal,0,1,0,0,0,0,26.84946305,Home_or_Self_Care
+166,7/31/21,8/16/21,NA,49,17,17,516,Female,Hispanic or Latino,Other,95023,Medicare,4,0,0,1,0,1,85.95859085,Home_Health_Care
+167,7/28/21,8/2/21,NA,43,17,5,514,Male,Not Hispanic or Latino,White or Caucasian,94143,Medi-Cal,0,1,1,0,0,0,0.000985532,Home_or_Self_Care
+168,8/12/20,8/14/20,NA,91,6,2,164,Female,Hispanic or Latino,Other,94112,Medicare,0,0,0,1,0,0,3.042419167,Home_or_Self_Care
+169,12/18/20,1/13/21,NA,74,10,26,292,Female,Not Hispanic or Latino,Asian,94116,Medicare,0,0,0,0,0,0,2.017505371,Skilled_Nursing_Facility
+170,12/12/20,12/17/20,NA,72,10,5,286,Female,Not Hispanic or Latino,Black or African American,94124,Medicare,0,0,0,0,0,0,4.134478502,Home_or_Self_Care
+171,8/4/21,8/13/21,NA,25,18,10,520,Female,Hispanic or Latino,Black or African American,94531,Medi-Cal,0,0,0,1,0,0,41.62855244,Home_or_Self_Care
+172,12/23/20,12/28/20,NA,61,10,6,296,Male,Not Hispanic or Latino,White or Caucasian,94901,Commercial,0,1,1,0,1,0,14.75852721,Home_or_Self_Care
+173,8/17/21,8/26/21,NA,58,18,10,533,Female,Not Hispanic or Latino,Black or African American,94103,Medi-Cal,2,0,0,0,0,1,2.689052947,Home_or_Self_Care
+174,9/11/21,9/15/21,NA,28,19,4,559,Male,Not Hispanic or Latino,White or Caucasian,93292,Medi-Cal,0,1,1,0,0,0,202.4944408,Home_or_Self_Care
+175,12/11/20,12/17/20,NA,71,10,6,285,Female,Not Hispanic or Latino,White or Caucasian,94124,Medicare,0,0,1,0,0,0,4.134478502,Skilled_Nursing_Facility
+176,5/24/21,5/30/21,NA,29,15,7,448,Female,Hispanic or Latino,Other,94801,Medi-Cal,0,0,0,1,0,0,13.29271507,Home_or_Self_Care
+177,7/12/21,7/16/21,NA,24,17,4,498,Female,Not Hispanic or Latino,White or Caucasian,95959,Medi-Cal,0,0,1,0,0,0,133.7752735,Home_or_Self_Care
+178,5/6/21,5/8/21,NA,70,15,2,431,Male,Not Hispanic or Latino,White or Caucasian,96022,Medicare,0,1,1,0,0,0,179.3017774,Home_or_Self_Care
+179,8/23/21,8/26/21,NA,82,18,3,540,Male,Hispanic or Latino,White or Caucasian,94110,Medicare,0,1,1,1,0,0,2.563001882,Home_Health_Care
+180,9/10/21,9/15/21,NA,49,19,5,558,Male,Not Hispanic or Latino,White or Caucasian,95988,Medicare,0,1,1,0,0,0,120.5546191,Skilled_Nursing_Facility
+181,8/23/20,9/8/20,NA,53,6,16,175,Male,Not Hispanic or Latino,Black or African American,94132,Medi-Cal,7,1,0,0,0,1,2.918450656,Home_or_Self_Care
+182,10/2/21,10/10/21,NA,47,20,9,579,Male,Not Hispanic or Latino,Asian,94103,Medicare,1,1,0,0,0,1,2.689052947,Home_Health_Care
+183,4/4/20,4/8/20,NA,56,2,5,33,Male,Not Hispanic or Latino,White or Caucasian,94110,Medi-Cal,0,1,1,0,0,0,2.563001882,Skilled_Nursing_Facility
+184,8/6/21,8/9/21,NA,30,18,4,522,Female,Hispanic or Latino,American Indian or Alaska Native,95307,Medicare,0,0,0,1,0,0,83.57699049,Home_or_Self_Care
+185,9/11/21,9/15/21,NA,31,19,4,559,Male,Not Hispanic or Latino,White or Caucasian,93292,Medi-Cal,0,1,1,0,0,0,202.4944408,Home_or_Self_Care
+186,12/21/20,1/7/21,NA,75,10,17,295,Male,Not Hispanic or Latino,Black or African American,94803,Medicare,0,1,0,0,0,0,16.845895,Home_Health_Care
+187,12/17/20,12/22/20,NA,63,10,5,291,Male,Hispanic or Latino,Other,95687,Medicare,0,1,0,1,0,0,48.62522501,Home_or_Self_Care
+188,3/22/20,4/18/20,NA,47,1,27,21,Male,Not Hispanic or Latino,Black or African American,94565,Medi-Cal,18,1,0,0,0,1,34.9899043,Skilled_Nursing_Facility
+189,12/5/20,12/31/20,NA,68,10,26,279,Male,Not Hispanic or Latino,White or Caucasian,94131,Medicare,3,1,1,0,0,1,1.860640641,Other_Acute_Care_Hospital
+190,10/25/20,11/4/20,NA,23,8,10,238,Male,Not Hispanic or Latino,White or Caucasian,93703,Medi-Cal,10,1,1,0,0,1,163.5671552,Other_Acute_Care_Hospital
+191,8/29/20,9/19/20,NA,66,6,21,181,Female,Not Hispanic or Latino,White or Caucasian,94131,Medicare,4,0,1,0,0,1,1.860640641,Home_or_Self_Care
+192,11/29/20,12/11/20,NA,74,9,12,273,Male,Not Hispanic or Latino,White or Caucasian,94117,Medicare,0,1,1,0,0,0,1.020774481,Skilled_Nursing_Facility
+193,10/19/21,10/30/21,NA,55,20,12,596,Female,Not Hispanic or Latino,White or Caucasian,94109,Commercial,0,0,1,0,1,0,2.867305718,Home_or_Self_Care
+194,6/20/21,6/27/21,NA,24,16,8,475,Female,Not Hispanic or Latino,Asian,94501,Medi-Cal,0,0,0,0,0,0,10.9166455,Home_or_Self_Care
+195,8/5/20,8/10/20,NA,36,6,5,157,Male,Not Hispanic or Latino,Asian,95355,Medicare,1,1,0,0,0,1,82.56898795,Home_or_Self_Care
+196,9/15/21,9/27/21,NA,66,19,12,563,Male,Not Hispanic or Latino,Asian,94102,Medicare,0,1,0,0,0,0,2.43157244,Home_Health_Care
+197,8/5/20,8/10/20,NA,65,6,6,156,Male,Not Hispanic or Latino,White or Caucasian,94103,Medicare,1,1,1,0,0,1,2.689052947,Home_Health_Care
+198,1/8/21,1/13/21,NA,77,11,6,312,Female,Not Hispanic or Latino,White or Caucasian,94123,Medicare,0,0,1,0,0,0,2.838844466,Home_Health_Care
+199,9/11/20,9/26/20,NA,100,7,15,194,Female,Not Hispanic or Latino,Asian,96122,Medicare,13,0,0,0,0,1,176.4317112,Hospice
+200,7/22/21,8/18/21,NA,68,17,27,508,Male,Not Hispanic or Latino,White or Caucasian,94117,Medicare,15,1,1,0,0,1,1.020774481,Skilled_Nursing_Facility
+201,8/28/20,8/31/20,NA,66,6,4,179,Male,Not Hispanic or Latino,White or Caucasian,94131,Commercial,0,1,1,0,1,0,1.860640641,Home_or_Self_Care
+202,8/26/21,9/5/21,NA,51,18,10,543,Male,Not Hispanic or Latino,White or Caucasian,95421,Commercial,0,1,1,0,1,0,67.3351974,Home_or_Self_Care
+203,9/27/21,10/1/21,NA,83,19,4,575,Female,Not Hispanic or Latino,White or Caucasian,94121,Medicare,0,0,1,0,0,0,2.152271771,Home_Health_Care
+204,11/19/20,11/24/20,NA,29,9,5,263,Female,Not Hispanic or Latino,Other,93657,Commercial,0,0,0,0,1,0,176.2209824,Home_or_Self_Care
+205,1/4/21,1/7/21,NA,58,11,4,308,Female,Not Hispanic or Latino,White or Caucasian,94117,Medicare,1,0,1,0,0,1,1.020774481,Skilled_Nursing_Facility
+206,7/12/20,7/25/20,NA,69,5,14,132,Female,Not Hispanic or Latino,Asian,94501,Medicare,1,0,0,0,0,1,10.9166455,Hospice
+207,1/3/21,1/9/21,NA,83,11,6,308,Female,Not Hispanic or Latino,White or Caucasian,94112,Medicare,1,0,1,0,0,1,3.042419167,Hospice
+208,11/24/20,12/3/20,NA,66,9,9,268,Female,Not Hispanic or Latino,White or Caucasian,94553,Commercial,0,0,1,0,1,0,24.84373535,Home_or_Self_Care
+209,11/4/21,11/10/21,NA,20,21,6,613,Male,Hispanic or Latino,Other,94107,Medi-Cal,0,1,0,1,0,0,3.44795333,Home_Health_Care
+210,10/21/21,10/25/21,NA,94,20,5,598,Male,Not Hispanic or Latino,Asian,94102,Medicare,0,1,0,0,0,0,2.43157244,Home_or_Self_Care
+211,2/8/21,2/16/21,NA,77,12,8,344,Female,Not Hispanic or Latino,Other,94134,Medicare,0,0,0,0,0,0,3.98243549,Skilled_Nursing_Facility
+212,4/26/20,5/8/20,NA,37,2,12,56,Female,Hispanic or Latino,White or Caucasian,94801,Medi-Cal,0,0,1,1,0,0,13.29271507,Home_or_Self_Care
+213,7/27/21,8/1/21,NA,61,17,5,513,Male,Not Hispanic or Latino,Asian,94116,Commercial,0,1,0,0,1,0,2.017505371,Home_or_Self_Care
+214,7/31/21,8/8/21,NA,44,17,8,517,Female,Not Hispanic or Latino,Black or African American,94115,Medi-Cal,6,0,0,0,0,1,1.966713721,Home_or_Self_Care
+215,11/15/20,11/20/20,NA,73,9,5,259,Male,Not Hispanic or Latino,White or Caucasian,94015,Medicare,0,1,1,0,0,0,5.702175128,Home_or_Self_Care
+216,8/21/20,8/29/20,NA,52,6,8,173,Female,Hispanic or Latino,Other,94112,Commercial,0,0,0,1,1,0,3.042419167,Home_or_Self_Care
+217,12/7/20,12/14/20,NA,94,10,7,281,Male,Not Hispanic or Latino,Native Hawaiian or Other Pacific Islander,94134,Medicare,0,1,0,0,0,0,3.98243549,Other_Acute_Care_Hospital
+218,8/21/21,8/25/21,NA,57,18,4,538,Female,Not Hispanic or Latino,White or Caucasian,93230,Commercial,0,0,1,0,1,0,184.3597458,Home_or_Self_Care
+219,12/30/20,1/5/21,NA,86,10,6,304,Female,Not Hispanic or Latino,Other,94112,Medicare,0,0,0,0,0,0,3.042419167,Skilled_Nursing_Facility
+220,2/15/21,2/18/21,NA,34,12,3,351,Male,Not Hispanic or Latino,Asian,94134,Medi-Cal,0,1,0,0,0,0,3.98243549,Home_or_Self_Care
+221,3/16/20,3/20/20,NA,31,1,4,15,Female,Not Hispanic or Latino,Asian,94121,Commercial,0,0,0,0,1,0,2.152271771,Home_or_Self_Care
+222,1/28/21,1/30/21,NA,79,11,2,333,Male,Not Hispanic or Latino,Asian,94102,Medicare,1,1,0,0,0,1,2.43157244,Skilled_Nursing_Facility
+223,10/14/21,10/18/21,NA,73,20,4,592,Female,Not Hispanic or Latino,White or Caucasian,94116,Medicare,0,0,1,0,0,0,2.017505371,Home_Health_Care
+224,12/16/20,12/18/20,NA,39,10,2,290,Female,Hispanic or Latino,Other,94014,Commercial,0,0,0,1,1,0,4.433394517,Home_or_Self_Care
+225,2/4/21,4/5/21,NA,69,12,60,340,Female,Not Hispanic or Latino,Asian,94122,Medicare,40,0,0,0,0,1,1.470404567,Skilled_Nursing_Facility
+226,11/8/20,11/13/20,NA,74,9,6,251,Female,Not Hispanic or Latino,Asian,94112,Medicare,0,0,0,0,0,0,3.042419167,Skilled_Nursing_Facility
+227,12/3/20,12/10/20,NA,87,10,8,276,Female,Not Hispanic or Latino,Asian,94112,Medicare,0,0,0,0,0,0,3.042419167,Skilled_Nursing_Facility
+228,8/31/20,9/3/20,NA,70,6,4,182,Female,Not Hispanic or Latino,Asian,14541,Medicare,0,0,0,0,0,0,2405.586799,Home_or_Self_Care
+229,7/31/20,9/3/20,NA,89,5,34,152,Male,Not Hispanic or Latino,White or Caucasian,94104,Medicare,32,1,1,0,0,1,3.677478772,Long_Term_Acute_Care_Facility
+230,2/8/21,2/19/21,NA,72,12,11,344,Female,Not Hispanic or Latino,Asian,94102,Medicare,0,0,0,0,0,0,2.43157244,Skilled_Nursing_Facility
+231,5/18/21,5/20/21,NA,49,15,2,443,Male,Not Hispanic or Latino,Black or African American,94102,Medi-Cal,0,1,0,0,0,0,2.43157244,Home_or_Self_Care
+232,3/20/21,3/30/21,NA,62,13,11,383,Male,Not Hispanic or Latino,Black or African American,94103,Medicare,0,1,0,0,0,0,2.689052947,Home_Health_Care
+233,5/17/20,5/21/20,NA,93,3,4,77,Male,Not Hispanic or Latino,Asian,94158,Medicare,0,1,0,0,0,0,3.76224883,Skilled_Nursing_Facility
+234,12/30/20,1/3/21,NA,45,10,4,304,Male,Hispanic or Latino,Other,93906,Medicare,0,1,0,1,0,0,85.52462625,Home_or_Self_Care
+235,8/10/20,8/21/20,NA,100,6,11,162,Male,Not Hispanic or Latino,Asian,94501,Medicare,0,1,0,0,0,0,10.9166455,Home_Health_Care
+236,11/13/21,11/16/21,NA,62,21,3,622,Female,Not Hispanic or Latino,White or Caucasian,96002,Commercial,0,0,1,0,1,0,191.6300538,Home_or_Self_Care
+237,5/4/20,5/13/20,NA,45,3,9,64,Male,Hispanic or Latino,Other,94124,Medicare,0,1,0,1,0,0,4.134478502,Home_or_Self_Care
+238,11/29/20,1/13/21,NA,81,9,45,273,Male,Not Hispanic or Latino,Asian,94116,Medicare,8,1,0,0,0,1,2.017505371,Skilled_Nursing_Facility
+239,8/17/21,8/23/21,NA,53,18,6,534,Male,Not Hispanic or Latino,White or Caucasian,94127,Commercial,0,1,1,0,1,0,1.943464976,Home_or_Self_Care
+240,1/9/21,1/14/21,NA,74,11,6,313,Male,Not Hispanic or Latino,White or Caucasian,94118,Medicare,1,1,1,0,0,1,1.313586868,Home_or_Self_Care
+241,3/7/20,3/20/20,NA,74,1,13,6,Female,Not Hispanic or Latino,Asian,94015,Medicare,0,0,0,0,0,0,5.702175128,Home_Health_Care
+242,7/6/21,8/13/21,NA,51,17,39,491,Male,Not Hispanic or Latino,Black or African American,94565,Medi-Cal,28,1,0,0,0,1,34.9899043,Home_or_Self_Care
+243,4/25/20,5/4/20,NA,74,2,9,55,Male,Not Hispanic or Latino,White or Caucasian,94116,Medicare,0,1,1,0,0,0,2.017505371,Assisted_Living_Intermediate_Care_Facility
+244,8/9/21,8/19/21,NA,50,18,11,525,Female,Not Hispanic or Latino,Black or African American,94102,Medi-Cal,0,0,0,0,0,0,2.43157244,Home_or_Self_Care
+245,9/20/21,9/30/21,NA,59,19,10,568,Male,Not Hispanic or Latino,Black or African American,94703,Medicare,0,1,0,0,0,0,12.12474562,Home_Health_Care
+246,7/31/21,8/24/21,NA,71,17,24,517,Female,Hispanic or Latino,White or Caucasian,94102,Medicare,0,0,1,1,0,0,2.43157244,Home_Health_Care
+247,4/21/20,4/23/20,NA,57,2,2,51,Male,Hispanic or Latino,White or Caucasian,94103,Medicare,0,1,1,1,0,0,2.689052947,Other_Acute_Care_Hospital
+248,1/20/21,1/26/21,NA,60,11,6,325,Female,Not Hispanic or Latino,Asian,94533,Medicare,0,0,0,0,0,0,41.82446197,Home_or_Self_Care
+249,1/27/21,2/1/21,NA,36,11,5,332,Female,Hispanic or Latino,White or Caucasian,94110,Commercial,0,0,1,1,1,0,2.563001882,Home_or_Self_Care
+250,1/6/21,1/25/21,NA,60,11,19,311,Male,Not Hispanic or Latino,Black or African American,94103,Medicare,0,1,0,0,0,0,2.689052947,Home_or_Self_Care
+251,9/19/20,10/7/20,NA,82,7,18,202,Male,Not Hispanic or Latino,White or Caucasian,94118,Medicare,0,1,1,0,0,0,1.313586868,Skilled_Nursing_Facility
+252,2/6/21,2/10/21,NA,31,12,4,342,Male,Hispanic or Latino,Other,93257,Medicare,0,1,0,1,0,0,224.061407,Home_or_Self_Care
+253,9/26/20,10/6/20,NA,87,7,10,209,Female,Not Hispanic or Latino,Asian,94112,Medicare,1,0,0,0,0,1,3.042419167,Skilled_Nursing_Facility
+254,1/30/21,1/31/21,NA,68,11,2,334,Male,Not Hispanic or Latino,Native Hawaiian or Other Pacific Islander,95206,Medicare,0,1,0,0,0,0,64.17291261,Home_or_Self_Care
+255,8/10/20,8/14/20,NA,62,6,4,162,Male,Not Hispanic or Latino,Other,94124,Medi-Cal,0,1,0,0,0,0,4.134478502,Home_or_Self_Care
+256,11/7/21,11/12/21,NA,62,21,5,616,Male,Not Hispanic or Latino,White or Caucasian,94143,Medi-Cal,3,1,1,0,0,1,0.000985532,Home_or_Self_Care
+257,1/5/21,1/13/21,NA,26,11,8,310,Male,Not Hispanic or Latino,White or Caucasian,94964,Commercial,2,1,1,0,1,1,12.55074845,Home_or_Self_Care
+258,9/5/20,11/16/20,NA,70,7,72,188,Male,Hispanic or Latino,Other,94806,Medicare,54,1,0,1,0,1,15.86537453,Skilled_Nursing_Facility
+259,12/22/20,1/15/21,NA,79,10,24,296,Male,Not Hispanic or Latino,Asian,94116,Medicare,4,1,0,0,0,1,2.017505371,Skilled_Nursing_Facility
+260,1/28/21,2/10/21,NA,51,11,13,333,Male,Hispanic or Latino,Other,94116,Medi-Cal,0,1,0,1,0,0,2.017505371,Skilled_Nursing_Facility
+261,11/6/20,11/11/20,NA,77,9,5,250,Male,Not Hispanic or Latino,White or Caucasian,94118,Medicare,0,1,1,0,0,0,1.313586868,Hospice
+262,2/7/21,2/9/21,NA,75,12,2,343,Female,Not Hispanic or Latino,Black or African American,94124,Medicare,0,0,0,0,0,0,4.134478502,Home_or_Self_Care
+263,12/25/20,1/14/21,NA,82,10,20,299,Male,Not Hispanic or Latino,Asian,94122,Medicare,0,1,0,0,0,0,1.470404567,Home_or_Self_Care
+264,2/16/21,2/20/21,NA,95,12,4,352,Male,Not Hispanic or Latino,Asian,94112,Medicare,2,1,0,0,0,1,3.042419167,Skilled_Nursing_Facility
+265,1/27/21,2/12/21,NA,79,11,16,332,Female,Not Hispanic or Latino,Asian,94111,Medicare,2,0,0,0,0,1,4.006761658,Home_Health_Care
+266,8/27/20,9/19/20,NA,75,6,23,179,Female,Not Hispanic or Latino,Asian,95127,Medicare,5,0,0,0,0,1,44.30637061,Home_Health_Care
+267,2/23/21,3/2/21,NA,28,12,7,359,Female,Not Hispanic or Latino,Black or African American,94509,Commercial,0,0,0,0,1,0,39.19656684,Home_or_Self_Care
+268,7/29/21,8/13/21,NA,25,17,15,515,Female,Not Hispanic or Latino,Asian,94143,Medi-Cal,0,0,0,0,0,0,0.000985532,Psychiatric_Hospital
+269,4/22/21,4/28/21,NA,53,14,6,417,Female,Hispanic or Latino,Other,93257,Medicare,0,0,0,1,0,0,224.061407,Home_Health_Care
+270,8/1/21,8/22/21,NA,72,18,21,518,Male,Not Hispanic or Latino,White or Caucasian,94131,Medicare,0,1,1,0,0,0,1.860640641,Skilled_Nursing_Facility
+271,8/24/21,8/26/21,NA,45,18,2,541,Female,Not Hispanic or Latino,White or Caucasian,94553,Medi-Cal,0,0,1,0,0,0,24.84373535,Home_Health_Care
+272,1/1/21,1/21/21,NA,42,11,20,306,Female,Hispanic or Latino,Other,95961,Medi-Cal,0,0,0,1,0,0,103.9352002,Home_Health_Care
+273,11/20/20,12/4/20,NA,69,9,14,264,Male,Hispanic or Latino,Other,94114,Medicare,0,1,0,1,0,0,1.325779489,Home_Health_Care
+274,7/21/21,7/21/21,NA,34,17,0,507,Male,Hispanic or Latino,Other,94112,Medi-Cal,0,1,0,1,0,0,3.042419167,Home_or_Self_Care
+275,4/21/21,4/23/21,NA,42,14,2,416,Female,Not Hispanic or Latino,Asian,94122,Commercial,0,0,0,0,1,0,1.470404567,Home_or_Self_Care
+276,1/2/21,1/12/21,NA,65,11,11,306,Male,Not Hispanic or Latino,Black or African American,94109,Medicare,0,1,0,0,0,0,2.867305718,Skilled_Nursing_Facility
+277,7/15/21,7/24/21,NA,71,17,9,501,Female,Not Hispanic or Latino,Other,94555,Medicare,0,0,0,0,0,0,25.96310121,Home_Health_Care
+278,7/4/20,7/23/20,NA,49,5,20,124,Female,Not Hispanic or Latino,Black or African American,94619,Medicare,0,0,0,0,0,0,15.0293327,Home_or_Self_Care
+279,4/29/20,5/6/20,NA,44,2,7,59,Male,Hispanic or Latino,Other,94102,Medi-Cal,4,1,0,1,0,1,2.43157244,Home_or_Self_Care
+280,11/2/20,11/10/20,NA,66,9,8,246,Female,Hispanic or Latino,Other,94112,Medicare,0,0,0,1,0,0,3.042419167,Home_or_Self_Care
+281,11/22/20,11/28/20,NA,41,9,6,266,Female,Not Hispanic or Latino,White or Caucasian,95202,Commercial,0,0,1,0,1,0,65.41082325,Home_Health_Care
+282,2/4/21,2/19/21,NA,61,12,15,340,Male,Not Hispanic or Latino,White or Caucasian,94509,Medicare,0,1,1,0,0,0,39.19656684,Home_Health_Care
+283,10/27/20,11/1/20,NA,76,8,5,240,Female,Hispanic or Latino,Other,94112,Medicare,0,0,0,1,0,0,3.042419167,Home_or_Self_Care
+284,9/1/21,9/8/21,NA,69,19,7,549,Male,Not Hispanic or Latino,Asian,94112,Other,0,1,0,0,0,0,3.042419167,Home_or_Self_Care
+285,1/1/21,1/18/21,NA,84,11,17,306,Female,Not Hispanic or Latino,White or Caucasian,94134,Medicare,0,0,1,0,0,0,3.98243549,Skilled_Nursing_Facility
+286,9/23/21,9/27/21,NA,77,19,5,570,Male,Not Hispanic or Latino,White or Caucasian,94941,Medicare,0,1,1,0,0,0,10.34803612,Home_or_Self_Care
+287,1/2/21,1/6/21,NA,53,11,4,307,Female,Not Hispanic or Latino,White or Caucasian,95409,Commercial,0,0,1,0,1,0,49.13452759,Home_Health_Care
+288,3/22/21,3/25/21,NA,24,13,3,386,Male,Hispanic or Latino,White or Caucasian,94903,Medi-Cal,0,1,1,1,0,0,18.28210748,Home_Health_Care
+289,8/7/20,8/11/20,NA,38,6,4,159,Female,Not Hispanic or Latino,Asian,94122,Medi-Cal,0,0,0,0,0,0,1.470404567,Home_or_Self_Care
+290,11/11/21,11/16/21,NA,81,21,5,620,Female,Not Hispanic or Latino,White or Caucasian,94132,Medicare,2,0,1,0,0,1,2.918450656,Skilled_Nursing_Facility
+291,8/17/21,8/23/21,NA,55,18,6,534,Male,Not Hispanic or Latino,Black or African American,94110,Medi-Cal,0,1,0,0,0,0,2.563001882,Home_or_Self_Care
+292,7/24/21,7/31/21,NA,43,17,8,509,Male,Not Hispanic or Latino,Asian,94122,Commercial,0,1,0,0,1,0,1.470404567,Home_or_Self_Care
+293,8/20/20,8/31/20,NA,59,6,11,172,Female,Not Hispanic or Latino,White or Caucasian,94510,Medi-Cal,0,0,1,0,0,0,26.9809531,Skilled_Nursing_Facility
+294,9/25/21,10/19/21,NA,57,19,24,573,Male,Not Hispanic or Latino,American Indian or Alaska Native,95531,Medi-Cal,0,1,0,0,0,0,291.8293491,Home_or_Self_Care
+295,3/29/20,4/7/20,NA,62,1,9,28,Female,Hispanic or Latino,Other,94122,Medicare,0,0,0,1,0,0,1.470404567,Home_or_Self_Care
+296,7/6/21,7/7/21,NA,89,17,1,492,Male,Not Hispanic or Latino,White or Caucasian,94108,Medicare,0,1,1,0,0,0,3.441856072,Home_or_Self_Care
+297,8/1/20,8/3/20,NA,37,6,2,153,Male,Hispanic or Latino,Other,93906,Medi-Cal,0,1,0,1,0,0,85.52462625,Home_or_Self_Care
+298,8/6/21,8/10/21,NA,33,18,4,523,Female,Not Hispanic or Latino,White or Caucasian,95991,Medi-Cal,0,0,1,0,0,0,103.7066659,Home_or_Self_Care
+299,4/16/21,4/18/21,NA,29,14,2,411,Female,Not Hispanic or Latino,Asian,95776,Medi-Cal,0,0,0,0,0,0,74.36949892,Home_or_Self_Care
+300,9/4/21,9/17/21,NA,82,19,13,552,Male,Not Hispanic or Latino,White or Caucasian,94116,Medicare,3,1,1,0,0,1,2.017505371,Home_Health_Care
+301,8/4/21,8/26/21,NA,27,18,22,521,Male,Not Hispanic or Latino,Asian,95210,Medicare,13,1,0,0,0,1,65.99586595,Home_Health_Care
+302,8/9/21,8/13/21,NA,53,18,4,526,Female,Not Hispanic or Latino,White or Caucasian,95991,Medicare,0,0,1,0,0,0,103.7066659,Home_or_Self_Care
+303,7/19/21,10/6/21,NA,59,17,79,505,Male,Not Hispanic or Latino,White or Caucasian,95623,Medi-Cal,45,1,1,0,0,1,106.5919934,Acute_Rehabilitation_Facility_Other
+304,12/11/20,12/20/20,NA,48,10,9,285,Male,Not Hispanic or Latino,Black or African American,94591,Medicare,0,1,0,0,0,0,26.84946305,Home_Health_Care
+305,8/10/20,8/12/20,NA,50,6,2,162,Male,Hispanic or Latino,White or Caucasian,94134,Commercial,0,1,1,1,1,0,3.98243549,Home_or_Self_Care
+306,5/22/20,6/3/20,NA,82,3,12,82,Male,Not Hispanic or Latino,White or Caucasian,94123,Medicare,0,1,1,0,0,0,2.838844466,Hospice
+307,10/11/20,10/18/20,NA,65,8,7,224,Female,Hispanic or Latino,White or Caucasian,93610,Commercial,0,0,1,1,1,0,128.2989141,Home_or_Self_Care
+308,9/30/21,10/2/21,NA,43,19,2,578,Female,Hispanic or Latino,Other,95358,Medi-Cal,0,0,0,1,0,0,77.70036541,Home_or_Self_Care
+309,3/7/20,3/15/20,NA,75,1,8,6,Male,Not Hispanic or Latino,Asian,94015,Medicare,0,1,0,0,0,0,5.702175128,Home_Health_Care
+310,12/31/20,2/3/21,NA,64,10,34,305,Male,Not Hispanic or Latino,Asian,94122,Medi-Cal,0,1,0,0,0,0,1.470404567,Skilled_Nursing_Facility
+311,3/20/20,3/23/20,NA,50,1,3,19,Female,Hispanic or Latino,Other,95122,Medicare,0,0,0,1,0,0,45.51467162,Home_or_Self_Care
+312,12/19/21,12/31/21,NA,62,22,12,658,Male,Unknown or Declined,Unknown or Declined,94513,Commercial,0,1,0,0,1,0,42.89276115,Other_Acute_Care_Hospital
+313,8/8/21,8/13/21,NA,30,18,5,525,Female,Hispanic or Latino,Other,94551,Medi-Cal,0,0,0,1,0,0,29.97462558,Home_Health_Care
+314,5/22/21,5/26/21,NA,90,15,4,447,Female,Not Hispanic or Latino,Asian,94116,Medicare,0,0,0,0,0,0,2.017505371,Home_Health_Care
+315,4/15/21,4/28/21,NA,74,14,13,410,Female,Not Hispanic or Latino,White or Caucasian,95926,Medicare,0,0,1,0,0,0,140.7623893,Skilled_Nursing_Facility
+316,12/24/21,12/31/21,NA,25,22,7,663,Male,Hispanic or Latino,Other,94112,Commercial,0,1,0,1,1,0,3.042419167,Home_or_Self_Care
+317,1/12/21,1/18/21,NA,65,11,6,317,Male,Not Hispanic or Latino,Black or African American,94188,Commercial,0,1,0,0,1,0,14.81290454,Home_or_Self_Care
+318,8/22/21,9/1/21,NA,66,18,10,539,Male,Not Hispanic or Latino,Native Hawaiian or Other Pacific Islander,94102,Medicare,0,1,0,0,0,0,2.43157244,Home_Health_Care
+319,6/22/20,7/1/20,NA,32,4,9,113,Female,Hispanic or Latino,Other,94901,Medi-Cal,0,0,0,1,0,0,14.75852721,Home_or_Self_Care
+320,1/4/21,1/12/21,NA,56,11,8,309,Male,Not Hispanic or Latino,White or Caucasian,94939,Medi-Cal,6,1,1,0,0,1,12.65236481,Home_or_Self_Care
+321,8/28/20,9/1/20,NA,67,6,5,179,Male,Not Hispanic or Latino,Black or African American,94124,Medicare,0,1,0,0,0,0,4.134478502,Home_Health_Care
+322,9/30/20,10/4/20,NA,35,7,4,213,Female,Hispanic or Latino,Other,94112,Medi-Cal,0,0,0,1,0,0,3.042419167,Home_or_Self_Care
+323,8/19/20,8/26/20,NA,18,6,7,171,Female,Hispanic or Latino,Other,95482,Medi-Cal,0,0,0,1,0,0,104.0993482,Home_or_Self_Care
+324,11/28/20,12/5/20,NA,37,9,7,272,Male,Hispanic or Latino,Other,94110,Medi-Cal,0,1,0,1,0,0,2.563001882,Home_or_Self_Care
+325,10/24/21,10/31/21,NA,61,20,7,602,Male,Not Hispanic or Latino,White or Caucasian,95215,Medicare,0,1,1,0,0,0,70.59013098,Home_or_Self_Care
+326,3/16/21,3/18/21,NA,66,13,2,380,Female,Not Hispanic or Latino,White or Caucasian,95223,Medicare,0,0,1,0,0,0,123.6788602,Other_Acute_Care_Hospital
+327,9/7/20,9/8/20,NA,49,7,2,189,Male,Not Hispanic or Latino,Black or African American,94124,Medi-Cal,0,1,0,0,0,0,4.134478502,Home_or_Self_Care
+328,2/3/21,2/9/21,NA,60,12,6,339,Female,Not Hispanic or Latino,Asian,94117,Medi-Cal,0,0,0,0,0,0,1.020774481,Home_or_Self_Care
+329,2/4/21,3/10/21,NA,54,12,34,340,Female,Not Hispanic or Latino,Black or African American,94590,Medi-Cal,22,0,0,0,0,1,26.30397195,Long_Term_Acute_Care_Facility
+330,3/7/21,3/11/21,NA,68,13,4,371,Female,Not Hispanic or Latino,White or Caucasian,94402,Medicare,0,0,1,0,0,0,16.25848643,Home_Health_Care
+331,12/16/20,12/24/20,NA,93,10,8,290,Female,Unknown or Declined,Asian,94108,Medicare,2,0,0,0,0,1,3.441856072,Skilled_Nursing_Facility
+332,8/1/21,8/6/21,NA,59,17,6,517,Male,Not Hispanic or Latino,Black or African American,94124,Medi-Cal,0,1,0,0,0,0,4.134478502,Home_Health_Care
+333,10/1/20,10/2/20,NA,58,7,2,213,Male,Hispanic or Latino,Other,94103,Medi-Cal,0,1,0,1,0,0,2.689052947,Home_or_Self_Care
+334,9/15/21,9/21/21,NA,67,19,6,563,Male,Not Hispanic or Latino,White or Caucasian,94102,Medicare,0,1,1,0,0,0,2.43157244,Skilled_Nursing_Facility
+335,5/20/20,6/1/20,NA,50,3,12,80,Male,Not Hispanic or Latino,White or Caucasian,94102,Medi-Cal,0,1,1,0,0,0,2.43157244,Home_or_Self_Care
+336,11/17/20,11/22/20,NA,61,9,5,261,Male,Hispanic or Latino,Other,95206,Medicare,0,1,0,1,0,0,64.17291261,Home_or_Self_Care
+337,3/27/21,3/30/21,NA,55,13,4,390,Male,Not Hispanic or Latino,White or Caucasian,94103,Medicare,0,1,1,0,0,0,2.689052947,Home_or_Self_Care
+338,1/12/21,1/15/21,NA,69,11,3,317,Male,Not Hispanic or Latino,Asian,94103,Medicare,0,1,0,0,0,0,2.689052947,Home_or_Self_Care
+339,8/16/21,8/18/21,NA,31,18,3,532,Female,Hispanic or Latino,Other,94130,Medi-Cal,0,0,0,1,0,0,6.226417798,Home_or_Self_Care
+340,8/18/20,8/24/20,NA,54,6,6,170,Male,Not Hispanic or Latino,Asian,94112,Commercial,0,1,0,0,1,0,3.042419167,Home_or_Self_Care
+341,12/15/20,12/22/20,NA,61,10,7,289,Male,Not Hispanic or Latino,Asian,94103,Medi-Cal,0,1,0,0,0,0,2.689052947,Home_or_Self_Care
+342,2/3/21,2/23/21,NA,59,12,20,339,Male,Not Hispanic or Latino,White or Caucasian,94102,Medicare,0,1,1,0,0,0,2.43157244,Home_or_Self_Care
+343,9/28/21,10/5/21,NA,25,19,7,576,Female,Not Hispanic or Latino,Native Hawaiian or Other Pacific Islander,94124,Medi-Cal,0,0,0,0,0,0,4.134478502,Home_or_Self_Care
+344,8/11/21,8/16/21,NA,45,18,5,528,Female,Not Hispanic or Latino,Asian,95209,Medi-Cal,0,0,0,0,0,0,63.7559817,Home_or_Self_Care
+345,7/10/20,7/11/20,NA,68,5,1,131,Female,Hispanic or Latino,Other,93638,Medicare,0,0,0,1,0,0,146.0422689,Home_or_Self_Care
+346,5/16/20,7/1/20,NA,39,3,46,76,Female,Hispanic or Latino,Other,94606,Medi-Cal,31,0,0,1,0,1,11.95460472,Home_or_Self_Care
+347,7/19/20,7/23/20,NA,49,5,4,140,Female,Not Hispanic or Latino,Asian,95330,Other,0,0,0,0,0,0,64.31746089,Home_or_Self_Care
+348,7/10/20,7/17/20,NA,24,5,8,130,Female,Hispanic or Latino,White or Caucasian,94080,Medi-Cal,0,0,1,1,0,0,7.763837091,Home_or_Self_Care
+349,3/31/21,4/4/21,NA,59,13,5,394,Male,Not Hispanic or Latino,White or Caucasian,94619,Medicare,0,1,1,0,0,0,15.0293327,Home_or_Self_Care
+350,12/4/20,12/10/20,NA,34,10,6,278,Male,Hispanic or Latino,Other,94112,Medicare,0,1,0,1,0,0,3.042419167,Home_or_Self_Care
+351,1/7/21,1/14/21,NA,67,11,7,312,Male,Not Hispanic or Latino,White or Caucasian,94116,Medicare,0,1,1,0,0,0,2.017505371,Skilled_Nursing_Facility
+352,5/5/20,5/21/20,NA,47,3,16,65,Male,Not Hispanic or Latino,Other,94124,Medi-Cal,16,1,0,0,0,1,4.134478502,Other_Acute_Care_Hospital
+353,6/10/21,6/11/21,NA,27,16,2,465,Female,Not Hispanic or Latino,Native Hawaiian or Other Pacific Islander,94134,Medi-Cal,0,0,0,0,0,0,3.98243549,Home_or_Self_Care
+354,9/5/20,9/16/20,NA,55,7,11,188,Female,Hispanic or Latino,Other,94806,Medicare,0,0,0,1,0,0,15.86537453,Home_or_Self_Care
+355,1/27/21,2/1/21,NA,98,11,5,332,Female,Not Hispanic or Latino,White or Caucasian,94122,Medicare,0,0,1,0,0,0,1.470404567,Skilled_Nursing_Facility
+356,8/16/20,8/18/20,NA,47,6,2,168,Male,Hispanic or Latino,Other,95358,Commercial,0,1,0,1,1,0,77.70036541,Home_or_Self_Care
+357,3/25/20,4/13/20,NA,97,1,19,24,Male,Not Hispanic or Latino,Asian,94133,Medicare,9,1,0,0,0,1,3.7637824,Skilled_Nursing_Facility
+358,8/29/21,9/3/21,NA,46,18,6,545,Male,Not Hispanic or Latino,White or Caucasian,94131,Commercial,0,1,1,0,1,0,1.860640641,Home_or_Self_Care
+359,1/8/21,1/10/21,NA,70,11,2,313,Female,Not Hispanic or Latino,Asian,94591,Medicare,0,0,0,0,0,0,26.84946305,Home_or_Self_Care
+360,6/21/20,6/29/20,NA,40,4,8,112,Male,Not Hispanic or Latino,Black or African American,94117,Commercial,0,1,0,0,1,0,1.020774481,Home_or_Self_Care
+361,10/11/21,10/28/21,NA,29,20,20,586,Male,Unknown or Declined,Unknown or Declined,94112,Medi-Cal,0,1,0,0,0,0,3.042419167,Home_or_Self_Care
+362,4/1/21,4/7/21,NA,27,14,6,396,Female,Not Hispanic or Latino,Asian,94132,Commercial,0,0,0,0,1,0,2.918450656,Home_or_Self_Care
+363,9/13/21,9/13/21,NA,31,19,0,561,Male,Not Hispanic or Latino,White or Caucasian,93705,Medicare,0,1,1,0,0,0,159.8569694,Home_or_Self_Care
+364,4/29/21,5/1/21,NA,26,14,2,424,Female,Not Hispanic or Latino,Other,94931,Commercial,0,0,0,0,1,0,41.3499418,Home_or_Self_Care
+365,6/19/21,6/22/21,NA,47,16,3,475,Female,Not Hispanic or Latino,Native Hawaiian or Other Pacific Islander,94015,Commercial,0,0,0,0,1,0,5.702175128,Home_or_Self_Care
+366,3/21/21,3/23/21,NA,60,13,2,385,Female,Not Hispanic or Latino,Black or African American,94585,Medicare,0,0,0,0,0,0,39.1178593,Home_or_Self_Care
+367,11/1/20,11/19/20,NA,59,9,18,245,Female,Not Hispanic or Latino,White or Caucasian,94930,Medi-Cal,5,0,1,0,0,1,17.30649019,Long_Term_Acute_Care_Facility
+368,4/29/20,5/1/20,NA,25,2,3,58,Male,Not Hispanic or Latino,White or Caucasian,94116,Commercial,0,1,1,0,1,0,2.017505371,Home_or_Self_Care
+369,3/8/21,3/11/21,NA,61,13,3,372,Male,Not Hispanic or Latino,Black or African American,94589,Medicare,0,1,0,0,0,0,29.12760047,Home_or_Self_Care
+370,7/31/20,8/12/20,NA,47,5,12,152,Male,Not Hispanic or Latino,Black or African American,95829,Commercial,0,1,0,0,1,0,78.01412724,Home_or_Self_Care
+371,9/17/20,2/24/21,NA,74,7,160,200,Male,Not Hispanic or Latino,Black or African American,99999,Medicare,27,1,0,0,0,1,NA,Skilled_Nursing_Facility
+372,1/15/21,1/26/21,NA,88,11,11,320,Male,Hispanic or Latino,Other,94116,Medi-Cal,0,1,0,1,0,0,2.017505371,Skilled_Nursing_Facility
+373,12/16/20,12/18/20,NA,81,10,2,290,Female,Hispanic or Latino,Other,95363,Medicare,0,0,0,1,0,0,74.67451591,Home_or_Self_Care
+374,12/12/20,12/16/20,NA,72,10,4,286,Female,Not Hispanic or Latino,Black or African American,94115,Medicare,0,0,0,0,0,0,1.966713721,Other_Acute_Care_Hospital
+375,1/5/21,1/20/21,NA,83,11,15,310,Female,Not Hispanic or Latino,American Indian or Alaska Native,94122,Medicare,0,0,0,0,0,0,1.470404567,Skilled_Nursing_Facility
+376,1/9/21,1/25/21,NA,59,11,16,314,Female,Not Hispanic or Latino,Asian,94102,Other,1,0,0,0,0,1,2.43157244,Home_or_Self_Care
+377,10/24/20,11/16/20,NA,72,8,23,237,Male,Hispanic or Latino,Other,94112,Medicare,0,1,0,1,0,0,3.042419167,Long_Term_Acute_Care_Facility
+378,7/26/21,8/4/21,NA,51,17,9,512,Female,Not Hispanic or Latino,Black or African American,94607,Medi-Cal,0,0,0,0,0,0,9.752677878,Home_Health_Care
+379,11/25/20,12/8/20,NA,69,9,13,269,Female,Hispanic or Latino,Other,94110,Medicare,0,0,0,1,0,0,2.563001882,Home_or_Self_Care
+380,12/9/20,12/15/20,NA,76,10,6,283,Male,Hispanic or Latino,Other,94112,Medicare,0,1,0,1,0,0,3.042419167,Skilled_Nursing_Facility
+381,2/6/21,3/2/21,NA,37,12,24,342,Male,Hispanic or Latino,Other,94112,Medi-Cal,24,1,0,1,0,1,3.042419167,Other_Acute_Care_Hospital
+382,8/23/21,9/4/21,NA,76,18,12,540,Female,Not Hispanic or Latino,Asian,94117,Medicare,0,0,0,0,0,0,1.020774481,Assisted_Living_Intermediate_Care_Facility
+383,12/11/20,12/18/20,NA,65,10,7,285,Female,Not Hispanic or Latino,Black or African American,95928,Medicare,0,0,0,0,0,0,139.3992107,Other_Acute_Care_Hospital
+384,12/9/20,12/15/20,NA,76,10,8,281,Male,Not Hispanic or Latino,Asian,94116,Medicare,0,1,0,0,0,0,2.017505371,Other_Acute_Care_Hospital
+385,12/7/20,12/9/20,NA,28,10,2,281,Female,Hispanic or Latino,Other,94116,Commercial,0,0,0,1,1,0,2.017505371,Home_or_Self_Care
+386,9/10/21,9/14/21,NA,43,19,4,558,Female,Not Hispanic or Latino,White or Caucasian,94534,Commercial,0,0,1,0,1,0,38.5656829,Home_or_Self_Care
+387,8/10/21,8/20/21,NA,76,18,10,527,Male,Not Hispanic or Latino,White or Caucasian,94708,Medicare,0,1,1,0,0,0,13.99620905,Home_Health_Care
+388,1/15/21,1/24/21,NA,27,11,9,320,Female,Hispanic or Latino,Other,94606,Medi-Cal,0,0,0,1,0,0,11.95460472,Home_or_Self_Care
+389,10/4/21,10/11/21,NA,75,20,7,582,Female,Not Hispanic or Latino,White or Caucasian,94114,Medicare,0,0,1,0,0,0,1.325779489,Home_Health_Care
+390,8/9/21,8/18/21,NA,66,18,10,525,Male,Not Hispanic or Latino,Asian,94127,Medicare,0,1,0,0,0,0,1.943464976,Home_Health_Care
+391,9/29/20,2/8/21,NA,66,7,132,212,Female,Not Hispanic or Latino,Other,94402,Commercial,8,0,0,0,1,1,16.25848643,Acute_Rehabilitation_Facility_Other
+392,9/5/20,9/18/20,NA,85,7,13,188,Male,Hispanic or Latino,White or Caucasian,94116,Medicare,0,1,1,1,0,0,2.017505371,Skilled_Nursing_Facility
+393,10/17/21,10/23/21,NA,28,20,6,595,Female,Not Hispanic or Latino,White or Caucasian,95240,Medi-Cal,0,0,1,0,0,0,70.54254362,Home_Health_Care
+394,1/11/21,1/15/21,NA,63,11,4,316,Male,Not Hispanic or Latino,White or Caucasian,94117,Commercial,0,1,1,0,1,0,1.020774481,Home_or_Self_Care
+395,12/14/21,12/17/21,NA,49,22,3,653,Male,Not Hispanic or Latino,White or Caucasian,94122,Commercial,0,1,1,0,1,0,1.470404567,Home_or_Self_Care
+396,10/24/21,10/26/21,NA,90,20,3,601,Male,Not Hispanic or Latino,Other,94123,Medicare,0,1,0,0,0,0,2.838844466,Home_or_Self_Care
+397,9/27/20,10/13/20,NA,38,7,16,210,Female,Hispanic or Latino,Other,94112,Medi-Cal,5,0,0,1,0,1,3.042419167,Home_or_Self_Care
+398,5/19/20,6/10/20,NA,76,3,22,79,Male,Not Hispanic or Latino,Asian,94131,Medicare,1,1,0,0,0,1,1.860640641,Skilled_Nursing_Facility
+399,9/15/20,9/22/20,NA,47,7,7,198,Male,Hispanic or Latino,Other,95212,Medicare,0,1,0,1,0,0,69.14673389,Home_or_Self_Care
+400,6/3/20,6/4/20,NA,73,4,1,94,Male,Not Hispanic or Latino,Asian,94803,Medicare,0,1,0,0,0,0,16.845895,Home_or_Self_Care
+401,8/6/21,8/12/21,NA,51,18,6,523,Male,Not Hispanic or Latino,Asian,94122,Commercial,0,1,0,0,1,0,1.470404567,Home_or_Self_Care
+402,12/2/21,12/3/21,NA,35,22,1,641,Female,Hispanic or Latino,Black or African American,94121,Commercial,0,0,0,1,1,0,2.152271771,Home_or_Self_Care
+403,10/2/20,10/6/20,NA,80,8,4,215,Female,Not Hispanic or Latino,White or Caucasian,94115,Medicare,0,0,1,0,0,0,1.966713721,Long_Term_Acute_Care_Facility
+404,7/26/21,7/29/21,NA,61,17,3,512,Male,Hispanic or Latino,Other,94124,Commercial,0,1,0,1,1,0,4.134478502,Home_or_Self_Care
+405,12/11/20,12/14/20,NA,78,10,3,285,Male,Hispanic or Latino,Other,94561,Medicare,0,1,0,1,0,0,43.69828547,Home_or_Self_Care
+406,12/23/20,12/24/20,NA,28,10,1,297,Female,Hispanic or Latino,Other,94561,Medi-Cal,0,0,0,1,0,0,43.69828547,Home_or_Self_Care
+407,9/8/21,10/10/21,NA,51,19,32,556,Female,Hispanic or Latino,Other,93657,Medicare,24,0,0,1,0,1,176.2209824,Home_or_Self_Care
+408,8/31/21,9/23/21,NA,89,18,23,548,Female,Not Hispanic or Latino,Black or African American,94115,Medicare,0,0,0,0,0,0,1.966713721,Skilled_Nursing_Facility
+409,10/27/20,10/29/20,NA,53,8,2,240,Male,Not Hispanic or Latino,White or Caucasian,94133,Commercial,0,1,1,0,1,0,3.7637824,Home_or_Self_Care
+410,12/19/20,12/26/20,NA,84,10,7,293,Male,Not Hispanic or Latino,Asian,94111,Medicare,0,1,0,0,0,0,4.006761658,Skilled_Nursing_Facility
+411,1/27/21,2/16/21,NA,77,11,20,332,Female,Not Hispanic or Latino,Asian,94112,Medicare,0,0,0,0,0,0,3.042419167,Home_Health_Care
+412,1/4/21,1/13/21,NA,84,11,9,309,Male,Hispanic or Latino,Other,94116,Medicare,2,1,0,1,0,1,2.017505371,Skilled_Nursing_Facility
+413,4/7/20,4/24/20,5/15/20,83,2,17,37,Male,Not Hispanic or Latino,Native Hawaiian or Other Pacific Islander,94115,Medicare,0,1,0,0,0,0,1.966713721,Long_Term_Acute_Care_Facility
+414,6/27/20,7/2/20,NA,29,4,6,117,Female,Hispanic or Latino,Other,95694,Commercial,0,0,0,1,1,0,59.48526841,Home_or_Self_Care
+415,8/8/21,8/27/21,NA,50,18,19,525,Female,Not Hispanic or Latino,Black or African American,94115,Medi-Cal,0,0,0,0,0,0,1.966713721,Home_Health_Care
+416,7/23/20,7/25/20,NA,50,5,2,144,Male,Hispanic or Latino,White or Caucasian,94901,Medi-Cal,0,1,1,1,0,0,14.75852721,Home_or_Self_Care
+417,2/12/21,2/14/21,NA,29,12,3,347,Male,Not Hispanic or Latino,White or Caucasian,94117,Medi-Cal,0,1,1,0,0,0,1.020774481,Home_or_Self_Care
+418,11/20/20,11/27/20,NA,61,9,8,263,Male,Not Hispanic or Latino,White or Caucasian,94103,Medicare,0,1,1,0,0,0,2.689052947,Home_or_Self_Care
+419,6/22/20,6/24/20,NA,40,4,2,113,Male,Not Hispanic or Latino,Asian,95127,Commercial,0,1,0,0,1,0,44.30637061,Home_or_Self_Care
+420,8/11/20,8/12/20,NA,37,6,1,163,Female,Not Hispanic or Latino,White or Caucasian,94123,Medi-Cal,0,0,1,0,0,0,2.838844466,Home_or_Self_Care
+421,1/22/21,1/27/21,NA,39,11,5,327,Female,Not Hispanic or Latino,Other,95991,Medi-Cal,0,0,0,0,0,0,103.7066659,Home_Health_Care
+422,12/11/21,12/14/21,NA,43,22,3,650,Male,Not Hispanic or Latino,White or Caucasian,94102,Medi-Cal,0,1,1,0,0,0,2.43157244,Home_or_Self_Care
+423,1/5/21,1/20/21,NA,36,11,15,310,Female,Not Hispanic or Latino,Asian,94501,Commercial,1,0,0,0,1,1,10.9166455,Home_or_Self_Care
+424,3/2/21,3/8/21,NA,40,13,6,366,Female,Not Hispanic or Latino,White or Caucasian,94110,Commercial,0,0,1,0,1,0,2.563001882,Home_or_Self_Care
+425,3/15/20,3/19/20,NA,84,1,5,13,Female,Not Hispanic or Latino,White or Caucasian,94116,Medicare,0,0,1,0,0,0,2.017505371,Home_Health_Care
+426,9/3/20,9/16/20,NA,62,7,14,185,Female,Not Hispanic or Latino,White or Caucasian,95361,Medicare,0,0,1,0,0,0,88.20309167,Home_Health_Care
+427,4/5/20,7/24/20,NA,66,2,110,35,Male,Not Hispanic or Latino,White or Caucasian,95762,Medicare,0,1,1,0,0,0,98.76716231,Hospice
+428,1/3/21,1/8/21,NA,60,11,5,308,Female,Not Hispanic or Latino,Black or African American,94621,Medicare,0,0,0,0,0,0,14.73772404,Home_or_Self_Care
+429,12/6/20,12/9/20,NA,61,10,3,280,Male,Not Hispanic or Latino,White or Caucasian,94102,Medicare,0,1,1,0,0,0,2.43157244,Home_or_Self_Care
+430,11/27/20,11/30/20,NA,57,9,3,271,Male,Not Hispanic or Latino,White or Caucasian,94114,Medicare,0,1,1,0,0,0,1.325779489,Home_or_Self_Care
+431,12/17/20,12/21/20,NA,79,10,4,291,Male,Not Hispanic or Latino,White or Caucasian,94116,Medicare,0,1,1,0,0,0,2.017505371,Other_Acute_Care_Hospital
+432,12/12/21,12/16/21,NA,74,22,4,651,Female,Not Hispanic or Latino,Other,94124,Medicare,0,0,0,0,0,0,4.134478502,Home_Health_Care
+433,7/27/20,7/30/20,NA,34,5,3,148,Female,Not Hispanic or Latino,White or Caucasian,79407,Commercial,0,0,1,0,1,0,1185.057123,Home_or_Self_Care
+434,1/18/21,1/22/21,NA,42,11,4,323,Male,Not Hispanic or Latino,Asian,94109,Commercial,0,1,0,0,1,0,2.867305718,Home_or_Self_Care
+435,12/11/21,12/15/21,NA,66,22,5,649,Male,Not Hispanic or Latino,Black or African American,94540,Medicare,0,1,0,0,0,0,29.97462558,Home_or_Self_Care
+436,8/25/21,9/28/21,NA,62,18,35,541,Female,Hispanic or Latino,Other,94579,Medi-Cal,0,0,0,1,0,0,17.44893242,Home_Health_Care
+437,8/7/21,8/10/21,NA,20,18,3,524,Female,Not Hispanic or Latino,Other,94124,Medi-Cal,0,0,0,0,0,0,4.134478502,Home_or_Self_Care
+438,1/6/21,1/12/21,NA,96,11,7,310,Male,Not Hispanic or Latino,White or Caucasian,94112,Medicare,0,1,1,0,0,0,3.042419167,Skilled_Nursing_Facility
+439,4/19/21,4/20/21,NA,38,14,1,414,Male,Not Hispanic or Latino,White or Caucasian,95829,Medicare,0,1,1,0,0,0,78.01412724,Home_or_Self_Care
+440,8/18/20,9/7/20,NA,61,6,20,170,Female,Not Hispanic or Latino,Asian,94551,Commercial,5,0,0,0,1,1,29.97462558,Home_Health_Care
+441,2/6/21,2/9/21,NA,31,12,3,342,Male,Not Hispanic or Latino,White or Caucasian,94110,Medi-Cal,0,1,1,0,0,0,2.563001882,Home_or_Self_Care
+442,1/5/21,1/13/21,NA,26,11,8,310,Male,Not Hispanic or Latino,Asian,94541,Medi-Cal,0,1,0,0,0,0,21.16111386,Home_or_Self_Care
+443,12/1/21,12/5/21,NA,90,21,5,639,Male,Not Hispanic or Latino,White or Caucasian,95418,Medicare,0,1,1,0,0,0,109.4284033,Home_Health_Care
+444,11/4/21,11/6/21,NA,53,21,2,613,Male,Not Hispanic or Latino,White or Caucasian,95348,Medi-Cal,0,1,1,0,0,0,111.3077211,Home_Health_Care
+445,9/14/20,10/2/20,NA,66,7,18,197,Male,Not Hispanic or Latino,Asian,94080,Medicare,3,1,0,0,0,1,7.763837091,Home_Health_Care
+446,9/5/21,9/10/21,NA,81,19,5,553,Female,Not Hispanic or Latino,Asian,94122,Medicare,0,0,0,0,0,0,1.470404567,Home_Health_Care
+447,2/14/21,2/21/21,NA,46,12,7,350,Male,Not Hispanic or Latino,Asian,94116,Medi-Cal,0,1,0,0,0,0,2.017505371,Home_Health_Care
+448,1/28/21,1/30/21,NA,73,11,2,333,Female,Not Hispanic or Latino,Asian,94112,Medicare,1,0,0,0,0,1,3.042419167,Home_or_Self_Care
+449,3/1/21,3/4/21,NA,55,13,3,365,Male,Not Hispanic or Latino,Black or African American,94589,Medicare,0,1,0,0,0,0,29.12760047,Home_or_Self_Care
+450,2/18/21,2/21/21,NA,20,12,4,353,Female,Unknown or Declined,Unknown or Declined,95307,Medi-Cal,0,0,0,0,0,0,83.57699049,Home_or_Self_Care
+451,11/29/21,12/11/21,NA,69,21,12,638,Male,Not Hispanic or Latino,White or Caucasian,94954,Medicare,0,1,1,0,0,0,34.09195347,Home_Health_Care
+452,8/4/20,8/5/20,NA,62,6,2,155,Female,Hispanic or Latino,Other,94572,Medicare,0,0,0,1,0,0,21.38462959,Home_or_Self_Care
+453,7/1/20,7/30/20,NA,61,4,30,121,Male,Not Hispanic or Latino,Black or African American,94609,Medi-Cal,3,1,0,0,0,1,11.74441043,Skilled_Nursing_Facility
+454,12/29/20,1/4/21,NA,36,10,6,303,Female,Not Hispanic or Latino,Asian,94110,Commercial,0,0,0,0,1,0,2.563001882,Home_or_Self_Care
+455,5/3/21,5/14/21,NA,43,15,11,428,Male,Not Hispanic or Latino,Black or African American,94131,Commercial,0,1,0,0,1,0,1.860640641,Home_or_Self_Care
+456,12/4/20,12/24/20,NA,53,10,20,278,Female,Hispanic or Latino,Other,95361,Medicare,0,0,0,1,0,0,88.20309167,Home_Health_Care
+457,7/4/20,7/9/20,NA,54,5,5,125,Male,Not Hispanic or Latino,White or Caucasian,94105,Medicare,0,1,1,0,0,0,3.885341834,Home_or_Self_Care
+458,11/18/21,12/3/21,NA,78,21,15,627,Female,Not Hispanic or Latino,White or Caucasian,94123,Medicare,0,0,1,0,0,0,2.838844466,Hospice
+459,3/20/20,3/30/20,NA,62,1,10,19,Female,Not Hispanic or Latino,White or Caucasian,94131,Medi-Cal,0,0,1,0,0,0,1.860640641,Home_or_Self_Care
+460,9/28/21,9/30/21,NA,62,19,2,576,Male,Not Hispanic or Latino,Other,94964,Medi-Cal,0,1,0,0,0,0,12.55074845,Home_or_Self_Care
+461,8/29/21,9/8/21,NA,48,18,10,546,Male,Not Hispanic or Latino,White or Caucasian,95403,Medicare,0,1,1,0,0,0,51.95875929,Home_or_Self_Care
+462,2/1/21,2/1/21,NA,24,12,0,337,Female,Hispanic or Latino,Other,94541,Medi-Cal,0,0,0,1,0,0,21.16111386,Home_or_Self_Care
+463,10/2/21,10/7/21,NA,47,20,5,580,Female,Hispanic or Latino,Other,95670,Commercial,2,0,0,1,1,1,86.45138324,Home_or_Self_Care
+464,2/10/21,2/13/21,NA,43,12,3,346,Female,Hispanic or Latino,Other,94080,Commercial,0,0,0,1,1,0,7.763837091,Home_Health_Care
+465,6/8/20,6/22/20,NA,95,4,14,99,Female,Not Hispanic or Latino,Asian,94133,Medicare,0,0,0,0,0,0,3.7637824,Skilled_Nursing_Facility
+466,7/24/21,7/26/21,NA,22,17,2,510,Female,Not Hispanic or Latino,Other,94109,Medi-Cal,0,0,0,0,0,0,2.867305718,Home_or_Self_Care
+467,10/10/21,12/4/21,NA,72,20,55,588,Male,Not Hispanic or Latino,White or Caucasian,93923,Medicare,33,1,1,0,0,1,91.38750266,Acute_Rehabilitation_Facility_Other
+468,6/12/21,6/16/21,NA,69,16,4,468,Male,Not Hispanic or Latino,Asian,94521,Commercial,0,1,0,0,1,0,29.55365326,Home_Health_Care
+469,11/14/20,11/19/20,NA,60,9,5,258,Male,Not Hispanic or Latino,White or Caucasian,94572,Commercial,0,1,1,0,1,0,21.38462959,Home_or_Self_Care
+470,5/24/20,6/1/20,NA,65,3,8,84,Female,Not Hispanic or Latino,Black or African American,93706,Commercial,0,0,0,0,1,0,162.5518155,Home_Health_Care
+471,1/8/21,1/20/21,NA,43,11,12,313,Male,Not Hispanic or Latino,White or Caucasian,95610,Medi-Cal,0,1,1,0,0,0,91.2181944,Home_Health_Care
+472,12/30/20,1/5/21,NA,44,10,6,304,Female,Hispanic or Latino,Other,95407,Medi-Cal,0,0,0,1,0,0,46.63369682,Home_or_Self_Care
+473,12/17/20,12/19/20,NA,17,10,2,291,Female,Hispanic or Latino,Other,94806,Medi-Cal,0,0,0,1,0,0,15.86537453,Home_or_Self_Care
+474,1/15/21,1/29/21,NA,80,11,15,319,Female,Not Hispanic or Latino,Asian,94133,Medicare,0,0,0,0,0,0,3.7637824,Skilled_Nursing_Facility
+475,10/24/20,10/28/20,NA,50,8,4,237,Male,Hispanic or Latino,White or Caucasian,93906,Medicare,0,1,1,1,0,0,85.52462625,Home_or_Self_Care
+476,1/18/21,1/23/21,NA,39,11,5,323,Male,Not Hispanic or Latino,Black or African American,95476,Commercial,0,1,0,0,1,0,35.45799487,Home_or_Self_Care
+477,8/10/20,8/18/20,NA,66,6,8,162,Male,Hispanic or Latino,White or Caucasian,94901,Medi-Cal,0,1,1,1,0,0,14.75852721,Home_or_Self_Care
+478,7/29/21,8/3/21,NA,80,17,5,515,Female,Not Hispanic or Latino,Asian,94116,Medicare,0,0,0,0,0,0,2.017505371,Home_Health_Care
+479,12/27/21,12/30/21,NA,38,22,3,666,Male,Hispanic or Latino,American Indian or Alaska Native,94114,Commercial,0,1,0,1,1,0,1.325779489,Home_or_Self_Care
+480,1/23/21,1/27/21,NA,55,11,5,327,Male,Hispanic or Latino,Other,94605,Medi-Cal,0,1,0,1,0,0,16.18189276,Home_Health_Care
+481,8/29/21,8/31/21,NA,32,18,2,546,Female,Not Hispanic or Latino,White or Caucasian,95437,Medi-Cal,0,0,1,0,0,0,135.26932,Home_or_Self_Care
+482,12/30/20,2/9/21,NA,63,10,41,304,Male,Not Hispanic or Latino,Native Hawaiian or Other Pacific Islander,94122,Medi-Cal,0,1,0,0,0,0,1.470404567,Skilled_Nursing_Facility
+483,9/11/20,9/13/20,NA,41,7,2,194,Female,Hispanic or Latino,Other,94805,Commercial,0,0,0,1,1,0,14.31231495,Home_or_Self_Care
+484,4/5/20,4/8/20,NA,30,2,3,35,Male,Hispanic or Latino,Other,94131,Commercial,0,1,0,1,1,0,1.860640641,Home_or_Self_Care
+485,4/12/21,4/15/21,NA,69,14,3,407,Male,Not Hispanic or Latino,White or Caucasian,95354,Medicare,1,1,1,0,0,1,81.40844336,Home_or_Self_Care
+486,9/17/21,9/23/21,NA,75,19,6,565,Male,Not Hispanic or Latino,White or Caucasian,94579,Medicare,0,1,1,0,0,0,17.44893242,Home_Health_Care
+487,12/10/20,12/16/20,NA,77,10,6,284,Female,Not Hispanic or Latino,Asian,94103,Medicare,0,0,0,0,0,0,2.689052947,Other_Acute_Care_Hospital
+488,8/31/20,9/9/20,NA,75,6,9,183,Female,Not Hispanic or Latino,Asian,94014,Medicare,0,0,0,0,0,0,4.433394517,Home_Health_Care
+489,1/3/21,1/17/21,NA,50,11,14,308,Male,Hispanic or Latino,Other,94507,Commercial,11,1,0,1,1,1,24.59340747,Home_or_Self_Care
+490,9/11/20,9/16/20,NA,53,7,5,194,Female,Hispanic or Latino,White or Caucasian,93906,Commercial,0,0,1,1,1,0,85.52462625,Home_or_Self_Care
+491,12/9/20,12/10/20,NA,41,10,2,282,Female,Not Hispanic or Latino,Asian,94403,Commercial,0,0,0,0,1,0,17.62345445,Home_or_Self_Care
+492,10/9/21,10/11/21,NA,87,20,2,587,Male,Not Hispanic or Latino,Native Hawaiian or Other Pacific Islander,94122,Medicare,0,1,0,0,0,0,1.470404567,Home_Health_Care
+493,1/12/21,1/14/21,NA,35,11,2,317,Female,Not Hispanic or Latino,Other,94402,Commercial,0,0,0,0,1,0,16.25848643,Home_or_Self_Care
+494,12/21/20,1/19/21,NA,90,10,29,295,Female,Not Hispanic or Latino,Asian,94158,Medicare,1,0,0,0,0,1,3.76224883,Hospice
+495,2/4/21,2/12/21,NA,61,12,8,340,Female,Not Hispanic or Latino,White or Caucasian,95073,Other,1,0,1,0,0,1,59.10649561,Acute_Rehabilitation_Facility_Other
+496,5/5/21,5/9/21,NA,22,15,4,430,Male,Not Hispanic or Latino,Black or African American,94112,Commercial,0,1,0,0,1,0,3.042419167,Home_or_Self_Care
+497,4/16/21,4/29/21,NA,31,14,13,411,Male,Not Hispanic or Latino,Black or African American,94533,Medi-Cal,11,1,0,0,0,1,41.82446197,Other_Acute_Care_Hospital
+498,7/3/20,7/17/20,NA,47,5,14,124,Male,Hispanic or Latino,Other,94964,Other,3,1,0,1,0,1,12.55074845,Other_Acute_Care_Hospital
+499,1/15/21,1/21/21,NA,87,11,6,320,Female,Not Hispanic or Latino,Asian,94116,Medicare,0,0,0,0,0,0,2.017505371,Home_or_Self_Care
+500,7/2/20,8/20/20,NA,53,5,49,123,Male,Hispanic or Latino,Other,95476,Medi-Cal,29,1,0,1,0,1,35.45799487,Other_Acute_Care_Hospital
+501,2/20/21,2/26/21,NA,64,12,6,356,Female,Not Hispanic or Latino,White or Caucasian,96001,Commercial,0,0,1,0,1,0,193.5161885,Home_or_Self_Care
+502,2/1/21,2/4/21,NA,21,12,3,337,Male,Hispanic or Latino,Other,95120,Commercial,0,1,0,1,1,0,50.30033599,Home_or_Self_Care
+503,10/19/20,11/21/20,NA,55,8,33,232,Female,Not Hispanic or Latino,White or Caucasian,95540,Medi-Cal,0,0,1,0,0,0,214.5580315,Home_or_Self_Care
+504,6/5/20,6/7/20,NA,21,4,2,96,Female,Hispanic or Latino,White or Caucasian,94134,Medi-Cal,0,0,1,1,0,0,3.98243549,Home_or_Self_Care
+505,1/26/21,2/4/21,NA,62,11,9,331,Female,Hispanic or Latino,White or Caucasian,95482,Medi-Cal,0,0,1,1,0,0,104.0993482,Home_or_Self_Care
+506,9/22/21,9/24/21,NA,63,19,2,570,Female,Not Hispanic or Latino,White or Caucasian,95476,Commercial,0,0,1,0,1,0,35.45799487,Home_or_Self_Care
+507,8/14/20,8/22/20,NA,23,6,8,166,Female,Not Hispanic or Latino,White or Caucasian,94111,Commercial,0,0,1,0,1,0,4.006761658,Home_or_Self_Care
+508,1/6/21,1/8/21,NA,58,11,2,311,Male,Not Hispanic or Latino,White or Caucasian,93618,Commercial,0,1,1,0,1,0,189.3284174,Home_or_Self_Care
+509,10/8/20,10/10/20,NA,75,8,2,221,Female,Hispanic or Latino,Other,95341,Medi-Cal,0,0,0,1,0,0,107.0360822,Home_or_Self_Care
+510,9/25/20,10/8/20,NA,51,7,13,208,Female,Not Hispanic or Latino,White or Caucasian,94549,Commercial,0,0,1,0,1,0,20.76148277,Home_Health_Care
+511,3/26/20,3/28/20,NA,87,1,2,25,Male,Hispanic or Latino,Other,94044,Medicare,0,1,0,1,0,0,10.37988138,Home_or_Self_Care
+512,10/26/20,10/29/20,NA,63,8,3,239,Male,Not Hispanic or Latino,White or Caucasian,89450,Commercial,2,1,1,0,1,1,170.7111731,Home_or_Self_Care
+513,2/7/21,2/9/21,NA,75,12,3,342,Male,Hispanic or Latino,White or Caucasian,94545,Medi-Cal,0,1,1,1,0,0,21.32097188,Home_Health_Care
+514,9/10/20,9/17/20,NA,26,7,7,193,Female,Not Hispanic or Latino,Black or African American,95838,Medi-Cal,5,0,0,0,0,1,82.04298743,Home_or_Self_Care
+515,12/14/21,12/18/21,NA,49,22,4,653,Female,Not Hispanic or Latino,Black or African American,94134,Medi-Cal,0,0,0,0,0,0,3.98243549,Home_Health_Care
+516,7/29/21,8/4/21,NA,46,17,7,514,Female,Hispanic or Latino,Other,95374,Medi-Cal,0,0,0,1,0,0,91.69959826,Home_or_Self_Care
+517,4/8/20,4/12/20,NA,25,2,4,38,Female,Not Hispanic or Latino,White or Caucasian,94526,Commercial,0,0,1,0,1,0,26.05746846,Home_or_Self_Care
+518,4/22/20,5/29/20,NA,38,2,37,52,Male,Not Hispanic or Latino,Black or African American,94806,Medicare,20,1,0,0,0,1,15.86537453,Home_Health_Care
+519,11/25/20,4/8/21,NA,52,9,134,269,Male,Not Hispanic or Latino,American Indian or Alaska Native,95453,Commercial,81,1,0,0,1,1,92.34940479,Home_Health_Care
+520,8/11/20,8/31/20,NA,40,6,21,162,Female,Not Hispanic or Latino,Other,95348,Medi-Cal,0,0,0,0,0,0,111.3077211,Home_or_Self_Care
+521,10/21/21,10/28/21,NA,70,20,7,599,Male,Not Hispanic or Latino,White or Caucasian,95461,Medicare,0,1,1,0,0,0,71.38585749,Home_or_Self_Care
+522,7/19/21,7/19/21,NA,29,17,0,505,Female,Unknown or Declined,Unknown or Declined,94541,Commercial,0,0,0,0,1,0,21.16111386,Home_or_Self_Care
+523,12/8/20,12/11/20,NA,28,10,3,282,Female,Not Hispanic or Latino,Black or African American,94117,Commercial,0,0,0,0,1,0,1.020774481,Home_or_Self_Care
+524,5/15/21,6/10/21,NA,50,15,26,440,Male,Hispanic or Latino,White or Caucasian,95212,Medi-Cal,6,1,1,1,0,1,69.14673389,Home_Health_Care
+525,7/21/21,7/24/21,NA,32,17,3,507,Female,Hispanic or Latino,Other,95322,Medi-Cal,0,0,0,1,0,0,87.87003923,Home_or_Self_Care
+526,9/8/21,9/13/21,NA,79,19,5,556,Female,Not Hispanic or Latino,White or Caucasian,94116,Medicare,0,0,1,0,0,0,2.017505371,Home_Health_Care
+527,9/26/21,10/10/21,NA,66,19,15,573,Female,Hispanic or Latino,Other,94619,Medicare,0,0,0,1,0,0,15.0293327,Home_Health_Care
+528,10/24/20,10/28/20,NA,75,8,4,237,Male,Not Hispanic or Latino,Asian,94112,Medicare,0,1,0,0,0,0,3.042419167,Home_Health_Care
+529,2/21/21,2/26/21,NA,68,12,6,356,Female,Not Hispanic or Latino,Asian,94102,Medicare,0,0,0,0,0,0,2.43157244,Home_or_Self_Care
+530,11/7/20,11/14/20,NA,48,9,7,251,Female,Not Hispanic or Latino,Other,96160,Commercial,5,0,0,0,1,1,165.9665499,Home_or_Self_Care
+531,8/7/20,8/14/20,NA,45,6,7,159,Male,Hispanic or Latino,Other,95367,Medi-Cal,0,1,0,1,0,0,82.99216608,Home_or_Self_Care
+532,3/10/21,3/14/21,NA,70,13,4,374,Male,Not Hispanic or Latino,White or Caucasian,94134,Medicare,2,1,1,0,0,1,3.98243549,Skilled_Nursing_Facility
+533,12/26/20,1/7/21,NA,62,10,12,300,Male,Not Hispanic or Latino,Black or African American,94112,Commercial,0,1,0,0,1,0,3.042419167,Home_or_Self_Care
+534,7/28/20,8/3/20,NA,62,5,6,149,Female,Hispanic or Latino,Other,94606,Medi-Cal,0,0,0,1,0,0,11.95460472,Home_or_Self_Care
+535,6/9/20,6/12/20,NA,27,4,3,100,Female,Hispanic or Latino,Other,94112,Medi-Cal,0,0,0,1,0,0,3.042419167,Home_or_Self_Care
+536,1/5/21,1/27/21,NA,34,11,22,310,Female,Hispanic or Latino,Other,93706,Medi-Cal,2,0,0,1,0,1,162.5518155,Home_Health_Care
+537,8/15/20,8/20/20,NA,32,6,5,167,Female,Hispanic or Latino,Other,95407,Commercial,1,0,0,1,1,1,46.63369682,Home_or_Self_Care
+538,9/24/21,10/8/21,NA,78,19,14,572,Female,Not Hispanic or Latino,Black or African American,94561,Medicare,0,0,0,0,0,0,43.69828547,Skilled_Nursing_Facility
+539,5/20/21,5/30/21,NA,59,15,10,445,Male,Hispanic or Latino,White or Caucasian,94941,Commercial,0,1,1,1,1,0,10.34803612,Home_or_Self_Care
+540,12/11/20,12/15/20,NA,91,10,4,285,Female,Not Hispanic or Latino,White or Caucasian,94903,Medicare,0,0,1,0,0,0,18.28210748,Home_Health_Care
+541,6/4/20,6/5/20,NA,59,4,1,95,Female,Hispanic or Latino,White or Caucasian,93726,Medi-Cal,0,0,1,1,0,0,162.8466226,Home_or_Self_Care
+542,5/2/20,5/20/20,NA,62,3,18,62,Male,Not Hispanic or Latino,Black or African American,94545,Medicare,10,1,0,0,0,1,21.32097188,Acute_Rehabilitation_Facility_Other
+543,7/24/21,7/27/21,NA,36,17,3,510,Female,Not Hispanic or Latino,Other,94131,Commercial,0,0,0,0,1,0,1.860640641,Home_or_Self_Care
+544,7/27/20,8/13/20,NA,46,5,18,147,Male,Hispanic or Latino,Other,95351,Medi-Cal,0,1,0,1,0,0,80.51518557,Home_or_Self_Care
+545,6/30/20,7/8/20,NA,47,4,8,121,Male,Not Hispanic or Latino,Black or African American,94964,Other,6,1,0,0,0,1,12.55074845,Skilled_Nursing_Facility
+546,8/20/21,9/4/21,NA,36,18,15,537,Male,Not Hispanic or Latino,Black or African American,95747,Commercial,4,1,0,0,1,1,92.39073582,Home_Health_Care
+547,9/12/21,9/30/21,NA,54,19,19,559,Female,Not Hispanic or Latino,White or Caucasian,94589,Medi-Cal,0,0,1,0,0,0,29.12760047,Home_or_Self_Care
+548,8/21/20,9/6/20,NA,65,6,16,173,Male,Not Hispanic or Latino,Other,94509,Medicare,5,1,0,0,0,1,39.19656684,Home_Health_Care
+549,10/27/21,11/3/21,NA,37,20,6,606,Female,Not Hispanic or Latino,White or Caucasian,93274,Medi-Cal,0,0,1,0,0,0,202.8944714,Home_or_Self_Care
+550,5/7/20,5/26/20,NA,43,3,19,67,Male,Hispanic or Latino,Other,94010,Medi-Cal,19,1,0,1,0,1,13.99067182,Other_Acute_Care_Hospital
+551,3/12/20,4/15/20,NA,46,1,34,11,Male,Unknown or Declined,Unknown or Declined,94103,Commercial,33,1,0,0,1,1,2.689052947,Other_Acute_Care_Hospital
+552,5/10/21,5/15/21,NA,25,15,6,434,Female,Hispanic or Latino,Other,95348,Medi-Cal,0,0,0,1,0,0,111.3077211,Home_Health_Care
+553,11/25/20,12/24/20,NA,69,9,29,269,Male,Not Hispanic or Latino,White or Caucasian,96001,Medicare,2,1,1,0,0,1,193.5161885,Home_Health_Care
+554,8/10/20,8/15/20,NA,72,6,5,162,Female,Not Hispanic or Latino,White or Caucasian,95370,Medicare,0,0,1,0,0,0,116.7137014,Home_Health_Care
+555,5/18/20,5/23/20,NA,36,3,5,78,Male,Hispanic or Latino,Other,94619,Medi-Cal,2,1,0,1,0,1,15.0293327,Home_or_Self_Care
+556,3/30/20,4/13/20,NA,35,1,14,29,Male,Not Hispanic or Latino,Asian,94015,Commercial,2,1,0,0,1,1,5.702175128,Home_or_Self_Care
+557,12/10/20,12/14/20,NA,52,10,4,284,Female,Not Hispanic or Latino,White or Caucasian,96002,Medi-Cal,0,0,1,0,0,0,191.6300538,Home_or_Self_Care
+558,7/17/20,7/24/20,NA,36,5,7,138,Female,Not Hispanic or Latino,Black or African American,94621,Medi-Cal,0,0,0,0,0,0,14.73772404,Home_or_Self_Care
+559,2/3/21,2/5/21,NA,65,12,2,339,Female,Not Hispanic or Latino,Black or African American,94115,Commercial,0,0,0,0,1,0,1.966713721,Home_Health_Care
+560,6/15/21,6/18/21,NA,58,16,3,471,Male,Not Hispanic or Latino,White or Caucasian,95380,Medi-Cal,0,1,1,0,0,0,90.13854365,Home_or_Self_Care
+561,2/18/21,3/5/21,NA,60,12,15,354,Male,Hispanic or Latino,White or Caucasian,95380,Medi-Cal,0,1,1,1,0,0,90.13854365,Home_or_Self_Care
+562,6/17/20,7/15/20,NA,20,4,28,108,Female,Not Hispanic or Latino,White or Caucasian,94541,Medi-Cal,0,0,1,0,0,0,21.16111386,Home_or_Self_Care
+563,1/14/21,1/21/21,NA,71,11,7,319,Female,Not Hispanic or Latino,Asian,94133,Medicare,0,0,0,0,0,0,3.7637824,Skilled_Nursing_Facility
+564,5/24/21,5/29/21,NA,49,15,5,449,Female,Not Hispanic or Latino,White or Caucasian,95423,Commercial,0,0,1,0,1,0,88.51757052,Home_Health_Care
+565,8/7/21,8/11/21,NA,51,18,6,522,Female,Not Hispanic or Latino,White or Caucasian,95125,Commercial,0,0,1,0,1,0,44.66557226,Home_or_Self_Care
+566,12/3/20,12/9/20,NA,49,10,6,277,Female,Hispanic or Latino,Other,95242,Medicare,1,0,0,1,0,1,67.06087668,Home_or_Self_Care
+567,7/23/21,7/26/21,NA,73,17,3,509,Male,Not Hispanic or Latino,Other,94015,Medicare,0,1,0,0,0,0,5.702175128,Home_or_Self_Care
+568,11/6/20,11/12/20,NA,68,9,6,250,Male,Hispanic or Latino,White or Caucasian,95122,Medicare,0,1,1,1,0,0,45.51467162,Home_or_Self_Care
+569,1/4/21,1/7/21,NA,89,11,3,309,Female,Not Hispanic or Latino,White or Caucasian,94112,Medicare,0,0,1,0,0,0,3.042419167,Skilled_Nursing_Facility
+570,6/13/20,6/15/20,NA,28,4,2,104,Female,Hispanic or Latino,Other,95341,Medi-Cal,1,0,0,1,0,1,107.0360822,Home_or_Self_Care
+571,8/23/21,9/16/21,NA,37,18,24,540,Male,Not Hispanic or Latino,Asian,94130,Medi-Cal,0,1,0,0,0,0,6.226417798,Home_Health_Care
+572,1/10/21,3/31/21,NA,44,11,80,315,Male,Hispanic or Latino,Other,93277,Medicare,80,1,0,1,0,1,200.0100423,Other_Acute_Care_Hospital
+573,7/31/20,8/2/20,NA,35,5,2,152,Female,Not Hispanic or Latino,White or Caucasian,94127,Commercial,0,0,1,0,1,0,1.943464976,Home_or_Self_Care
+574,7/17/20,7/24/20,NA,26,5,7,138,Female,Hispanic or Latino,White or Caucasian,95328,Medi-Cal,1,0,1,1,0,1,85.8342675,Home_or_Self_Care
+575,3/11/20,3/23/20,NA,37,1,12,10,Female,Not Hispanic or Latino,Other,94115,Commercial,2,0,0,0,1,1,1.966713721,Home_or_Self_Care
+576,1/3/21,1/14/21,NA,94,11,11,308,Female,Not Hispanic or Latino,Other,94112,Medicare,0,0,0,0,0,0,3.042419167,Skilled_Nursing_Facility
+577,12/4/20,12/11/20,NA,34,10,7,278,Female,Unknown or Declined,Unknown or Declined,95003,Commercial,1,0,0,0,1,1,62.33753498,Home_or_Self_Care
+578,7/31/20,8/20/20,NA,44,5,20,152,Male,Not Hispanic or Latino,Other,93219,Medi-Cal,15,1,0,0,0,1,219.8648111,Other_Acute_Care_Hospital
+579,7/22/21,7/23/21,NA,76,17,1,508,Male,Not Hispanic or Latino,White or Caucasian,94122,Medicare,0,1,1,0,0,0,1.470404567,Home_or_Self_Care
+580,9/10/20,9/12/20,NA,61,7,2,193,Female,Not Hispanic or Latino,White or Caucasian,96062,Commercial,0,0,1,0,1,0,195.1113576,Home_or_Self_Care
+581,12/4/20,12/13/20,NA,51,10,9,278,Male,Hispanic or Latino,White or Caucasian,93722,Medi-Cal,0,1,1,1,0,0,156.3557503,Home_or_Self_Care
+582,1/23/21,1/29/21,NA,69,11,6,328,Male,Not Hispanic or Latino,Asian,94122,Commercial,0,1,0,0,1,0,1.470404567,Home_or_Self_Care
+583,10/13/21,10/21/21,NA,62,20,8,591,Female,Not Hispanic or Latino,White or Caucasian,95501,Commercial,2,0,1,0,1,1,228.1107985,Home_or_Self_Care
+584,12/13/20,12/30/20,NA,78,10,17,287,Male,Not Hispanic or Latino,White or Caucasian,93704,Medicare,3,1,1,0,0,1,160.9518576,Acute_Rehabilitation_Facility_Other
+585,4/28/20,6/25/20,NA,62,2,58,58,Male,Hispanic or Latino,Other,94127,Medicare,51,1,0,1,0,1,1.943464976,Acute_Rehabilitation_Facility_Other
+586,7/7/20,7/23/20,NA,35,5,16,128,Female,Hispanic or Latino,Other,94112,Medi-Cal,0,0,0,1,0,0,3.042419167,Home_or_Self_Care
+587,6/23/20,6/29/20,NA,60,4,6,114,Female,Not Hispanic or Latino,White or Caucasian,94565,Medicare,0,0,1,0,0,0,34.9899043,Home_or_Self_Care
+588,1/1/21,4/14/21,NA,64,11,103,306,Male,Hispanic or Latino,White or Caucasian,94080,Medicare,74,1,1,1,0,1,7.763837091,Skilled_Nursing_Facility
+589,1/2/21,1/18/21,NA,74,11,16,307,Male,Not Hispanic or Latino,Asian,94122,Medicare,0,1,0,0,0,0,1.470404567,Home_or_Self_Care
+590,2/1/21,2/14/21,NA,46,12,13,337,Male,Hispanic or Latino,Other,93230,Commercial,0,1,0,1,1,0,184.3597458,Home_or_Self_Care
+591,5/11/20,5/14/20,NA,77,3,3,71,Male,Not Hispanic or Latino,White or Caucasian,94544,Medicare,0,1,1,0,0,0,23.54449488,Skilled_Nursing_Facility
+592,1/24/21,2/3/21,NA,61,11,10,329,Male,Hispanic or Latino,Other,94901,Medi-Cal,0,1,0,1,0,0,14.75852721,Home_or_Self_Care
+593,1/4/21,1/8/21,NA,61,11,4,309,Female,Not Hispanic or Latino,White or Caucasian,94121,Medicare,0,0,1,0,0,0,2.152271771,Home_or_Self_Care
+594,5/1/20,5/3/20,NA,38,3,2,61,Male,Not Hispanic or Latino,Other,94110,Other,0,1,0,0,0,0,2.563001882,Home_or_Self_Care
+595,12/11/20,1/17/21,NA,73,10,37,285,Female,Not Hispanic or Latino,White or Caucasian,95442,Medicare,2,0,1,0,0,1,41.87020087,Hospice
+596,5/22/20,7/20/20,NA,42,3,59,82,Male,Hispanic or Latino,Other,94601,Medi-Cal,56,1,0,1,0,1,13.21029543,Other_Acute_Care_Hospital
+597,5/2/20,5/5/20,NA,40,3,3,62,Male,Unknown or Declined,Unknown or Declined,94143,Medi-Cal,0,1,0,0,0,0,0.000985532,Home_or_Self_Care
+598,2/9/21,2/11/21,NA,79,12,3,344,Female,Hispanic or Latino,Other,94122,Medicare,0,0,0,1,0,0,1.470404567,Home_or_Self_Care
+599,1/14/21,1/21/21,NA,32,11,7,319,Female,Unknown or Declined,White or Caucasian,94565,Commercial,0,0,1,0,1,0,34.9899043,Home_or_Self_Care
+600,8/17/20,9/18/20,NA,37,6,32,169,Male,Not Hispanic or Latino,White or Caucasian,95215,Medi-Cal,4,1,1,0,0,1,70.59013098,Home_or_Self_Care
+601,9/19/20,9/21/20,NA,60,7,3,201,Male,Not Hispanic or Latino,Asian,94112,Commercial,0,1,0,0,1,0,3.042419167,Home_or_Self_Care
+602,4/22/20,5/4/20,NA,73,2,12,52,Male,Not Hispanic or Latino,White or Caucasian,90272,Commercial,0,1,1,0,1,0,337.5447606,Home_Health_Care
+603,7/31/20,8/6/20,NA,62,5,6,152,Female,Not Hispanic or Latino,Black or African American,94102,Medicare,0,0,0,0,0,0,2.43157244,Home_or_Self_Care
+604,2/26/21,3/2/21,NA,57,12,4,362,Male,Hispanic or Latino,Other,94559,Medi-Cal,0,1,0,1,0,0,37.60674056,Home_or_Self_Care
+605,8/26/20,9/13/20,NA,54,6,18,178,Female,Not Hispanic or Latino,Other,95334,Medi-Cal,13,0,0,0,0,1,98.69526016,Acute_Rehabilitation_Facility_Other
+606,1/8/21,1/31/21,NA,39,11,23,313,Male,Not Hispanic or Latino,White or Caucasian,94544,Medi-Cal,1,1,1,0,0,1,23.54449488,Home_or_Self_Care
+607,2/22/21,3/6/21,NA,83,12,12,358,Male,Not Hispanic or Latino,White or Caucasian,95405,Medicare,2,1,1,0,0,1,48.01760089,Home_Health_Care
+608,7/28/21,8/6/21,NA,77,17,10,513,Female,Not Hispanic or Latino,Black or African American,94124,Medicare,0,0,0,0,0,0,4.134478502,Home_Health_Care
+609,9/13/20,9/14/20,NA,54,7,1,196,Male,Not Hispanic or Latino,White or Caucasian,94002,Commercial,0,1,1,0,1,0,19.34173889,Home_or_Self_Care
+610,9/20/21,10/22/21,NA,22,19,32,568,Male,Hispanic or Latino,Other,95207,Medi-Cal,4,1,0,1,0,1,64.22518302,Home_or_Self_Care
+611,6/30/20,7/10/20,NA,64,4,10,121,Male,Unknown or Declined,Unknown or Declined,94974,Other,5,1,0,0,0,1,26.08237343,Long_Term_Acute_Care_Facility
+612,8/10/21,8/24/21,NA,26,18,14,527,Female,Hispanic or Latino,White or Caucasian,95358,Medi-Cal,7,0,1,1,0,1,77.70036541,Home_or_Self_Care
+613,9/23/20,9/25/20,NA,19,7,2,206,Female,Not Hispanic or Latino,Other,95376,Medi-Cal,0,0,0,0,0,0,56.71023255,Home_or_Self_Care
+614,6/22/20,7/3/20,NA,66,4,11,113,Male,Hispanic or Latino,Other,92026,Medicare,7,1,0,1,0,1,436.5349408,Home_or_Self_Care
+615,7/26/20,9/15/20,NA,58,5,51,147,Male,Hispanic or Latino,American Indian or Alaska Native,94903,Medi-Cal,51,1,0,1,0,1,18.28210748,Other_Acute_Care_Hospital
+616,8/24/20,8/28/20,NA,33,6,4,176,Male,Not Hispanic or Latino,Other,94587,Medi-Cal,0,1,0,0,0,0,25.5160742,Home_Health_Care
+617,8/10/21,8/17/21,NA,66,18,7,527,Male,Hispanic or Latino,Other,94115,Medicare,0,1,0,1,0,0,1.966713721,Skilled_Nursing_Facility
+618,3/31/21,4/2/21,NA,57,13,2,395,Female,Not Hispanic or Latino,White or Caucasian,89701,Commercial,1,0,1,0,1,1,175.425308,Home_or_Self_Care
+619,7/3/21,7/4/21,NA,41,17,1,489,Female,Not Hispanic or Latino,White or Caucasian,95307,Medi-Cal,0,0,1,0,0,0,83.57699049,Home_or_Self_Care
+620,6/26/20,8/15/20,NA,71,4,50,117,Male,Hispanic or Latino,White or Caucasian,94132,Medicare,39,1,1,1,0,1,2.918450656,Skilled_Nursing_Facility
+621,5/29/21,6/1/21,NA,54,15,3,454,Male,Not Hispanic or Latino,Other,94945,Medi-Cal,3,1,0,0,0,1,25.06990582,Other_Acute_Care_Hospital
+622,12/11/20,1/13/21,NA,72,10,34,284,Male,Not Hispanic or Latino,Asian,94116,Medicare,13,1,0,0,0,1,2.017505371,Skilled_Nursing_Facility
+623,7/8/20,7/9/20,NA,52,5,2,128,Male,Hispanic or Latino,Other,94134,Medi-Cal,0,1,0,1,0,0,3.98243549,Home_or_Self_Care
+624,9/17/20,9/18/20,NA,42,7,1,200,Male,Unknown or Declined,Unknown or Declined,95422,Medi-Cal,0,1,0,0,0,0,82.84888541,Home_or_Self_Care
+625,6/30/20,7/20/20,NA,66,4,20,121,Male,Hispanic or Latino,Other,94964,Other,17,1,0,1,0,1,12.55074845,Other_Acute_Care_Hospital
+626,7/17/20,8/4/20,NA,93,5,18,138,Male,Hispanic or Latino,White or Caucasian,95307,Medicare,4,1,1,1,0,1,83.57699049,Skilled_Nursing_Facility
+627,7/8/20,9/4/20,NA,53,5,58,129,Male,Not Hispanic or Latino,Native Hawaiian or Other Pacific Islander,94109,Medi-Cal,39,1,0,0,0,1,2.867305718,Acute_Rehabilitation_Facility_Other
+628,10/2/20,10/15/20,NA,66,8,13,215,Female,Hispanic or Latino,Other,93637,Commercial,0,0,0,1,1,0,139.5196284,Other_Acute_Care_Hospital
+629,12/21/20,1/8/21,NA,85,10,19,294,Female,Not Hispanic or Latino,Asian,94116,Medicare,0,0,0,0,0,0,2.017505371,Home_Health_Care
+630,8/12/20,8/14/20,NA,60,6,3,163,Female,Hispanic or Latino,White or Caucasian,94014,Commercial,0,0,1,1,1,0,4.433394517,Home_or_Self_Care
+631,12/19/20,12/21/20,NA,25,10,2,293,Female,Not Hispanic or Latino,White or Caucasian,93906,Commercial,0,0,1,0,1,0,85.52462625,Home_or_Self_Care
+632,3/11/21,3/18/21,NA,21,13,7,375,Male,Hispanic or Latino,Other,95366,Medi-Cal,0,1,0,1,0,0,73.01444144,Home_or_Self_Care
+633,7/20/20,8/7/20,NA,22,5,18,141,Male,Hispanic or Latino,White or Caucasian,93637,Medi-Cal,14,1,1,1,0,1,139.5196284,Other_Acute_Care_Hospital
+634,7/17/20,8/1/20,NA,62,5,15,138,Male,Not Hispanic or Latino,Asian,94546,Medi-Cal,3,1,0,0,0,1,21.19630166,Other_Acute_Care_Hospital
+635,7/12/21,7/16/21,NA,67,17,4,498,Male,Not Hispanic or Latino,Other,94114,Medicare,0,1,0,0,0,0,1.325779489,Skilled_Nursing_Facility
+636,3/12/21,3/20/21,NA,41,13,8,376,Female,Unknown or Declined,Unknown or Declined,95350,Medicare,0,0,0,0,0,0,79.47505814,Other_Acute_Care_Hospital
+637,8/17/21,8/22/21,NA,69,18,6,533,Female,Hispanic or Latino,Other,94806,Medi-Cal,0,0,0,1,0,0,15.86537453,Home_or_Self_Care
+638,3/26/21,3/30/21,NA,35,13,4,390,Male,Hispanic or Latino,Other,94063,Commercial,0,1,0,1,1,0,23.48052847,Home_or_Self_Care
+639,7/19/20,7/31/20,NA,51,5,12,140,Male,Not Hispanic or Latino,White or Caucasian,94103,Medi-Cal,0,1,1,0,0,0,2.689052947,Home_or_Self_Care
+640,2/6/21,2/9/21,NA,90,12,4,341,Female,Not Hispanic or Latino,Asian,94134,Medi-Cal,0,0,0,0,0,0,3.98243549,Home_Health_Care
+641,4/11/20,4/14/20,NA,41,2,3,41,Male,Hispanic or Latino,Other,99999,Medi-Cal,0,1,0,1,0,0,NA,Home_or_Self_Care
+642,3/23/21,4/7/21,NA,22,13,15,387,Female,Hispanic or Latino,Other,95822,Medi-Cal,0,0,0,1,0,0,73.85088146,Home_Health_Care
+643,10/20/20,11/13/20,NA,62,8,24,233,Female,Not Hispanic or Latino,White or Caucasian,94903,Medicare,16,0,1,0,0,1,18.28210748,Other_Acute_Care_Hospital
+644,3/19/20,3/20/20,NA,58,1,1,18,Male,Not Hispanic or Latino,Black or African American,94925,Commercial,0,1,0,0,1,0,11.54658934,Home_or_Self_Care
+645,5/2/20,5/6/20,NA,35,3,4,62,Female,Hispanic or Latino,Unknown or Declined,99999,Medi-Cal,0,0,0,1,0,0,NA,Other
+646,10/23/20,11/12/20,NA,59,8,20,236,Male,Hispanic or Latino,Other,94112,Medi-Cal,3,1,0,1,0,1,3.042419167,Home_or_Self_Care
+647,11/27/21,12/1/21,NA,27,21,4,636,Female,Hispanic or Latino,American Indian or Alaska Native,94061,Commercial,0,0,0,1,1,0,24.0358426,Home_or_Self_Care
+648,11/7/20,11/21/20,NA,42,9,14,251,Male,Hispanic or Latino,Other,94589,Commercial,0,1,0,1,1,0,29.12760047,Home_or_Self_Care
+649,6/9/21,6/11/21,NA,93,16,2,465,Male,Not Hispanic or Latino,Native Hawaiian or Other Pacific Islander,94531,Medicare,0,1,0,0,0,0,41.62855244,Home_Health_Care
+650,7/8/20,7/12/20,NA,44,5,4,129,Male,Not Hispanic or Latino,White or Caucasian,93908,Commercial,0,1,1,0,1,0,90.54079472,Home_or_Self_Care
+651,10/30/20,11/3/20,NA,44,8,4,243,Female,Unknown or Declined,Unknown or Declined,96001,Medi-Cal,0,0,0,0,0,0,193.5161885,Home_or_Self_Care
+652,12/18/20,12/28/20,NA,56,10,10,292,Male,Not Hispanic or Latino,White or Caucasian,94517,Commercial,0,1,1,0,1,0,31.8902811,Home_or_Self_Care
+653,7/21/20,8/31/20,NA,71,5,41,142,Male,Hispanic or Latino,Other,95380,Medi-Cal,26,1,0,1,0,1,90.13854365,Acute_Rehabilitation_Facility_Other
+654,8/4/20,8/6/20,NA,42,6,2,156,Male,Hispanic or Latino,White or Caucasian,94066,Commercial,0,1,1,1,1,0,9.655826993,Home_or_Self_Care
+655,3/17/20,3/28/20,NA,58,1,11,16,Female,Not Hispanic or Latino,Asian,94132,Medicare,0,0,0,0,0,0,2.918450656,Home_or_Self_Care
+656,11/10/20,11/12/20,NA,22,9,2,254,Female,Hispanic or Latino,White or Caucasian,95358,Medi-Cal,0,0,1,1,0,0,77.70036541,Home_or_Self_Care
+657,5/11/21,5/21/21,NA,33,15,10,436,Female,Unknown or Declined,Unknown or Declined,95428,Medi-Cal,8,0,0,0,0,1,148.2514959,Home_or_Self_Care
+658,10/15/21,10/20/21,NA,62,20,6,592,Male,Hispanic or Latino,Other,94801,Medi-Cal,1,1,0,1,0,1,13.29271507,Home_Health_Care
+659,8/13/20,8/24/20,NA,30,6,11,165,Female,Hispanic or Latino,Other,93648,Medi-Cal,7,0,0,1,0,1,180.0261381,Home_or_Self_Care
+660,12/3/20,12/6/20,NA,22,10,3,277,Female,Hispanic or Latino,Other,94801,Medi-Cal,0,0,0,1,0,0,13.29271507,Home_or_Self_Care
+661,8/7/20,9/14/20,NA,82,6,38,159,Male,Hispanic or Latino,Other,95301,Medicare,0,1,0,1,0,0,105.6264945,Acute_Rehabilitation_Facility_Other
+662,1/14/21,1/25/21,NA,52,11,11,319,Male,Hispanic or Latino,Other,94501,Medicare,1,1,0,1,0,1,10.9166455,Home_or_Self_Care
+663,10/10/21,10/14/21,NA,35,20,4,588,Female,Not Hispanic or Latino,Asian,94066,Commercial,0,0,0,0,1,0,9.655826993,Home_or_Self_Care
+664,12/30/20,1/2/21,NA,27,10,3,304,Female,Not Hispanic or Latino,Asian,94112,Medi-Cal,0,0,0,0,0,0,3.042419167,Home_or_Self_Care
+665,1/12/21,1/19/21,NA,38,11,7,317,Female,Unknown or Declined,Unknown or Declined,95422,Medi-Cal,0,0,0,0,0,0,82.84888541,Home_or_Self_Care
+666,1/20/21,1/27/21,NA,36,11,7,325,Female,Not Hispanic or Latino,Asian,94107,Commercial,0,0,0,0,1,0,3.44795333,Home_Health_Care
+667,8/14/20,9/7/20,NA,21,6,24,166,Female,Hispanic or Latino,Other,95330,Commercial,0,0,0,1,1,0,64.31746089,Other_Acute_Care_Hospital
+668,7/7/20,7/19/20,NA,62,5,13,127,Male,Not Hispanic or Latino,White or Caucasian,95307,Medicare,0,1,1,0,0,0,83.57699049,Home_Health_Care
+669,6/20/20,7/10/20,NA,58,4,20,111,Male,Hispanic or Latino,Other,92231,Commercial,12,1,0,1,1,1,527.2871379,Home_or_Self_Care
+670,6/4/21,6/15/21,NA,60,16,11,460,Male,Not Hispanic or Latino,Unknown or Declined,95470,Medi-Cal,4,1,0,0,0,1,112.8511258,Other_Acute_Care_Hospital
+671,12/1/20,12/2/20,NA,30,10,1,275,Female,Hispanic or Latino,White or Caucasian,93291,Other,0,0,1,1,0,0,198.1141672,Home_or_Self_Care
+672,6/5/20,6/16/20,NA,47,4,11,96,Male,Unknown or Declined,Unknown or Declined,94102,Medi-Cal,11,1,0,0,0,1,2.43157244,Other_Acute_Care_Hospital
+673,9/30/21,10/5/21,NA,62,19,5,578,Male,Hispanic or Latino,Other,95210,Commercial,0,1,0,1,1,0,65.99586595,Home_or_Self_Care
+674,6/8/21,6/19/21,NA,57,16,11,464,Male,Not Hispanic or Latino,White or Caucasian,95382,Medi-Cal,3,1,1,0,0,1,89.6574547,Other_Acute_Care_Hospital
+675,2/10/21,2/22/21,NA,39,12,12,346,Male,Not Hispanic or Latino,Other,94538,Medi-Cal,0,1,0,0,0,0,31.44476765,Other_Acute_Care_Hospital
+676,8/6/21,8/10/21,NA,43,18,4,523,Male,Not Hispanic or Latino,Other,94108,Medi-Cal,0,1,0,0,0,0,3.441856072,Home_or_Self_Care
+677,8/26/20,9/1/20,NA,28,6,6,178,Female,Hispanic or Latino,Other,95301,Medi-Cal,2,0,0,1,0,1,105.6264945,Home_or_Self_Care
+678,11/19/20,12/3/20,NA,54,9,14,263,Female,Hispanic or Latino,Other,94558,Medi-Cal,0,0,0,1,0,0,40.52763801,Home_or_Self_Care
+679,12/30/20,1/1/21,NA,34,10,4,302,Female,Hispanic or Latino,White or Caucasian,94110,Medicare,0,0,1,1,0,0,2.563001882,Home_or_Self_Care
+680,2/7/21,2/22/21,NA,47,12,15,343,Female,Hispanic or Latino,Other,95380,Medi-Cal,5,0,0,1,0,1,90.13854365,Home_or_Self_Care
+681,9/30/20,10/2/20,NA,62,7,2,213,Female,Hispanic or Latino,Other,95355,Commercial,0,0,0,1,1,0,82.56898795,Home_or_Self_Care
+682,9/9/20,9/11/20,NA,64,7,2,192,Female,Not Hispanic or Latino,White or Caucasian,95457,Medi-Cal,0,0,1,0,0,0,79.56686749,Home_or_Self_Care
+683,2/10/21,2/20/21,NA,38,12,10,346,Female,Not Hispanic or Latino,White or Caucasian,93604,Medi-Cal,3,0,1,0,0,1,164.0409636,Other_Acute_Care_Hospital
+684,10/4/20,10/29/20,NA,66,8,25,217,Female,Hispanic or Latino,Other,93927,Medicare,19,0,0,1,0,1,119.7462908,Home_Health_Care
+685,12/23/20,1/4/21,NA,67,10,13,296,Male,Hispanic or Latino,Other,93204,Commercial,0,1,0,1,1,0,181.7645436,Hospice
+686,3/16/21,4/6/21,NA,67,13,21,380,Female,Not Hispanic or Latino,Unknown or Declined,94102,Medi-Cal,0,0,0,0,0,0,2.43157244,Skilled_Nursing_Facility
+687,10/21/20,10/29/20,NA,65,8,8,234,Female,Not Hispanic or Latino,White or Caucasian,95587,Medicare,0,0,1,0,0,0,166.8216333,Home_or_Self_Care
+688,2/20/21,2/25/21,NA,23,12,5,356,Male,Not Hispanic or Latino,Asian,94103,Commercial,0,1,0,0,1,0,2.689052947,Home_or_Self_Care
+689,8/31/21,9/10/21,NA,71,18,10,548,Female,Not Hispanic or Latino,White or Caucasian,94550,Medicare,0,0,1,0,0,0,40.57017265,Skilled_Nursing_Facility
+690,11/13/21,11/19/21,NA,30,21,6,622,Female,Not Hispanic or Latino,Black or African American,94114,Medi-Cal,0,0,0,0,0,0,1.325779489,Home_or_Self_Care
+691,9/5/21,9/15/21,NA,58,19,11,552,Male,Unknown or Declined,Unknown or Declined,95351,Medicare,0,1,0,0,0,0,80.51518557,Skilled_Nursing_Facility
+692,12/12/20,12/18/20,NA,92,10,6,286,Female,Unknown or Declined,Unknown or Declined,94122,Medicare,0,0,0,0,0,0,1.470404567,Other_Acute_Care_Hospital
+693,3/2/21,3/18/21,NA,65,13,16,366,Male,Not Hispanic or Latino,Native Hawaiian or Other Pacific Islander,95688,Medicare,13,1,0,0,0,1,49.60548522,Other_Acute_Care_Hospital
+694,2/24/21,2/27/21,NA,34,12,3,360,Female,Hispanic or Latino,Other,94116,Medi-Cal,0,0,0,1,0,0,2.017505371,Home_or_Self_Care
+695,3/4/21,3/7/21,NA,38,13,3,368,Male,Not Hispanic or Latino,Other,95054,Commercial,0,1,0,0,1,0,37.38586746,Home_or_Self_Care
+696,12/31/20,1/6/21,NA,68,10,6,305,Female,Not Hispanic or Latino,Other,95207,Medicare,3,0,0,0,0,1,64.22518302,Home_or_Self_Care
+697,11/3/21,11/15/21,NA,28,21,12,612,Female,Not Hispanic or Latino,Asian,94124,Medi-Cal,0,0,0,0,0,0,4.134478502,Home_Health_Care
+698,6/2/21,6/10/21,NA,70,16,8,458,Male,Not Hispanic or Latino,White or Caucasian,94010,Medicare,0,1,1,0,0,0,13.99067182,Acute_Rehabilitation_Facility_Other
+699,11/23/20,12/2/20,NA,60,9,9,267,Male,Not Hispanic or Latino,Asian,94109,Medi-Cal,1,1,0,0,0,1,2.867305718,Home_Health_Care
+700,12/10/20,3/22/21,NA,47,10,102,284,Male,Hispanic or Latino,Other,93636,Commercial,102,1,0,1,1,1,155.703808,Other_Acute_Care_Hospital
+701,1/5/21,1/14/21,NA,58,11,9,310,Male,Not Hispanic or Latino,White or Caucasian,95202,Medi-Cal,6,1,1,0,0,1,65.41082325,Skilled_Nursing_Facility
+702,11/11/20,2/14/21,NA,55,9,95,255,Male,Hispanic or Latino,Other,95691,Medi-Cal,87,1,0,1,0,1,74.60497381,Home_Health_Care
+703,11/26/20,12/1/20,NA,31,9,5,270,Female,Not Hispanic or Latino,Other,94040,Commercial,2,0,0,0,1,1,33.33964617,Home_or_Self_Care
+704,12/27/20,1/4/21,NA,75,10,9,300,Male,Not Hispanic or Latino,Asian,94110,Medicare,0,1,0,0,0,0,2.563001882,Home_or_Self_Care
+705,4/19/21,4/19/21,NA,42,14,0,414,Female,Hispanic or Latino,Other,93652,Medi-Cal,0,0,0,1,0,0,162.2201992,Home_or_Self_Care
+706,12/3/20,12/23/20,NA,47,10,20,277,Female,Not Hispanic or Latino,White or Caucasian,94928,Medi-Cal,0,0,1,0,0,0,42.30090579,Home_or_Self_Care
+707,1/2/21,1/13/21,NA,45,11,11,307,Male,Not Hispanic or Latino,White or Caucasian,95357,Medi-Cal,0,1,1,0,0,0,85.31293462,Home_or_Self_Care
+708,5/27/21,5/31/21,NA,40,15,4,452,Female,Hispanic or Latino,Other,95360,Medi-Cal,0,0,0,1,0,0,84.32598873,Home_or_Self_Care
+709,1/12/21,1/27/21,NA,43,11,15,317,Male,Not Hispanic or Latino,White or Caucasian,96001,Commercial,0,1,1,0,1,0,193.5161885,Home_or_Self_Care
+710,11/23/20,1/12/21,NA,53,9,50,267,Female,Not Hispanic or Latino,Asian,95603,Medi-Cal,37,0,0,0,0,1,108.9224159,Other_Acute_Care_Hospital
+711,8/20/21,8/31/21,NA,64,18,11,537,Male,Hispanic or Latino,White or Caucasian,93727,Commercial,5,1,1,1,1,1,167.3898376,Other_Acute_Care_Hospital
+712,6/29/20,7/5/20,NA,65,4,6,120,Female,Not Hispanic or Latino,Black or African American,94112,Medicare,0,0,0,0,0,0,3.042419167,Home_or_Self_Care
+713,12/24/21,12/31/21,NA,70,22,7,663,Unknown,Not Hispanic or Latino,White or Caucasian,4090,Medicare,0,0,1,0,0,0,NA,Home_or_Self_Care
+714,7/31/21,8/4/21,NA,87,17,5,516,Male,Not Hispanic or Latino,Asian,94116,Medicare,0,1,0,0,0,0,2.017505371,Home_Health_Care
+715,6/5/21,6/13/21,NA,31,16,8,461,Male,Hispanic or Latino,Other,94949,Medi-Cal,0,1,0,1,0,0,21.17892987,Home_or_Self_Care
+716,8/23/21,8/25/21,NA,70,18,2,540,Male,Hispanic or Latino,Other,95206,Commercial,2,1,0,1,1,1,64.17291261,Other_Acute_Care_Hospital
+717,1/6/21,3/12/21,NA,69,11,65,311,Male,Not Hispanic or Latino,White or Caucasian,89506,Medicare,50,1,1,0,0,1,191.1642316,Other_Acute_Care_Hospital
+718,4/26/21,5/8/21,NA,83,14,12,421,Male,Not Hispanic or Latino,White or Caucasian,93940,Medicare,4,1,1,0,0,1,87.08200414,Home_Health_Care
+719,12/21/20,12/30/20,NA,79,10,9,295,Male,Hispanic or Latino,White or Caucasian,94061,Medi-Cal,5,1,1,1,0,1,24.0358426,Home_or_Self_Care
+720,1/3/21,1/8/21,NA,31,11,5,308,Female,Not Hispanic or Latino,White or Caucasian,95207,Medi-Cal,0,0,1,0,0,0,64.22518302,Home_or_Self_Care
+721,2/28/21,3/7/21,NA,58,12,7,364,Female,Hispanic or Latino,White or Caucasian,93616,Commercial,2,0,1,1,1,1,175.4774409,Other_Acute_Care_Hospital
+722,10/28/20,11/11/20,NA,57,8,14,241,Male,Not Hispanic or Latino,White or Caucasian,94066,Other,9,1,1,0,0,1,9.655826993,Home_Health_Care
+723,12/5/20,2/6/21,NA,57,10,63,279,Male,Not Hispanic or Latino,Asian,95125,Medi-Cal,40,1,0,0,0,1,44.66557226,Other_Acute_Care_Hospital
+724,9/22/21,10/8/21,NA,46,19,16,570,Female,Hispanic or Latino,Other,95621,Medi-Cal,3,0,0,1,0,1,89.72810674,Other_Acute_Care_Hospital
+725,4/15/21,4/15/21,NA,24,14,1,409,Female,Hispanic or Latino,Other,95380,Medi-Cal,0,0,0,1,0,0,90.13854365,Home_or_Self_Care
+726,1/8/21,2/1/21,NA,41,11,24,313,Female,Unknown or Declined,Unknown or Declined,95023,Commercial,19,0,0,0,1,1,85.95859085,Home_or_Self_Care
+727,2/28/21,3/1/21,NA,86,12,2,363,Female,Not Hispanic or Latino,Asian,94115,Medicare,0,0,0,0,0,0,1.966713721,Home_or_Self_Care
+728,1/2/21,1/5/21,NA,67,11,3,307,Male,Not Hispanic or Latino,Black or African American,94601,Medicare,0,1,0,0,0,0,13.21029543,Home_or_Self_Care
+729,1/5/21,2/10/21,NA,24,11,36,310,Female,Hispanic or Latino,Other,93906,Commercial,24,0,0,1,1,1,85.52462625,Acute_Rehabilitation_Facility_Other
+730,1/11/21,1/22/21,NA,59,11,13,314,Male,Not Hispanic or Latino,White or Caucasian,94143,Medicare,0,1,1,0,0,0,0.000985532,Home_or_Self_Care
+731,3/19/21,6/10/21,NA,51,13,83,383,Male,Not Hispanic or Latino,White or Caucasian,98258,Commercial,60,1,1,0,1,1,708.8783263,Acute_Rehabilitation_Facility_Other
+732,11/19/20,11/19/20,NA,29,9,0,263,Female,Not Hispanic or Latino,Other,95482,Medi-Cal,0,0,0,0,0,0,104.0993482,Home_or_Self_Care
+733,1/3/21,1/11/21,NA,69,11,8,308,Male,Not Hispanic or Latino,White or Caucasian,95490,Medicare,0,1,1,0,0,0,126.5438328,Home_or_Self_Care
+734,8/4/21,8/12/21,NA,31,18,8,521,Male,Not Hispanic or Latino,Black or African American,94945,Medi-Cal,3,1,0,0,0,1,25.06990582,Home_or_Self_Care
+735,4/30/21,5/5/21,NA,29,14,5,425,Male,Hispanic or Latino,Other,94577,Medi-Cal,0,1,0,1,0,0,16.75514116,Home_or_Self_Care
+736,9/23/21,10/10/21,NA,100,19,17,571,Female,Not Hispanic or Latino,Asian,94116,Medicare,0,0,0,0,0,0,2.017505371,Hospice
+737,2/8/21,2/14/21,NA,32,12,6,344,Female,Hispanic or Latino,Other,94515,Commercial,0,0,0,1,1,0,58.15978392,Home_or_Self_Care
+738,11/29/21,12/28/21,NA,58,21,29,638,Male,Not Hispanic or Latino,White or Caucasian,94111,Medi-Cal,0,1,1,0,0,0,4.006761658,Home_or_Self_Care
+739,1/18/21,2/23/21,NA,36,11,36,323,Female,Not Hispanic or Latino,Other,93230,Medi-Cal,25,0,0,0,0,1,184.3597458,Home_Health_Care
+740,1/12/21,1/21/21,NA,66,11,9,317,Male,Unknown or Declined,Unknown or Declined,94102,Medi-Cal,0,1,0,0,0,0,2.43157244,Home_or_Self_Care
+741,1/16/21,2/5/21,NA,56,11,20,321,Female,Not Hispanic or Latino,White or Caucasian,93615,Medi-Cal,11,0,1,0,0,1,195.3975012,Acute_Rehabilitation_Facility_Other
+742,3/18/21,3/27/21,NA,61,13,11,380,Female,Not Hispanic or Latino,White or Caucasian,95635,Commercial,0,0,1,0,1,0,116.1593235,Home_or_Self_Care
+743,3/18/21,3/19/21,NA,29,13,1,382,Female,Not Hispanic or Latino,Black or African American,93722,Commercial,0,0,0,0,1,0,156.3557503,Home_or_Self_Care
+744,6/3/21,6/4/21,NA,50,16,1,459,Female,Not Hispanic or Latino,White or Caucasian,96145,Commercial,0,0,1,0,1,0,158.8643047,Home_or_Self_Care
+745,11/28/20,12/9/20,NA,77,9,11,272,Female,Hispanic or Latino,Other,85142,Medicare,6,0,0,1,0,1,689.6521144,Home_or_Self_Care
+746,12/21/20,1/2/21,NA,59,10,12,295,Male,Unknown or Declined,Unknown or Declined,94553,Medi-Cal,0,1,0,0,0,0,24.84373535,Other_Acute_Care_Hospital
+747,10/7/20,10/13/20,NA,96,8,7,219,Female,Not Hispanic or Latino,White or Caucasian,94122,Medicare,2,0,1,0,0,1,1.470404567,Skilled_Nursing_Facility
+748,7/20/21,7/27/21,NA,65,17,7,506,Male,Hispanic or Latino,Other,94559,Medicare,0,1,0,1,0,0,37.60674056,Home_or_Self_Care
+749,12/27/20,1/5/21,NA,96,10,9,301,Female,Not Hispanic or Latino,White or Caucasian,94112,Medicare,0,0,1,0,0,0,3.042419167,Skilled_Nursing_Facility
+750,2/27/21,3/20/21,NA,33,12,21,363,Male,Hispanic or Latino,Other,95206,Medi-Cal,0,1,0,1,0,0,64.17291261,Home_or_Self_Care
+751,7/16/20,7/30/20,NA,48,5,14,137,Male,Hispanic or Latino,Other,93638,Medi-Cal,2,1,0,1,0,1,146.0422689,Acute_Rehabilitation_Facility_Other
+752,3/26/20,4/17/20,NA,81,1,22,25,Male,Not Hispanic or Latino,White or Caucasian,94118,Medicare,6,1,1,0,0,1,1.313586868,Skilled_Nursing_Facility
+753,6/14/21,8/12/21,NA,48,16,59,470,Male,Hispanic or Latino,American Indian or Alaska Native,98908,Commercial,47,1,0,1,1,1,617.5124965,Home_or_Self_Care
+754,3/19/21,3/26/21,NA,63,13,7,383,Female,Not Hispanic or Latino,White or Caucasian,95112,Medicare,6,0,1,0,0,1,42.48435152,Other_Acute_Care_Hospital
+755,3/7/21,3/10/21,NA,62,13,3,371,Male,Unknown or Declined,Unknown or Declined,95212,Medi-Cal,0,1,0,0,0,0,69.14673389,Other_Acute_Care_Hospital
+756,10/9/20,10/11/20,NA,48,8,2,222,Female,Not Hispanic or Latino,White or Caucasian,97603,Commercial,0,0,1,0,1,0,306.6300589,Home_or_Self_Care
+757,11/28/20,2/9/21,NA,71,9,73,272,Male,Hispanic or Latino,Other,92231,Medicare,35,1,0,1,0,1,527.2871379,Skilled_Nursing_Facility
+758,12/25/20,1/4/21,NA,98,10,10,299,Female,Not Hispanic or Latino,White or Caucasian,94131,Medicare,0,0,1,0,0,0,1.860640641,Skilled_Nursing_Facility
+759,7/1/21,8/31/21,NA,45,17,61,487,Male,Unknown or Declined,Unknown or Declined,94501,Commercial,50,1,0,0,1,1,10.9166455,Acute_Rehabilitation_Facility_Other
+760,11/3/21,11/30/21,NA,49,21,27,612,Female,Not Hispanic or Latino,White or Caucasian,95117,Commercial,0,0,1,0,1,0,41.43644558,Home_Health_Care
+761,4/6/21,4/10/21,NA,37,14,4,401,Female,Hispanic or Latino,Other,94565,Medi-Cal,3,0,0,1,0,1,34.9899043,Other_Acute_Care_Hospital
+762,11/2/20,11/8/20,NA,46,9,6,246,Male,Hispanic or Latino,Other,93210,Medi-Cal,0,1,0,1,0,0,160.7551493,Home_or_Self_Care
+763,5/3/21,5/18/21,NA,57,15,15,428,Female,Not Hispanic or Latino,White or Caucasian,95124,Commercial,0,0,1,0,1,0,45.66183624,Other_Acute_Care_Hospital
+764,1/20/21,1/26/21,NA,58,11,6,325,Female,Not Hispanic or Latino,White or Caucasian,94534,Commercial,0,0,1,0,1,0,38.5656829,Home_or_Self_Care
+765,10/28/20,11/16/20,NA,77,8,19,241,Male,Not Hispanic or Latino,White or Caucasian,95469,Medicare,0,1,1,0,0,0,116.6686812,Acute_Rehabilitation_Facility_Other
+766,8/1/21,8/5/21,NA,18,18,4,518,Female,Unknown or Declined,Unknown or Declined,94590,Medi-Cal,0,0,0,0,0,0,26.30397195,Home_or_Self_Care
+767,1/1/21,1/6/21,2/5/21,55,11,5,306,Male,Not Hispanic or Latino,Asian,94116,Medi-Cal,0,1,0,0,0,0,2.017505371,Home_or_Self_Care
+768,8/4/20,9/18/20,NA,39,6,45,156,Male,Not Hispanic or Latino,Asian,94619,Medi-Cal,45,1,0,0,0,1,15.0293327,Acute_Rehabilitation_Facility_Other
+769,4/15/21,4/21/21,NA,28,14,6,410,Female,Unknown or Declined,Unknown or Declined,94538,Medi-Cal,4,0,0,0,0,1,31.44476765,Home_or_Self_Care
+770,5/6/21,5/13/21,NA,72,15,7,431,Male,Hispanic or Latino,Other,95351,Medicare,1,1,0,1,0,1,80.51518557,Acute_Rehabilitation_Facility_Other
+771,12/3/21,12/6/21,NA,53,22,3,642,Male,Not Hispanic or Latino,White or Caucasian,95536,Commercial,0,1,1,0,1,0,215.8577882,Home_or_Self_Care
+772,1/7/21,2/1/21,NA,54,11,25,312,Male,Hispanic or Latino,Other,93905,Medi-Cal,17,1,0,1,0,1,87.91732483,Home_Health_Care
+773,8/13/21,9/16/21,NA,70,18,34,530,Female,Not Hispanic or Latino,Asian,95111,Medicare,28,0,0,0,0,1,47.92246887,Long_Term_Acute_Care_Facility
+774,4/28/21,5/14/21,NA,58,14,16,423,Male,Not Hispanic or Latino,White or Caucasian,94596,Medi-Cal,0,1,1,0,0,0,23.99485693,Other_Acute_Care_Hospital
+775,12/7/21,12/22/21,NA,88,22,15,646,Male,Not Hispanic or Latino,Asian,94108,Medicare,0,1,0,0,0,0,3.441856072,Home_Health_Care
+776,8/19/21,9/2/21,NA,61,18,14,536,Female,Hispanic or Latino,Other,94010,Commercial,0,0,0,1,1,0,13.99067182,Home_or_Self_Care
+777,1/12/21,1/15/21,NA,20,11,3,317,Female,Not Hispanic or Latino,Unknown or Declined,93727,Medi-Cal,0,0,0,0,0,0,167.3898376,Home_or_Self_Care
+778,8/22/20,9/4/20,NA,21,6,13,174,Female,Not Hispanic or Latino,White or Caucasian,93257,Other,2,0,1,0,0,1,224.061407,Other_Acute_Care_Hospital
+779,2/4/21,3/6/21,NA,76,12,30,340,Female,Not Hispanic or Latino,Asian,94134,Medicare,14,0,0,0,0,1,3.98243549,Skilled_Nursing_Facility
+780,6/15/21,6/29/21,NA,73,16,14,471,Female,Not Hispanic or Latino,Other,95205,Medicare,8,0,0,0,0,1,66.7542693,Home_Health_Care
+781,4/13/20,5/5/20,NA,58,2,22,43,Male,Not Hispanic or Latino,Asian,94123,Medicare,0,1,0,0,0,0,2.838844466,Long_Term_Acute_Care_Facility
+782,8/4/21,8/8/21,NA,61,18,4,521,Male,Not Hispanic or Latino,White or Caucasian,95932,Medi-Cal,0,1,1,0,0,0,105.2995959,Home_or_Self_Care
+783,9/11/21,10/9/21,NA,19,19,28,559,Female,Not Hispanic or Latino,Asian,89434,Other,28,0,0,0,0,1,193.258623,Other_Acute_Care_Hospital
+784,12/31/20,2/17/21,NA,33,10,48,305,Female,Hispanic or Latino,Unknown or Declined,93257,Medi-Cal,48,0,0,1,0,1,224.061407,Other_Acute_Care_Hospital
+785,12/18/20,12/25/20,NA,19,10,7,292,Female,Hispanic or Latino,Other,94134,Medi-Cal,0,0,0,1,0,0,3.98243549,Home_or_Self_Care
+786,2/28/21,3/2/21,NA,29,12,2,364,Male,Hispanic or Latino,White or Caucasian,93610,Medi-Cal,0,1,1,1,0,0,128.2989141,Home_or_Self_Care
+787,9/4/21,9/17/21,NA,96,19,13,552,Female,Not Hispanic or Latino,White or Caucasian,94121,Medicare,0,0,1,0,0,0,2.152271771,Hospice
+788,8/14/21,8/20/21,NA,47,18,6,531,Male,Not Hispanic or Latino,Asian,94132,Medi-Cal,0,1,0,0,0,0,2.918450656,Home_or_Self_Care
+789,10/31/21,11/5/21,NA,63,20,5,609,Male,Hispanic or Latino,Other,95301,Commercial,0,1,0,1,1,0,105.6264945,Other_Acute_Care_Hospital
+790,2/15/21,3/6/21,NA,64,12,19,351,Female,Not Hispanic or Latino,Asian,94122,Commercial,19,0,0,0,1,1,1.470404567,Other_Acute_Care_Hospital
+791,1/26/21,2/11/21,NA,26,11,17,330,Female,Hispanic or Latino,Other,94132,Commercial,0,0,0,1,1,0,2.918450656,Home_or_Self_Care
+792,7/30/21,8/4/21,NA,53,17,5,516,Female,Not Hispanic or Latino,White or Caucasian,94925,Medi-Cal,5,0,1,0,0,1,11.54658934,Home_or_Self_Care
+793,9/16/21,12/2/21,NA,32,19,77,564,Male,Hispanic or Latino,Other,95991,Medi-Cal,66,1,0,1,0,1,103.7066659,Acute_Rehabilitation_Facility_Other
+794,11/6/21,11/9/21,NA,70,21,4,614,Male,Not Hispanic or Latino,Black or African American,94134,Commercial,0,1,0,0,1,0,3.98243549,Home_Health_Care
+795,8/22/21,9/10/21,NA,33,18,19,539,Female,Hispanic or Latino,Other,93906,Commercial,16,0,0,1,1,1,85.52462625,Home_or_Self_Care
+796,8/20/21,8/24/21,NA,28,18,4,537,Female,Unknown or Declined,Unknown or Declined,94085,Medi-Cal,0,0,0,0,0,0,35.36867539,Home_or_Self_Care
+797,12/4/20,12/16/20,NA,48,10,12,278,Female,Hispanic or Latino,Other,94134,Medi-Cal,0,0,0,1,0,0,3.98243549,Home_or_Self_Care
+798,12/17/21,12/23/21,NA,59,22,6,656,Female,Not Hispanic or Latino,Other,95405,Medicare,0,0,0,0,0,0,48.01760089,Home_Health_Care
+799,9/23/21,9/30/21,NA,60,19,8,570,Female,Unknown or Declined,Unknown or Declined,94143,Commercial,0,0,0,0,1,0,0.000985532,Home_or_Self_Care
+800,8/19/20,10/16/20,NA,60,6,58,171,Female,Hispanic or Latino,Other,93905,Medi-Cal,58,0,0,1,0,1,87.91732483,Other_Acute_Care_Hospital
+801,8/27/21,9/17/21,NA,34,18,21,544,Female,Hispanic or Latino,White or Caucasian,95380,Medi-Cal,13,0,1,1,0,1,90.13854365,Home_or_Self_Care
+802,12/12/21,12/29/21,NA,28,22,18,650,Female,Hispanic or Latino,Other,99999,Medi-Cal,0,0,0,1,0,0,NA,Psychiatric_Hospital
+803,10/26/21,11/9/21,NA,61,20,14,604,Male,Not Hispanic or Latino,White or Caucasian,95821,Medi-Cal,8,1,1,0,0,1,83.39738278,Home_Health_Care
+804,9/6/21,9/8/21,NA,20,19,2,554,Female,Hispanic or Latino,Other,93625,Medi-Cal,0,0,0,1,0,0,172.3892915,Home_or_Self_Care
+805,10/13/21,10/15/21,NA,29,20,2,591,Female,Hispanic or Latino,Other,95401,Medi-Cal,0,0,0,1,0,0,49.2431043,Home_or_Self_Care
+806,8/20/21,8/27/21,NA,75,18,7,537,Female,Not Hispanic or Latino,Black or African American,94132,Medicare,0,0,0,0,0,0,2.918450656,Home_Health_Care
+807,9/16/21,9/23/21,NA,56,19,7,564,Female,Hispanic or Latino,White or Caucasian,94112,Medi-Cal,3,0,1,1,0,1,3.042419167,Home_Health_Care
+808,2/15/21,2/23/21,NA,33,12,8,351,Male,Hispanic or Latino,Other,94949,Commercial,0,1,0,1,1,0,21.17892987,Other_Acute_Care_Hospital
+809,10/17/21,10/19/21,NA,25,20,2,595,Male,Not Hispanic or Latino,White or Caucasian,93726,Medi-Cal,0,1,1,0,0,0,162.8466226,Home_or_Self_Care
+810,1/7/21,1/11/21,NA,26,11,4,312,Female,Hispanic or Latino,Other,94533,Medi-Cal,0,0,0,1,0,0,41.82446197,Home_or_Self_Care
+811,9/19/21,10/8/21,NA,34,19,19,567,Female,Not Hispanic or Latino,White or Caucasian,95358,Medi-Cal,1,0,1,0,0,1,77.70036541,Other_Acute_Care_Hospital
+812,10/7/21,10/10/21,NA,57,20,3,585,Female,Not Hispanic or Latino,White or Caucasian,96002,Medi-Cal,3,0,1,0,0,1,191.6300538,Other_Acute_Care_Hospital
+813,7/27/21,8/1/21,NA,45,17,5,513,Female,Not Hispanic or Latino,White or Caucasian,95255,Commercial,0,0,1,0,1,0,117.5500917,Home_or_Self_Care
+814,2/13/21,4/14/21,NA,23,12,60,349,Male,Hispanic or Latino,Other,95076,Medi-Cal,31,1,0,1,0,1,69.17812051,Other_Acute_Care_Hospital
+815,1/13/21,1/22/21,NA,59,11,10,317,Male,Not Hispanic or Latino,Black or African American,94107,Medicare,0,1,0,0,0,0,3.44795333,Home_or_Self_Care
+816,7/25/21,7/30/21,NA,29,17,6,510,Male,Hispanic or Latino,Other,94124,Medi-Cal,0,1,0,1,0,0,4.134478502,Home_or_Self_Care
+817,2/12/21,2/17/21,NA,30,12,6,347,Male,Hispanic or Latino,Other,94143,Medi-Cal,0,1,0,1,0,0,0.000985532,Home_or_Self_Care
+818,5/25/21,5/31/21,NA,36,15,6,450,Male,Hispanic or Latino,Other,93210,Commercial,0,1,0,1,1,0,160.7551493,Other_Acute_Care_Hospital
+819,8/1/21,8/5/21,NA,54,18,4,518,Female,Hispanic or Latino,White or Caucasian,93711,Medi-Cal,0,0,1,1,0,0,158.3154936,Home_or_Self_Care
+820,10/30/21,11/4/21,NA,47,20,5,608,Male,Not Hispanic or Latino,White or Caucasian,96007,Medi-Cal,0,1,1,0,0,0,185.8309606,Home_or_Self_Care
+821,1/31/21,2/4/21,NA,82,11,5,335,Male,Not Hispanic or Latino,White or Caucasian,94132,Medicare,0,1,1,0,0,0,2.918450656,Home_Health_Care
+822,10/15/21,10/20/21,NA,30,20,6,592,Female,Not Hispanic or Latino,Black or African American,99999,Medi-Cal,0,0,0,0,0,0,NA,Home_or_Self_Care
+823,11/10/21,11/23/21,NA,77,21,13,619,Female,Not Hispanic or Latino,White or Caucasian,95758,Medicare,2,0,1,0,0,1,71.21566972,Home_Health_Care
+824,8/1/21,8/7/21,NA,35,18,6,518,Male,Not Hispanic or Latino,Asian,94103,Commercial,0,1,0,0,1,0,2.689052947,Home_or_Self_Care
+825,8/20/20,8/25/20,NA,34,6,5,172,Male,Not Hispanic or Latino,Native Hawaiian or Other Pacific Islander,94112,Medi-Cal,1,1,0,0,0,1,3.042419167,Home_or_Self_Care
+826,6/18/21,6/21/21,NA,29,16,3,474,Female,Unknown or Declined,Unknown or Declined,93727,Medi-Cal,0,0,0,0,0,0,167.3898376,Home_or_Self_Care
+827,11/4/21,11/18/21,NA,73,21,14,613,Female,Not Hispanic or Latino,Asian,94607,Medicare,0,0,0,0,0,0,9.752677878,Skilled_Nursing_Facility
+828,11/13/21,11/19/21,NA,75,21,6,622,Male,Not Hispanic or Latino,Asian,94122,Medicare,0,1,0,0,0,0,1.470404567,Home_or_Self_Care
+829,12/4/20,12/7/20,NA,54,10,3,278,Female,Not Hispanic or Latino,Black or African American,94134,Medicare,0,0,0,0,0,0,3.98243549,Home_or_Self_Care
+830,3/19/21,4/12/21,NA,61,13,24,383,Female,Hispanic or Latino,Other,93640,Medi-Cal,7,0,0,1,0,1,133.7577748,Skilled_Nursing_Facility
+831,11/24/21,12/13/21,NA,48,21,19,633,Male,Not Hispanic or Latino,White or Caucasian,93241,Medicare,1,1,1,0,0,1,262.2740458,Other_Acute_Care_Hospital
+832,9/19/20,10/2/20,NA,98,7,13,202,Female,Not Hispanic or Latino,Black or African American,94110,Medicare,0,0,0,0,0,0,2.563001882,Long_Term_Acute_Care_Facility
+833,12/30/21,12/31/21,NA,24,22,1,669,Male,Not Hispanic or Latino,Other,94112,Commercial,0,1,0,0,1,0,3.042419167,Home_or_Self_Care
+834,12/6/21,12/14/21,NA,41,22,8,645,Male,Not Hispanic or Latino,Asian,94112,Medi-Cal,3,1,0,0,0,1,3.042419167,Home_or_Self_Care
+835,8/30/21,9/9/21,NA,36,18,10,547,Male,Not Hispanic or Latino,Asian,97296,Commercial,0,1,0,0,1,0,539.5299319,Home_or_Self_Care
+836,8/30/21,9/2/21,NA,21,18,3,547,Female,Hispanic or Latino,Other,93702,Medi-Cal,0,0,0,1,0,0,164.8369618,Home_or_Self_Care
+837,1/15/21,2/4/21,NA,49,11,20,320,Male,Hispanic or Latino,White or Caucasian,94122,Medi-Cal,14,1,1,1,0,1,1.470404567,Skilled_Nursing_Facility
+838,9/17/21,9/19/21,NA,56,19,2,565,Male,Hispanic or Latino,Other,94544,Medicare,0,1,0,1,0,0,23.54449488,Home_or_Self_Care
+839,4/22/21,5/20/21,NA,25,14,28,417,Female,Not Hispanic or Latino,Asian,93727,Medi-Cal,4,0,0,0,0,1,167.3898376,Home_or_Self_Care
+840,12/23/20,1/8/21,NA,97,10,16,297,Female,Not Hispanic or Latino,Asian,94116,Medicare,0,0,0,0,0,0,2.017505371,Skilled_Nursing_Facility
+841,9/30/21,10/20/21,NA,59,19,20,578,Male,Not Hispanic or Latino,White or Caucasian,95207,Medi-Cal,1,1,1,0,0,1,64.22518302,Skilled_Nursing_Facility
+842,6/9/20,6/15/20,NA,48,4,6,100,Male,Hispanic or Latino,Other,94112,Medi-Cal,2,1,0,1,0,1,3.042419167,Home_or_Self_Care
+843,6/22/21,6/28/21,NA,52,16,6,478,Male,Hispanic or Latino,Other,94124,Medi-Cal,0,1,0,1,0,0,4.134478502,Home_or_Self_Care
+844,12/17/21,12/22/21,NA,87,22,5,656,Female,Not Hispanic or Latino,Asian,94014,Medicare,0,0,0,0,0,0,4.433394517,Skilled_Nursing_Facility
+845,10/17/21,11/30/21,NA,31,20,44,595,Female,Unknown or Declined,Unknown or Declined,93230,Medi-Cal,33,0,0,0,0,1,184.3597458,Home_or_Self_Care
+846,5/13/21,6/1/21,NA,49,15,19,438,Female,Not Hispanic or Latino,Black or African American,94102,Commercial,15,0,0,0,1,1,2.43157244,Home_Health_Care
+847,3/15/21,3/25/21,NA,68,13,10,379,Female,Not Hispanic or Latino,Black or African American,95350,Medicare,0,0,0,0,0,0,79.47505814,Home_or_Self_Care
+848,11/12/21,11/17/21,NA,87,21,6,620,Female,Unknown or Declined,Unknown or Declined,95476,Other,0,0,0,0,0,0,35.45799487,Residential_Care_Facility
+849,7/26/21,8/2/21,NA,54,17,7,512,Female,Not Hispanic or Latino,White or Caucasian,95451,Commercial,0,0,1,0,1,0,83.07407485,Home_Health_Care
+850,8/28/21,9/3/21,NA,74,18,6,545,Male,Not Hispanic or Latino,Black or African American,94117,Medicare,0,1,0,0,0,0,1.020774481,Skilled_Nursing_Facility
+851,3/3/21,3/12/21,NA,74,13,9,367,Male,Hispanic or Latino,White or Caucasian,94565,Medicare,6,1,1,1,0,1,34.9899043,Hospice
+852,10/27/21,11/8/21,NA,61,20,13,604,Female,Not Hispanic or Latino,Black or African American,94115,Medi-Cal,0,0,0,0,0,0,1.966713721,Home_Health_Care
+853,5/2/21,5/3/21,NA,33,15,1,427,Female,Not Hispanic or Latino,White or Caucasian,94124,Commercial,0,0,1,0,1,0,4.134478502,Home_or_Self_Care
+854,7/14/20,7/18/20,NA,50,5,4,135,Male,Not Hispanic or Latino,White or Caucasian,93277,Commercial,0,1,1,0,1,0,200.0100423,Home_or_Self_Care
+855,7/18/21,7/20/21,NA,53,17,3,503,Male,Hispanic or Latino,Other,94545,Commercial,0,1,0,1,1,0,21.32097188,Home_or_Self_Care
+856,9/22/20,9/30/20,NA,70,7,8,205,Female,Not Hispanic or Latino,Other,94102,Medicare,0,0,0,0,0,0,2.43157244,Home_or_Self_Care
+857,1/6/21,1/13/21,NA,91,11,7,311,Female,Not Hispanic or Latino,White or Caucasian,94115,Medicare,0,0,1,0,0,0,1.966713721,Assisted_Living_Intermediate_Care_Facility
+858,12/7/21,12/9/21,NA,68,22,2,646,Female,Not Hispanic or Latino,White or Caucasian,94117,Medicare,0,0,1,0,0,0,1.020774481,Home_or_Self_Care
+859,5/6/21,5/13/21,NA,69,15,7,431,Male,Not Hispanic or Latino,Black or African American,94115,Medicare,0,1,0,0,0,0,1.966713721,Home_Health_Care
+860,8/30/21,9/3/21,NA,55,18,4,547,Unknown,Not Hispanic or Latino,White or Caucasian,95361,Medi-Cal,0,0,1,0,0,0,88.20309167,Home_or_Self_Care
+861,12/29/20,1/5/21,NA,93,10,7,303,Male,Not Hispanic or Latino,White or Caucasian,94115,Medicare,0,1,1,0,0,0,1.966713721,Skilled_Nursing_Facility
+862,9/23/21,10/2/21,NA,63,19,9,571,Male,Not Hispanic or Latino,Black or African American,94124,Medicare,0,1,0,0,0,0,4.134478502,Home_Health_Care
+863,9/27/21,10/27/21,NA,73,19,30,575,Female,Hispanic or Latino,White or Caucasian,95132,Medicare,0,0,1,1,0,0,41.6003573,Home_or_Self_Care
+864,7/14/20,7/17/20,NA,82,5,3,135,Male,Not Hispanic or Latino,White or Caucasian,95128,Medicare,0,1,1,0,0,0,42.09197253,Home_or_Self_Care
+865,7/24/21,7/29/21,NA,51,17,6,509,Male,Not Hispanic or Latino,White or Caucasian,95451,Commercial,0,1,1,0,1,0,83.07407485,Home_or_Self_Care
+866,4/4/21,4/13/21,NA,45,14,9,399,Female,Not Hispanic or Latino,White or Caucasian,95356,Medi-Cal,0,0,1,0,0,0,78.79906414,Home_Health_Care
+867,11/10/21,11/11/21,NA,55,21,1,619,Female,Not Hispanic or Latino,White or Caucasian,94506,Commercial,0,0,1,0,1,0,30.05083481,Home_or_Self_Care
+868,1/20/21,1/24/21,NA,44,11,4,325,Male,Hispanic or Latino,Other,94523,Medi-Cal,0,1,0,1,0,0,24.76475104,Home_or_Self_Care
+869,9/2/20,9/16/20,NA,79,7,14,185,Female,Not Hispanic or Latino,Asian,94112,Medicare,7,0,0,0,0,1,3.042419167,Skilled_Nursing_Facility
+870,4/7/20,4/17/20,NA,71,2,10,37,Female,Not Hispanic or Latino,Asian,94014,Medicare,0,0,0,0,0,0,4.433394517,Home_Health_Care
+871,2/9/21,2/12/21,NA,63,12,3,345,Male,Not Hispanic or Latino,White or Caucasian,94107,Medi-Cal,0,1,1,0,0,0,3.44795333,Home_or_Self_Care
+872,6/8/21,6/13/21,NA,66,16,5,464,Male,Not Hispanic or Latino,White or Caucasian,95667,Commercial,0,1,1,0,1,0,112.1754341,Home_or_Self_Care
+873,7/27/21,8/14/21,NA,78,17,18,513,Female,Not Hispanic or Latino,Asian,94118,Medi-Cal,7,0,0,0,0,1,1.313586868,Home_or_Self_Care
+874,8/19/21,8/25/21,NA,76,18,6,536,Female,Not Hispanic or Latino,Black or African American,94124,Medicare,0,0,0,0,0,0,4.134478502,Home_Health_Care
+875,12/3/20,12/13/20,NA,68,10,10,277,Male,Not Hispanic or Latino,White or Caucasian,95236,Commercial,0,1,1,0,1,0,78.61830134,Home_or_Self_Care
+876,2/8/21,2/14/21,NA,80,12,6,344,Male,Not Hispanic or Latino,White or Caucasian,94158,Medicare,0,1,1,0,0,0,3.76224883,Home_or_Self_Care
+877,10/30/21,11/13/21,NA,81,20,14,608,Female,Not Hispanic or Latino,White or Caucasian,94121,Medicare,5,0,1,0,0,1,2.152271771,Skilled_Nursing_Facility
+878,10/9/21,10/19/21,NA,79,20,11,586,Female,Not Hispanic or Latino,Asian,94108,Medicare,0,0,0,0,0,0,3.441856072,Home_or_Self_Care
+879,6/17/21,6/25/21,NA,85,16,8,473,Male,Not Hispanic or Latino,Other,94121,Medicare,0,1,0,0,0,0,2.152271771,Home_Health_Care
+880,12/31/20,1/10/21,NA,76,10,10,305,Female,Not Hispanic or Latino,Other,94580,Medicare,0,0,0,0,0,0,18.81989401,Home_or_Self_Care
+881,8/1/21,9/16/21,NA,23,18,46,518,Male,Not Hispanic or Latino,Asian,93711,Commercial,36,1,0,0,1,1,158.3154936,Home_or_Self_Care
+882,1/13/21,1/19/21,NA,59,11,6,318,Female,Not Hispanic or Latino,Asian,94121,Medicare,0,0,0,0,0,0,2.152271771,Home_or_Self_Care
+883,7/15/21,7/16/21,NA,62,17,1,501,Male,Not Hispanic or Latino,Other,94121,Commercial,0,1,0,0,1,0,2.152271771,Home_or_Self_Care
+884,7/20/20,7/30/20,NA,58,5,10,141,Male,Not Hispanic or Latino,White or Caucasian,94538,Medi-Cal,0,1,1,0,0,0,31.44476765,Home_or_Self_Care
+885,4/18/21,4/28/21,NA,82,14,11,412,Female,Hispanic or Latino,Other,94110,Medicare,1,0,0,1,0,1,2.563001882,Home_Health_Care
+886,8/2/20,8/5/20,NA,70,6,3,154,Female,Not Hispanic or Latino,White or Caucasian,94131,Medicare,0,0,1,0,0,0,1.860640641,Home_or_Self_Care
+887,11/27/20,12/8/20,NA,48,9,11,271,Female,Hispanic or Latino,Other,94015,Commercial,0,0,0,1,1,0,5.702175128,Home_Health_Care
+888,2/22/21,3/9/21,NA,95,12,15,358,Female,Not Hispanic or Latino,Black or African American,94124,Medicare,0,0,0,0,0,0,4.134478502,Home_Health_Care
+889,2/21/21,2/27/21,NA,71,12,6,357,Female,Not Hispanic or Latino,Asian,94112,Medicare,0,0,0,0,0,0,3.042419167,Home_or_Self_Care
+890,12/11/21,12/21/21,NA,61,22,10,650,Female,Not Hispanic or Latino,White or Caucasian,94116,Commercial,0,0,1,0,1,0,2.017505371,Home_Health_Care
+891,2/1/21,2/16/21,NA,55,12,15,337,Male,Not Hispanic or Latino,White or Caucasian,94102,Medicare,0,1,1,0,0,0,2.43157244,Skilled_Nursing_Facility
+892,12/15/20,12/18/20,NA,62,10,3,289,Female,Hispanic or Latino,White or Caucasian,94122,Commercial,0,0,1,1,1,0,1.470404567,Home_Health_Care
+893,6/30/20,7/17/20,NA,74,4,17,121,Male,Unknown or Declined,Unknown or Declined,94974,Other,17,1,0,0,0,1,26.08237343,Other_Acute_Care_Hospital
+894,8/13/21,8/17/21,NA,61,18,4,530,Female,Not Hispanic or Latino,White or Caucasian,95004,Commercial,0,0,1,0,1,0,75.79587122,Other_Acute_Care_Hospital
+895,2/2/21,2/23/21,NA,22,12,21,338,Female,Not Hispanic or Latino,Asian,95207,Medi-Cal,0,0,0,0,0,0,64.22518302,Home_Health_Care
+896,12/13/20,1/2/21,NA,68,10,20,287,Female,Not Hispanic or Latino,White or Caucasian,94531,Medicare,9,0,1,0,0,1,41.62855244,Hospice
+897,1/1/21,1/7/21,NA,31,11,6,306,Female,Not Hispanic or Latino,White or Caucasian,93291,Commercial,3,0,1,0,1,1,198.1141672,Home_or_Self_Care
+898,1/26/21,2/2/21,NA,93,11,7,331,Female,Not Hispanic or Latino,Other,94112,Medicare,0,0,0,0,0,0,3.042419167,Skilled_Nursing_Facility
+899,7/26/20,8/7/20,NA,57,5,12,147,Female,Not Hispanic or Latino,White or Caucasian,94117,Medi-Cal,9,0,1,0,0,1,1.020774481,Home_or_Self_Care
+900,9/6/21,11/14/21,NA,26,19,69,554,Male,Not Hispanic or Latino,Other,95673,Medi-Cal,69,1,0,0,0,1,84.19432227,Other_Acute_Care_Hospital
+901,10/26/20,3/31/21,NA,58,8,157,238,Male,Not Hispanic or Latino,White or Caucasian,94143,Medi-Cal,0,1,1,0,0,0,0.000985532,Assisted_Living_Intermediate_Care_Facility
+902,3/25/20,3/31/20,NA,73,1,6,24,Male,Unknown or Declined,Unknown or Declined,94015,Medicare,0,1,0,0,0,0,5.702175128,Home_or_Self_Care
+903,9/8/21,10/19/21,NA,60,19,41,556,Male,Not Hispanic or Latino,White or Caucasian,95388,Commercial,28,1,1,0,1,1,104.4505875,Other_Acute_Care_Hospital
+904,2/17/21,3/2/21,NA,72,12,14,352,Male,Not Hispanic or Latino,Asian,94116,Medicare,9,1,0,0,0,1,2.017505371,Home_Health_Care
+905,9/24/21,10/26/21,NA,54,19,32,572,Male,Not Hispanic or Latino,Unknown or Declined,93245,Medicare,12,1,0,0,0,1,177.6304271,Skilled_Nursing_Facility
+906,12/11/21,12/13/21,NA,32,22,2,650,Female,Not Hispanic or Latino,White or Caucasian,93933,Medi-Cal,0,0,1,0,0,0,83.2369277,Home_or_Self_Care
+907,11/19/21,11/22/21,NA,66,21,3,628,Male,Hispanic or Latino,Other,94110,Medi-Cal,0,1,0,1,0,0,2.563001882,Home_or_Self_Care
+908,12/31/20,1/12/21,NA,104,10,12,305,Female,Not Hispanic or Latino,Black or African American,94110,Medicare,0,0,0,0,0,0,2.563001882,Home_Health_Care
+909,12/19/20,1/3/21,NA,94,10,15,293,Female,Not Hispanic or Latino,Asian,94116,Medicare,0,0,0,0,0,0,2.017505371,Hospice
+910,3/2/21,3/12/21,NA,73,13,10,366,Male,Not Hispanic or Latino,Black or African American,94102,Medicare,0,1,0,0,0,0,2.43157244,Home_Health_Care
+911,1/4/21,2/16/21,NA,52,11,43,309,Female,Not Hispanic or Latino,Asian,95204,Medicare,36,0,0,0,0,1,64.21392144,Home_Health_Care
+912,12/17/20,12/20/20,NA,84,10,4,290,Female,Not Hispanic or Latino,White or Caucasian,94102,Medicare,2,0,1,0,0,1,2.43157244,Home_Health_Care
+913,12/14/21,12/22/21,NA,63,22,9,652,Female,Not Hispanic or Latino,Asian,95757,Commercial,0,0,0,0,1,0,69.61561691,Home_or_Self_Care
+914,7/26/21,8/3/21,NA,57,17,8,512,Female,Not Hispanic or Latino,Black or African American,94578,Medi-Cal,0,0,0,0,0,0,18.57043191,Home_Health_Care
+915,9/1/20,9/12/20,NA,75,7,11,184,Male,Not Hispanic or Latino,White or Caucasian,94109,Medicare,0,1,1,0,0,0,2.867305718,Skilled_Nursing_Facility
+916,4/19/20,4/24/20,5/4/20,45,2,5,49,Female,Not Hispanic or Latino,White or Caucasian,94014,Commercial,0,0,1,0,1,0,4.433394517,Home_or_Self_Care
+917,3/5/20,3/12/20,5/14/20,43,1,8,3,Female,Not Hispanic or Latino,Asian,94080,Commercial,0,0,0,0,1,0,7.763837091,Home_or_Self_Care
+918,4/17/20,5/7/20,5/22/20,73,2,20,47,Male,Not Hispanic or Latino,White or Caucasian,94107,Medicare,0,1,1,0,0,0,3.44795333,Home_or_Self_Care
+919,3/27/20,4/23/20,5/22/20,43,1,27,26,Female,Unknown or Declined,Other,94112,Medicare,3,0,0,0,0,1,3.042419167,Home_Health_Care
+920,5/17/20,5/24/20,5/28/20,33,3,7,77,Male,Hispanic or Latino,Other,94015,Commercial,0,1,0,1,1,0,5.702175128,Home_or_Self_Care
+921,3/20/20,5/20/20,5/29/20,69,1,61,19,Male,Not Hispanic or Latino,White or Caucasian,94123,Medicare,45,1,1,0,0,1,2.838844466,Home_Health_Care
+922,3/21/20,4/12/20,6/1/20,70,1,23,19,Male,Not Hispanic or Latino,Asian,94920,Medicare,10,1,0,0,0,1,8.968026638,Home_or_Self_Care
+923,5/12/20,5/16/20,6/5/20,79,3,4,72,Male,Not Hispanic or Latino,Unknown or Declined,94127,Medicare,0,1,0,0,0,0,1.943464976,Skilled_Nursing_Facility
+924,5/15/20,5/20/20,6/12/20,37,3,5,75,Male,Not Hispanic or Latino,White or Caucasian,94114,Commercial,2,1,1,0,1,1,1.325779489,Home_or_Self_Care
+925,5/22/20,6/2/20,6/19/20,89,3,12,81,Male,Unknown or Declined,Asian,94122,Medicare,0,1,0,0,0,0,1.470404567,Skilled_Nursing_Facility
+926,3/23/20,4/18/20,6/26/20,58,1,26,22,Male,Not Hispanic or Latino,White or Caucasian,94549,Commercial,15,1,1,0,1,1,20.76148277,Home_Health_Care
+927,5/30/20,6/3/20,9/23/20,56,3,4,90,Female,Hispanic or Latino,Other,94545,Medicare,0,0,0,1,0,0,21.32097188,Home_or_Self_Care
+928,4/26/20,6/9/20,5/17/21,63,2,44,56,Male,Not Hispanic or Latino,White or Caucasian,94903,Commercial,38,1,1,0,1,1,18.28210748,Home_Health_Care
+929,6/1/20,6/15/20,7/2/20,79,4,14,92,Female,Not Hispanic or Latino,Asian,94122,Medicare,0,0,0,0,0,0,1.470404567,Skilled_Nursing_Facility
+930,5/23/20,5/31/20,5/11/21,59,3,8,83,Male,Not Hispanic or Latino,White or Caucasian,94611,Commercial,0,1,1,0,1,0,13.63413842,Home_or_Self_Care
+931,6/11/20,6/15/20,7/2/20,64,4,4,102,Female,Hispanic or Latino,Other,94806,Medicare,0,0,0,1,0,0,15.86537453,Home_or_Self_Care
+932,6/9/20,6/14/20,7/2/20,79,4,6,99,Male,Not Hispanic or Latino,Black or African American,94115,Medicare,0,1,0,0,0,0,1.966713721,Home_or_Self_Care
+933,6/10/20,6/18/20,7/6/20,31,4,8,101,Female,Hispanic or Latino,Other,94947,Medi-Cal,4,0,0,1,0,1,24.33482947,Home_Health_Care
+934,4/20/20,6/12/20,7/7/20,44,2,53,50,Male,Not Hispanic or Latino,Black or African American,94590,Commercial,43,1,0,0,1,1,26.30397195,Acute_Rehabilitation_Facility_Other
+935,6/5/20,6/19/20,7/9/20,80,4,14,96,Female,Not Hispanic or Latino,White or Caucasian,94122,Medicare,0,0,1,0,0,0,1.470404567,Skilled_Nursing_Facility
+936,5/24/20,6/17/20,7/9/20,62,3,24,84,Male,Not Hispanic or Latino,Asian,94014,Commercial,19,1,0,0,1,1,4.433394517,Home_Health_Care
+937,5/16/20,5/22/20,7/10/20,33,3,6,76,Female,Hispanic or Latino,Other,93906,Medicare,0,0,0,1,0,0,85.52462625,Home_or_Self_Care
+938,6/20/20,6/23/20,4/5/21,38,4,3,111,Female,Hispanic or Latino,Other,94110,Medicare,0,0,0,1,0,0,2.563001882,Home_or_Self_Care
+939,6/19/20,7/1/20,7/16/20,37,4,12,110,Male,Hispanic or Latino,Other,95351,Medi-Cal,4,1,0,1,0,1,80.51518557,Home_or_Self_Care
+940,6/27/20,7/9/20,7/16/20,82,4,12,118,Female,Not Hispanic or Latino,White or Caucasian,94132,Medicare,2,0,1,0,0,1,2.918450656,Home_or_Self_Care
+941,6/20/20,7/6/20,11/18/20,63,4,16,111,Male,Not Hispanic or Latino,Asian,94080,Commercial,7,1,0,0,1,1,7.763837091,Home_or_Self_Care
+942,7/14/20,7/18/20,10/26/20,47,5,4,135,Male,Not Hispanic or Latino,Other,94105,Commercial,0,1,0,0,1,0,3.885341834,Home_or_Self_Care
+943,7/3/20,7/15/20,7/30/20,37,5,12,124,Male,Not Hispanic or Latino,White or Caucasian,94621,Medi-Cal,0,1,1,0,0,0,14.73772404,Home_Health_Care
+944,7/8/20,7/11/20,7/30/20,32,5,3,129,Male,Hispanic or Latino,Other,94122,Commercial,0,1,0,1,1,0,1.470404567,Home_or_Self_Care
+945,7/23/20,7/25/20,7/30/20,50,5,2,144,Female,Hispanic or Latino,Other,94124,Commercial,0,0,0,1,1,0,4.134478502,Home_or_Self_Care
+946,7/11/20,7/17/20,8/3/20,41,5,6,132,Female,Unknown or Declined,Unknown or Declined,94124,Medi-Cal,0,0,0,0,0,0,4.134478502,Home_or_Self_Care
+947,7/1/20,7/13/20,8/4/20,58,5,12,122,Male,Hispanic or Latino,Other,94110,Medi-Cal,0,1,0,1,0,0,2.563001882,Home_Health_Care
+948,7/28/20,7/31/20,8/14/20,62,5,3,149,Male,Hispanic or Latino,Other,95203,Medicare,0,1,0,1,0,0,64.32438424,Home_or_Self_Care
+949,7/28/20,8/4/20,8/21/20,66,5,7,149,Male,Hispanic or Latino,Other,94112,Medicare,0,1,0,1,0,0,3.042419167,Home_or_Self_Care
+950,4/21/20,5/5/20,8/21/20,61,2,14,51,Female,Not Hispanic or Latino,Asian,94122,Commercial,7,0,0,0,1,1,1.470404567,Home_Health_Care
+951,7/30/20,8/5/20,8/24/20,51,5,6,151,Male,Hispanic or Latino,Other,95076,Commercial,0,1,0,1,1,0,69.17812051,Home_or_Self_Care
+952,7/11/20,7/29/20,8/24/20,59,5,18,132,Male,Hispanic or Latino,Other,95383,Other,12,1,0,1,0,1,123.4371586,Home_or_Self_Care
+953,7/25/20,8/4/20,8/25/20,59,5,10,146,Male,Not Hispanic or Latino,Other,94602,Commercial,5,1,0,0,1,1,13.72648574,Home_or_Self_Care
+954,8/1/20,8/8/20,8/25/20,42,5,8,152,Female,Hispanic or Latino,Other,94607,Medi-Cal,0,0,0,1,0,0,9.752677878,Home_or_Self_Care
+955,8/2/20,8/6/20,8/26/20,51,6,4,154,Male,Not Hispanic or Latino,White or Caucasian,94127,Commercial,0,1,1,0,1,0,1.943464976,Home_or_Self_Care
+956,6/25/20,7/31/20,8/27/20,68,4,36,116,Male,Hispanic or Latino,Other,94110,Medicare,19,1,0,1,0,1,2.563001882,Home_Health_Care
+957,8/5/20,8/8/20,8/28/20,29,6,3,157,Female,Not Hispanic or Latino,White or Caucasian,94158,Commercial,0,0,1,0,1,0,3.76224883,Home_or_Self_Care
+958,7/21/20,8/3/20,8/28/20,67,5,13,142,Female,Not Hispanic or Latino,Other,95351,Medicare,0,0,0,0,0,0,80.51518557,Home_or_Self_Care
+959,7/23/20,8/7/20,9/1/20,65,5,15,144,Male,Not Hispanic or Latino,Asian,94122,Other,11,1,0,0,0,1,1.470404567,Home_or_Self_Care
+960,8/3/20,8/12/20,9/1/20,33,6,9,155,Female,Hispanic or Latino,Other,95205,Medi-Cal,0,0,0,1,0,0,66.7542693,Home_or_Self_Care
+961,8/12/20,8/20/20,9/2/20,76,6,8,164,Male,Not Hispanic or Latino,Other,94118,Medicare,0,1,0,0,0,0,1.313586868,Home_Health_Care
+962,8/17/20,8/20/20,9/2/20,51,6,3,169,Male,Not Hispanic or Latino,Asian,94112,Commercial,0,1,0,0,1,0,3.042419167,Home_or_Self_Care
+963,7/23/20,8/18/20,9/3/20,56,5,26,144,Male,Hispanic or Latino,Other,95358,Medicare,8,1,0,1,0,1,77.70036541,Long_Term_Acute_Care_Facility
+964,7/23/20,8/3/20,9/3/20,52,5,11,144,Male,Hispanic or Latino,Other,94015,Commercial,0,1,0,1,1,0,5.702175128,Home_or_Self_Care
+965,8/9/20,8/21/20,9/9/20,64,6,12,161,Female,Hispanic or Latino,White or Caucasian,94107,Commercial,12,0,1,1,1,1,3.44795333,Home_or_Self_Care
+966,8/13/20,8/18/20,9/15/20,27,6,5,165,Female,Unknown or Declined,Other,95358,Medi-Cal,0,0,0,0,0,0,77.70036541,Home_or_Self_Care
+967,8/18/20,8/27/20,9/15/20,43,6,10,169,Female,Hispanic or Latino,Other,95337,Commercial,4,0,0,1,1,1,66.95552969,Home_or_Self_Care
+968,8/20/20,8/29/20,8/17/21,47,6,10,171,Male,Not Hispanic or Latino,White or Caucasian,94121,Medi-Cal,9,1,1,0,0,1,2.152271771,Home_or_Self_Care
+969,8/24/20,8/28/20,9/16/20,31,6,4,176,Female,Not Hispanic or Latino,Asian,94121,Commercial,0,0,0,0,1,0,2.152271771,Home_or_Self_Care
+970,8/18/20,9/3/20,9/16/20,65,6,16,170,Female,Not Hispanic or Latino,Black or African American,94124,Medicare,7,0,0,0,0,1,4.134478502,Home_or_Self_Care
+971,7/26/20,8/20/20,9/17/20,49,5,25,147,Male,Hispanic or Latino,Other,93654,Medi-Cal,10,1,0,1,0,1,184.7048747,Home_Health_Care
+972,8/30/20,8/31/20,9/17/20,23,6,1,182,Female,Hispanic or Latino,Other,94560,Medi-Cal,0,0,0,1,0,0,28.09516256,Home_or_Self_Care
+973,8/11/20,9/1/20,9/21/20,60,6,21,163,Male,Hispanic or Latino,Unknown or Declined,95776,Medicare,15,1,0,1,0,1,74.36949892,Home_Health_Care
+974,8/24/20,9/2/20,9/24/20,64,6,9,176,Male,Hispanic or Latino,White or Caucasian,94112,Commercial,0,1,1,1,1,0,3.042419167,Home_or_Self_Care
+975,9/8/20,9/14/20,1/14/21,68,7,6,191,Male,Not Hispanic or Latino,White or Caucasian,94121,Commercial,0,1,1,0,1,0,2.152271771,Home_or_Self_Care
+976,8/27/20,9/11/20,4/22/21,85,6,15,179,Female,Not Hispanic or Latino,Black or African American,94102,Medicare,0,0,0,0,0,0,2.43157244,Home_Health_Care
+977,9/9/20,9/15/20,9/24/20,43,7,6,192,Male,Not Hispanic or Latino,Asian,94503,Commercial,0,1,0,0,1,0,30.1863029,Home_or_Self_Care
+978,9/5/20,9/17/20,9/28/20,34,7,12,188,Female,Not Hispanic or Latino,Asian,95128,Commercial,10,0,0,0,1,1,42.09197253,Home_or_Self_Care
+979,8/14/20,9/10/20,9/28/20,54,6,27,166,Male,Hispanic or Latino,White or Caucasian,94132,Medicare,19,1,1,1,0,1,2.918450656,Home_Health_Care
+980,9/3/20,9/7/20,9/30/20,51,7,4,186,Male,Not Hispanic or Latino,White or Caucasian,94108,Commercial,0,1,1,0,1,0,3.441856072,Home_or_Self_Care
+981,9/10/20,9/23/20,10/9/20,76,7,13,193,Male,Hispanic or Latino,Other,94140,Medicare,1,1,0,1,0,1,14.81290454,Home_or_Self_Care
+982,8/16/20,9/18/20,10/15/20,63,6,34,167,Male,Not Hispanic or Latino,Native Hawaiian or Other Pacific Islander,94115,Medi-Cal,11,1,0,0,0,1,1.966713721,Home_Health_Care
+983,8/10/20,8/23/20,10/19/20,49,6,13,162,Male,Hispanic or Latino,Unknown or Declined,94143,Commercial,9,1,0,1,1,1,0.000985532,Home_or_Self_Care
+984,9/28/20,9/30/20,10/21/20,93,7,2,211,Male,Not Hispanic or Latino,White or Caucasian,94109,Medicare,0,1,1,0,0,0,2.867305718,Assisted_Living_Intermediate_Care_Facility
+985,7/18/20,7/23/20,11/12/20,49,5,5,139,Female,Not Hispanic or Latino,Other,94103,Medi-Cal,0,0,0,0,0,0,2.689052947,Home_or_Self_Care
+986,10/17/20,10/23/20,11/18/20,75,8,6,230,Female,Not Hispanic or Latino,Asian,93703,Medicare,0,0,0,0,0,0,163.5671552,Home_or_Self_Care
+987,3/21/20,4/22/20,11/19/20,83,1,32,20,Female,Hispanic or Latino,Other,94112,Medicare,18,0,0,1,0,1,3.042419167,Home_Health_Care
+988,8/28/20,10/27/20,11/23/20,55,6,60,180,Male,Not Hispanic or Latino,White or Caucasian,95404,Commercial,35,1,1,0,1,1,49.57566442,Acute_Rehabilitation_Facility_Other
+989,10/19/20,10/28/20,11/23/20,53,8,9,232,Male,Hispanic or Latino,Other,95382,Commercial,4,1,0,1,1,1,89.6574547,Home_or_Self_Care
+990,10/15/20,10/26/20,5/3/21,81,8,11,228,Male,Hispanic or Latino,Other,94112,Medicare,0,1,0,1,0,0,3.042419167,Home_or_Self_Care
+991,10/30/20,11/3/20,11/30/20,39,8,4,243,Female,Not Hispanic or Latino,White or Caucasian,95351,Medi-Cal,0,0,1,0,0,0,80.51518557,Home_Health_Care
+992,11/5/20,11/11/20,12/2/20,68,9,7,248,Male,Not Hispanic or Latino,Black or African American,94102,Medicare,0,1,0,0,0,0,2.43157244,Home_or_Self_Care
+993,11/14/20,11/21/20,8/16/21,29,9,7,258,Female,Hispanic or Latino,Asian,94115,Medi-Cal,0,0,0,1,0,0,1.966713721,Home_or_Self_Care
+994,11/19/20,11/24/20,12/3/20,68,9,5,263,Male,Hispanic or Latino,Other,94565,Medicare,0,1,0,1,0,0,34.9899043,Home_or_Self_Care
+995,11/17/20,11/21/20,12/3/20,47,9,4,261,Male,Not Hispanic or Latino,Asian,94109,Commercial,0,1,0,0,1,0,2.867305718,Home_or_Self_Care
+996,11/5/20,11/10/20,3/19/21,65,9,5,249,Male,Not Hispanic or Latino,White or Caucasian,94134,Commercial,0,1,1,0,1,0,3.98243549,Home_or_Self_Care
+997,10/29/20,11/10/20,12/8/20,73,8,12,242,Female,Hispanic or Latino,Other,94158,Medi-Cal,7,0,0,1,0,1,3.76224883,Home_or_Self_Care
+998,8/24/20,11/11/20,12/8/20,64,6,79,176,Male,Not Hispanic or Latino,Asian,94112,Medi-Cal,58,1,0,0,0,1,3.042419167,Acute_Rehabilitation_Facility_Other
+999,11/17/20,11/23/20,12/15/20,64,9,6,261,Female,Hispanic or Latino,Other,94112,Medicare,0,0,0,1,0,0,3.042419167,Home_or_Self_Care
+1000,11/23/20,11/28/20,12/15/20,64,9,5,267,Male,Hispanic or Latino,Other,95926,Medicare,0,1,0,1,0,0,140.7623893,Home_or_Self_Care
+1001,11/19/20,11/24/20,12/17/20,52,9,5,263,Male,Not Hispanic or Latino,Asian,94015,Commercial,0,1,0,0,1,0,5.702175128,Home_or_Self_Care
+1002,11/20/20,11/29/20,12/17/20,45,9,9,264,Female,Not Hispanic or Latino,Asian,94112,Commercial,0,0,0,0,1,0,3.042419167,Home_or_Self_Care
+1003,11/26/20,11/28/20,12/18/20,65,9,2,270,Male,Not Hispanic or Latino,White or Caucasian,94127,Medicare,0,1,1,0,0,0,1.943464976,Home_or_Self_Care
+1004,11/22/20,11/27/20,12/18/20,58,9,5,266,Male,Hispanic or Latino,Other,94110,Commercial,0,1,0,1,1,0,2.563001882,Home_or_Self_Care
+1005,12/1/20,12/7/20,1/4/21,52,10,6,275,Male,Hispanic or Latino,White or Caucasian,94110,Commercial,0,1,1,1,1,0,2.563001882,Home_or_Self_Care
+1006,12/16/20,12/25/20,1/4/21,62,10,9,290,Male,Hispanic or Latino,Other,96150,Medicare,7,1,0,1,0,1,154.7182405,Home_or_Self_Care
+1007,12/2/20,12/6/20,1/5/21,66,10,4,276,Male,Not Hispanic or Latino,White or Caucasian,94941,Medicare,0,1,1,0,0,0,10.34803612,Home_or_Self_Care
+1008,11/29/20,12/3/20,4/8/21,27,9,4,273,Female,Hispanic or Latino,Other,94102,Medi-Cal,0,0,0,1,0,0,2.43157244,Home_or_Self_Care
+1009,11/24/20,11/30/20,1/6/21,64,9,6,268,Male,Not Hispanic or Latino,White or Caucasian,94109,Medi-Cal,2,1,1,0,0,1,2.867305718,Home_or_Self_Care
+1010,11/23/20,12/9/20,1/7/21,91,9,16,267,Female,Not Hispanic or Latino,White or Caucasian,94112,Medicare,0,0,1,0,0,0,3.042419167,Home_Health_Care
+1011,11/27/20,12/7/20,1/7/21,52,9,10,271,Male,Not Hispanic or Latino,Black or African American,94158,Medi-Cal,8,1,0,0,0,1,3.76224883,Home_or_Self_Care
+1012,10/3/20,10/7/20,1/7/21,32,8,4,216,Female,Not Hispanic or Latino,White or Caucasian,94133,Commercial,0,0,1,0,1,0,3.7637824,Home_or_Self_Care
+1013,8/20/20,9/9/20,1/7/21,72,6,21,171,Male,Not Hispanic or Latino,Asian,94112,Commercial,9,1,0,0,1,1,3.042419167,Home_Health_Care
+1014,12/5/20,12/11/20,1/11/21,87,10,6,279,Female,Not Hispanic or Latino,Asian,94116,Medicare,0,0,0,0,0,0,2.017505371,Home_Health_Care
+1015,10/15/20,10/27/20,1/12/21,72,8,13,227,Female,Hispanic or Latino,Other,94080,Medicare,0,0,0,1,0,0,7.763837091,Home_or_Self_Care
+1016,12/10/20,12/25/20,1/12/21,56,10,15,284,Male,Not Hispanic or Latino,Asian,94112,Commercial,6,1,0,0,1,1,3.042419167,Home_or_Self_Care
+1017,12/2/20,12/7/20,1/13/21,72,10,5,276,Female,Not Hispanic or Latino,Other,94110,Medi-Cal,0,0,0,0,0,0,2.563001882,Home_or_Self_Care
+1018,12/10/20,12/17/20,1/14/21,40,10,7,284,Female,Hispanic or Latino,Other,93635,Medi-Cal,0,0,0,1,0,0,100.3432219,Home_or_Self_Care
+1019,12/11/20,12/15/20,9/24/21,50,10,4,285,Male,Not Hispanic or Latino,Asian,94121,Medi-Cal,0,1,0,0,0,0,2.152271771,Home_or_Self_Care
+1020,12/23/20,1/3/21,1/14/21,58,10,11,297,Female,Not Hispanic or Latino,Asian,94015,Commercial,0,0,0,0,1,0,5.702175128,Home_Health_Care
+1021,12/23/20,1/14/21,1/19/21,86,10,22,297,Female,Not Hispanic or Latino,Asian,94116,Medicare,0,0,0,0,0,0,2.017505371,Skilled_Nursing_Facility
+1022,12/10/20,12/16/20,1/19/21,64,10,6,284,Male,Hispanic or Latino,White or Caucasian,95330,Medi-Cal,0,1,1,1,0,0,64.31746089,Home_or_Self_Care
+1023,12/19/20,12/24/20,1/27/21,44,10,6,292,Male,Hispanic or Latino,White or Caucasian,94112,Commercial,0,1,1,1,1,0,3.042419167,Home_or_Self_Care
+1024,12/24/20,12/28/20,1/28/21,61,10,5,297,Male,Not Hispanic or Latino,Asian,94127,Commercial,0,1,0,0,1,0,1.943464976,Home_or_Self_Care
+1025,11/17/20,11/18/20,1/28/21,32,9,1,261,Female,Hispanic or Latino,Other,95204,Medi-Cal,0,0,0,1,0,0,64.21392144,Home_or_Self_Care
+1026,12/27/20,12/31/20,1/28/21,63,10,4,301,Male,Not Hispanic or Latino,Other,94122,Commercial,0,1,0,0,1,0,1.470404567,Home_or_Self_Care
+1027,12/14/20,12/19/20,1/28/21,25,10,6,287,Female,Not Hispanic or Latino,Native Hawaiian or Other Pacific Islander,94132,Medi-Cal,0,0,0,0,0,0,2.918450656,Home_or_Self_Care
+1028,12/19/20,12/30/20,1/29/21,55,10,11,293,Male,Not Hispanic or Latino,White or Caucasian,95237,Medicare,0,1,1,0,0,0,76.66090729,Home_Health_Care
+1029,12/27/20,1/7/21,1/29/21,90,10,11,301,Male,Not Hispanic or Latino,Asian,94112,Medicare,8,1,0,0,0,1,3.042419167,Home_Health_Care
+1030,12/27/20,12/31/20,1/29/21,40,10,4,301,Male,Hispanic or Latino,Other,94112,Medicare,0,1,0,1,0,0,3.042419167,Home_or_Self_Care
+1031,12/16/20,12/21/20,1/29/21,54,10,5,290,Male,Hispanic or Latino,White or Caucasian,94114,Medi-Cal,0,1,1,1,0,0,1.325779489,Home_or_Self_Care
+1032,12/24/20,12/29/20,2/3/21,78,10,5,298,Female,Not Hispanic or Latino,Asian,94122,Medicare,0,0,0,0,0,0,1.470404567,Home_or_Self_Care
+1033,12/20/20,12/24/20,2/3/21,43,10,4,294,Female,Not Hispanic or Latino,Asian,94116,Medi-Cal,0,0,0,0,0,0,2.017505371,Home_or_Self_Care
+1034,12/28/20,1/6/21,2/3/21,84,10,9,302,Male,Not Hispanic or Latino,Asian,94122,Medicare,0,1,0,0,0,0,1.470404567,Home_Health_Care
+1035,1/2/21,1/8/21,2/4/21,94,10,8,305,Female,Not Hispanic or Latino,White or Caucasian,94112,Medicare,0,0,1,0,0,0,3.042419167,Skilled_Nursing_Facility
+1036,12/26/20,12/31/20,2/4/21,59,10,5,300,Female,Not Hispanic or Latino,White or Caucasian,94116,Commercial,0,0,1,0,1,0,2.017505371,Home_or_Self_Care
+1037,12/4/20,1/5/21,2/4/21,78,10,32,278,Male,Hispanic or Latino,Unknown or Declined,93906,Medi-Cal,17,1,0,1,0,1,85.52462625,Home_Health_Care
+1038,1/1/21,1/6/21,2/8/21,43,11,5,306,Male,Hispanic or Latino,Other,94110,Medi-Cal,0,1,0,1,0,0,2.563001882,Home_or_Self_Care
+1039,1/3/21,1/7/21,2/9/21,91,11,4,308,Male,Not Hispanic or Latino,White or Caucasian,94115,Medicare,0,1,1,0,0,0,1.966713721,Home_Health_Care
+1040,12/26/20,1/8/21,2/9/21,85,10,13,300,Female,Not Hispanic or Latino,White or Caucasian,94109,Medicare,0,0,1,0,0,0,2.867305718,Skilled_Nursing_Facility
+1041,1/5/21,1/11/21,9/13/21,49,11,6,310,Female,Not Hispanic or Latino,Black or African American,94591,Commercial,0,0,0,0,1,0,26.84946305,Home_or_Self_Care
+1042,1/1/21,1/8/21,12/20/21,63,11,7,306,Female,Hispanic or Latino,Other,94110,Medi-Cal,0,0,0,1,0,0,2.563001882,Home_or_Self_Care
+1043,1/19/21,1/22/21,2/11/21,69,11,3,324,Male,Not Hispanic or Latino,Asian,94014,Commercial,0,1,0,0,1,0,4.433394517,Home_or_Self_Care
+1044,12/28/20,1/7/21,2/11/21,49,10,10,302,Female,Not Hispanic or Latino,Black or African American,95231,Commercial,2,0,0,0,1,1,65.01550301,Home_Health_Care
+1045,12/28/20,1/11/21,2/11/21,48,10,14,302,Female,Hispanic or Latino,Other,94110,Commercial,0,0,0,1,1,0,2.563001882,Home_or_Self_Care
+1046,11/29/20,12/12/20,2/12/21,44,9,13,273,Male,Not Hispanic or Latino,Black or African American,99999,Medi-Cal,0,1,0,0,0,0,NA,Home_or_Self_Care
+1047,1/6/21,1/13/21,2/12/21,32,11,7,311,Male,Not Hispanic or Latino,Other,94130,Medicare,0,1,0,0,0,0,6.226417798,Home_Health_Care
+1048,1/19/21,1/23/21,6/8/21,39,11,4,324,Female,Not Hispanic or Latino,Black or African American,94609,Medicare,0,0,0,0,0,0,11.74441043,Home_or_Self_Care
+1049,12/17/20,12/22/20,2/17/21,64,10,5,291,Female,Not Hispanic or Latino,Asian,94117,Medicare,0,0,0,0,0,0,1.020774481,Home_or_Self_Care
+1050,12/25/20,1/13/21,2/18/21,46,10,19,299,Female,Hispanic or Latino,Other,94134,Medi-Cal,0,0,0,1,0,0,3.98243549,Home_or_Self_Care
+1051,12/27/20,1/1/21,2/18/21,73,10,5,301,Female,Hispanic or Latino,Other,94110,Medicare,0,0,0,1,0,0,2.563001882,Home_or_Self_Care
+1052,1/21/21,2/2/21,2/18/21,54,11,12,326,Female,Not Hispanic or Latino,Asian,94606,Commercial,0,0,0,0,1,0,11.95460472,Home_or_Self_Care
+1053,12/9/20,12/14/20,2/22/21,64,10,5,283,Male,Not Hispanic or Latino,Asian,94134,Medicare,0,1,0,0,0,0,3.98243549,Home_Health_Care
+1054,11/12/20,11/19/20,4/22/21,53,9,7,256,Female,Not Hispanic or Latino,White or Caucasian,95062,Commercial,0,0,1,0,1,0,60.40883128,Home_or_Self_Care
+1055,1/5/21,1/14/21,2/23/21,93,11,9,310,Male,Not Hispanic or Latino,White or Caucasian,94122,Medicare,0,1,1,0,0,0,1.470404567,Home_Health_Care
+1056,1/9/21,1/16/21,5/24/21,33,11,7,314,Male,Not Hispanic or Latino,White or Caucasian,94114,Commercial,0,1,1,0,1,0,1.325779489,Home_or_Self_Care
+1057,1/7/21,1/13/21,2/23/21,34,11,6,312,Female,Hispanic or Latino,Other,94901,Medi-Cal,0,0,0,1,0,0,14.75852721,Home_or_Self_Care
+1058,1/11/21,1/16/21,2/23/21,88,11,5,316,Female,Not Hispanic or Latino,White or Caucasian,94133,Medicare,1,0,1,0,0,1,3.7637824,Home_Health_Care
+1059,1/13/21,1/17/21,11/2/21,62,11,5,317,Female,Not Hispanic or Latino,Asian,94105,Medi-Cal,0,0,0,0,0,0,3.885341834,Home_or_Self_Care
+1060,1/10/21,1/16/21,2/23/21,34,11,6,315,Female,Hispanic or Latino,White or Caucasian,94109,Commercial,0,0,1,1,1,0,2.867305718,Home_or_Self_Care
+1061,1/11/21,1/16/21,2/23/21,56,11,5,316,Female,Not Hispanic or Latino,Asian,94591,Commercial,0,0,0,0,1,0,26.84946305,Home_or_Self_Care
+1062,2/3/21,2/7/21,2/24/21,79,12,4,339,Female,Hispanic or Latino,Other,94112,Medicare,0,0,0,1,0,0,3.042419167,Home_Health_Care
+1063,9/24/20,10/2/20,2/25/21,33,7,9,206,Female,Not Hispanic or Latino,Other,94507,Commercial,3,0,0,0,1,1,24.59340747,Home_or_Self_Care
+1064,12/8/20,12/12/20,2/25/21,67,10,4,282,Female,Not Hispanic or Latino,White or Caucasian,94116,Medicare,0,0,1,0,0,0,2.017505371,Home_or_Self_Care
+1065,12/30/20,1/14/21,2/25/21,79,10,15,304,Female,Not Hispanic or Latino,White or Caucasian,94132,Medicare,0,0,1,0,0,0,2.918450656,Skilled_Nursing_Facility
+1066,1/11/21,1/18/21,2/25/21,95,11,7,316,Female,Not Hispanic or Latino,White or Caucasian,94115,Medicare,3,0,1,0,0,1,1.966713721,Skilled_Nursing_Facility
+1067,1/15/21,1/19/21,2/26/21,87,11,4,320,Female,Hispanic or Latino,White or Caucasian,94112,Medicare,0,0,1,1,0,0,3.042419167,Home_Health_Care
+1068,2/18/21,2/26/21,3/3/21,87,12,8,354,Male,Not Hispanic or Latino,Asian,94122,Medicare,1,1,0,0,0,1,1.470404567,Home_Health_Care
+1069,10/27/20,10/30/20,7/1/21,49,8,3,240,Female,Hispanic or Latino,Other,94112,Commercial,0,0,0,1,1,0,3.042419167,Home_or_Self_Care
+1070,1/1/21,1/21/21,3/9/21,80,11,20,306,Male,Not Hispanic or Latino,White or Caucasian,94121,Medicare,0,1,1,0,0,0,2.152271771,Home_Health_Care
+1071,1/23/21,1/26/21,3/10/21,47,11,4,327,Male,Not Hispanic or Latino,Black or African American,94806,Commercial,0,1,0,0,1,0,15.86537453,Home_or_Self_Care
+1072,12/16/20,12/23/20,3/10/21,80,10,7,290,Male,Not Hispanic or Latino,Asian,94103,Medicare,0,1,0,0,0,0,2.689052947,Home_or_Self_Care
+1073,1/27/21,2/1/21,3/11/21,62,11,5,332,Male,Not Hispanic or Latino,Asian,94044,Medicare,0,1,0,0,0,0,10.37988138,Home_or_Self_Care
+1074,1/28/21,1/31/21,3/11/21,71,11,4,332,Male,Not Hispanic or Latino,Asian,94112,Medicare,0,1,0,0,0,0,3.042419167,Home_or_Self_Care
+1075,1/14/21,1/27/21,3/11/21,77,11,13,319,Female,Not Hispanic or Latino,Asian,94134,Medicare,0,0,0,0,0,0,3.98243549,Home_Health_Care
+1076,1/16/21,1/29/21,3/11/21,76,11,13,321,Male,Not Hispanic or Latino,Asian,97224,Medicare,0,1,0,0,0,0,527.7465306,Home_or_Self_Care
+1077,12/20/20,12/24/20,3/12/21,57,10,4,294,Female,Not Hispanic or Latino,Asian,94112,Commercial,0,0,0,0,1,0,3.042419167,Home_or_Self_Care
+1078,1/18/21,1/27/21,3/12/21,66,11,9,323,Female,Not Hispanic or Latino,Black or African American,94102,Medicare,0,0,0,0,0,0,2.43157244,Skilled_Nursing_Facility
+1079,1/29/21,2/2/21,3/15/21,76,11,5,333,Male,Not Hispanic or Latino,Black or African American,94609,Medicare,0,1,0,0,0,0,11.74441043,Home_Health_Care
+1080,10/23/20,1/25/21,11/5/21,70,8,94,236,Male,Not Hispanic or Latino,White or Caucasian,94578,Medicare,50,1,1,0,0,1,18.57043191,Other_Acute_Care_Hospital
+1081,2/1/21,2/2/21,3/16/21,78,12,1,337,Male,Not Hispanic or Latino,Asian,94112,Medicare,0,1,0,0,0,0,3.042419167,Home_or_Self_Care
+1082,1/20/21,2/3/21,3/16/21,63,11,14,325,Male,Hispanic or Latino,Other,94124,Medi-Cal,5,1,0,1,0,1,4.134478502,Home_Health_Care
+1083,1/5/21,1/14/21,3/16/21,79,11,9,310,Male,Not Hispanic or Latino,White or Caucasian,95973,Medicare,2,1,1,0,0,1,143.4987787,Acute_Rehabilitation_Facility_Other
+1084,2/2/21,2/5/21,3/16/21,58,12,3,338,Male,Hispanic or Latino,Other,94015,Medi-Cal,0,1,0,1,0,0,5.702175128,Home_or_Self_Care
+1085,1/28/21,2/5/21,3/18/21,71,11,8,333,Male,Not Hispanic or Latino,White or Caucasian,94123,Medicare,3,1,1,0,0,1,2.838844466,Home_Health_Care
+1086,1/16/21,1/20/21,3/18/21,72,11,4,321,Male,Not Hispanic or Latino,White or Caucasian,94122,Medicare,0,1,1,0,0,0,1.470404567,Home_or_Self_Care
+1087,1/1/21,1/30/21,3/18/21,65,11,29,306,Male,Not Hispanic or Latino,Asian,94122,Medicare,0,1,0,0,0,0,1.470404567,Skilled_Nursing_Facility
+1088,12/1/20,2/18/21,3/19/21,43,10,79,275,Male,Hispanic or Latino,Other,94143,Medi-Cal,67,1,0,1,0,1,0.000985532,Acute_Rehabilitation_Facility_Other
+1089,2/11/21,2/14/21,3/26/21,42,12,4,346,Male,Not Hispanic or Latino,White or Caucasian,94121,Medi-Cal,0,1,1,0,0,0,2.152271771,Home_or_Self_Care
+1090,1/17/21,1/23/21,7/30/21,24,11,6,322,Female,Not Hispanic or Latino,Asian,94132,Commercial,0,0,0,0,1,0,2.918450656,Home_or_Self_Care
+1091,2/9/21,2/16/21,3/29/21,75,12,8,344,Female,Not Hispanic or Latino,Black or African American,94621,Medicare,0,0,0,0,0,0,14.73772404,Home_or_Self_Care
+1092,1/19/21,2/18/21,3/29/21,47,11,30,324,Male,Hispanic or Latino,Other,95301,Medi-Cal,22,1,0,1,0,1,105.6264945,Home_or_Self_Care
+1093,2/11/21,2/21/21,3/30/21,56,12,10,347,Female,Not Hispanic or Latino,Asian,94121,Commercial,4,0,0,0,1,1,2.152271771,Home_or_Self_Care
+1094,2/3/21,2/18/21,3/30/21,57,12,15,339,Female,Hispanic or Latino,Other,94015,Medi-Cal,10,0,0,1,0,1,5.702175128,Home_or_Self_Care
+1095,2/17/21,2/19/21,3/30/21,67,12,2,353,Male,Not Hispanic or Latino,White or Caucasian,94116,Medi-Cal,0,1,1,0,0,0,2.017505371,Home_or_Self_Care
+1096,8/11/20,8/24/20,4/5/21,66,6,13,163,Female,Hispanic or Latino,Other,95358,Commercial,0,0,0,1,1,0,77.70036541,Home_or_Self_Care
+1097,2/2/21,2/6/21,10/22/21,27,12,4,338,Male,Not Hispanic or Latino,Other,94102,Medi-Cal,0,1,0,0,0,0,2.43157244,Home_or_Self_Care
+1098,2/19/21,2/26/21,4/6/21,43,12,7,355,Female,Hispanic or Latino,Other,95368,Medi-Cal,0,0,0,1,0,0,75.09326426,Home_or_Self_Care
+1099,1/29/21,2/26/21,4/8/21,58,11,28,334,Male,Not Hispanic or Latino,Unknown or Declined,94132,Commercial,19,1,0,0,1,1,2.918450656,Acute_Rehabilitation_Facility_Other
+1100,12/24/20,2/25/21,4/9/21,61,10,63,298,Female,Hispanic or Latino,Other,94114,Medi-Cal,25,0,0,1,0,1,1.325779489,Skilled_Nursing_Facility
+1101,2/10/21,2/17/21,4/9/21,53,12,7,346,Male,Not Hispanic or Latino,Asian,94103,Medi-Cal,0,1,0,0,0,0,2.689052947,Home_or_Self_Care
+1102,2/18/21,3/2/21,4/9/21,74,12,12,354,Male,Not Hispanic or Latino,Asian,94102,Medicare,0,1,0,0,0,0,2.43157244,Skilled_Nursing_Facility
+1103,1/29/21,2/2/21,4/16/21,76,11,4,334,Female,Not Hispanic or Latino,White or Caucasian,94123,Medicare,0,0,1,0,0,0,2.838844466,Home_Health_Care
+1104,3/13/21,3/16/21,4/16/21,33,13,4,376,Male,Not Hispanic or Latino,Black or African American,94124,Other,0,1,0,0,0,0,4.134478502,Home_or_Self_Care
+1105,3/7/21,3/14/21,4/16/21,65,13,7,371,Male,Not Hispanic or Latino,White or Caucasian,94531,Commercial,0,1,1,0,1,0,41.62855244,Home_or_Self_Care
+1106,3/13/21,3/22/21,4/22/21,58,13,10,376,Female,Not Hispanic or Latino,Black or African American,94804,Medicare,0,0,0,0,0,0,12.97979906,Home_or_Self_Care
+1107,1/13/21,2/11/21,4/27/21,83,11,29,318,Male,Not Hispanic or Latino,White or Caucasian,94127,Medicare,15,1,1,0,0,1,1.943464976,Long_Term_Acute_Care_Facility
+1108,4/1/21,4/7/21,5/4/21,77,14,6,396,Male,Not Hispanic or Latino,Asian,94015,Medicare,0,1,0,0,0,0,5.702175128,Home_Health_Care
+1109,3/5/21,3/12/21,5/6/21,24,13,7,369,Male,Hispanic or Latino,Other,94804,Medi-Cal,0,1,0,1,0,0,12.97979906,Home_or_Self_Care
+1110,3/18/21,3/20/21,5/6/21,29,13,2,382,Female,Hispanic or Latino,Other,94949,Medi-Cal,0,0,0,1,0,0,21.17892987,Home_or_Self_Care
+1111,3/24/21,3/28/21,5/6/21,40,13,5,387,Female,Not Hispanic or Latino,Native Hawaiian or Other Pacific Islander,94603,Medi-Cal,0,0,0,0,0,0,15.71516607,Home_or_Self_Care
+1112,3/21/21,3/30/21,5/7/21,61,13,9,385,Female,Not Hispanic or Latino,White or Caucasian,94127,Commercial,0,0,1,0,1,0,1.943464976,Home_or_Self_Care
+1113,3/26/21,4/2/21,5/7/21,34,13,7,390,Male,Hispanic or Latino,Other,95023,Medi-Cal,0,1,0,1,0,0,85.95859085,Home_Health_Care
+1114,4/16/21,4/22/21,5/11/21,30,14,6,411,Female,Not Hispanic or Latino,Asian,94131,Commercial,0,0,0,0,1,0,1.860640641,Home_or_Self_Care
+1115,4/23/21,4/28/21,5/17/21,77,14,5,418,Male,Hispanic or Latino,Other,94131,Commercial,0,1,0,1,1,0,1.860640641,Home_or_Self_Care
+1116,4/12/21,4/19/21,5/18/21,57,14,7,407,Male,Not Hispanic or Latino,Black or African American,94014,Commercial,0,1,0,0,1,0,4.433394517,Home_or_Self_Care
+1117,3/19/21,4/15/21,5/24/21,62,13,27,383,Male,Not Hispanic or Latino,American Indian or Alaska Native,95531,Commercial,22,1,0,0,1,1,291.8293491,Acute_Rehabilitation_Facility_Other
+1118,2/1/21,5/8/21,5/25/21,66,12,96,337,Female,Hispanic or Latino,Other,94536,Medicare,64,0,0,1,0,1,28.98090572,Home_Health_Care
+1119,4/21/21,4/26/21,9/20/21,41,14,5,416,Female,Hispanic or Latino,Black or African American,94945,Medi-Cal,0,0,0,1,0,0,25.06990582,Home_or_Self_Care
+1120,1/15/21,3/25/21,5/25/21,62,11,69,320,Female,Hispanic or Latino,Other,93638,Medicare,46,0,0,1,0,1,146.0422689,Acute_Rehabilitation_Facility_Other
+1121,4/28/21,5/2/21,5/27/21,56,14,4,423,Male,Not Hispanic or Latino,White or Caucasian,94131,Commercial,0,1,1,0,1,0,1.860640641,Home_or_Self_Care
+1122,1/16/21,1/20/21,6/7/21,81,11,4,321,Female,Not Hispanic or Latino,Asian,94112,Medicare,0,0,0,0,0,0,3.042419167,Home_or_Self_Care
+1123,12/28/20,4/22/21,6/7/21,43,10,115,302,Female,Hispanic or Latino,Other,94112,Medi-Cal,107,0,0,1,0,1,3.042419167,Other_Acute_Care_Hospital
+1124,1/9/21,4/8/21,6/8/21,80,11,89,314,Female,Not Hispanic or Latino,Asian,94014,Medicare,75,0,0,0,0,1,4.433394517,Skilled_Nursing_Facility
+1125,1/19/21,1/25/21,6/10/21,43,11,7,323,Female,Not Hispanic or Latino,Unknown or Declined,94806,Commercial,0,0,0,0,1,0,15.86537453,Home_or_Self_Care
+1126,1/27/21,1/31/21,6/17/21,67,11,4,332,Male,Not Hispanic or Latino,Black or African American,94102,Medicare,0,1,0,0,0,0,2.43157244,Home_or_Self_Care
+1127,6/8/21,6/11/21,7/16/21,59,16,3,464,Female,Not Hispanic or Latino,Unknown or Declined,93631,Commercial,3,0,0,0,1,1,182.6799514,Home_or_Self_Care
+1128,7/13/21,7/27/21,8/9/21,47,17,14,499,Male,Not Hispanic or Latino,White or Caucasian,94952,Commercial,0,1,1,0,1,0,35.53890688,Home_Health_Care
+1129,7/7/21,7/14/21,8/20/21,49,17,7,493,Male,Unknown or Declined,Unknown or Declined,94124,Commercial,0,1,0,0,1,0,4.134478502,Home_or_Self_Care
+1130,7/1/20,8/3/20,8/20/21,51,5,33,122,Male,Hispanic or Latino,Other,94949,Medi-Cal,28,1,0,1,0,1,21.17892987,Home_or_Self_Care
+1131,8/12/21,8/18/21,8/27/21,36,18,6,529,Male,Unknown or Declined,Unknown or Declined,94122,Medi-Cal,0,1,0,0,0,0,1.470404567,Home_or_Self_Care
+1132,7/25/21,8/3/21,8/27/21,33,17,10,510,Male,Not Hispanic or Latino,Black or African American,94124,Medi-Cal,0,1,0,0,0,0,4.134478502,Home_or_Self_Care
+1133,7/12/20,9/15/20,8/30/21,52,5,65,133,Female,Hispanic or Latino,Other,93635,Medi-Cal,42,0,0,1,0,1,100.3432219,Home_or_Self_Care
+1134,8/13/21,8/24/21,9/2/21,37,18,12,529,Female,Hispanic or Latino,Other,94143,Medi-Cal,5,0,0,1,0,1,0.000985532,Home_or_Self_Care
+1135,7/25/21,7/30/21,9/10/21,41,17,5,511,Female,Not Hispanic or Latino,White or Caucasian,94110,Commercial,0,0,1,0,1,0,2.563001882,Home_or_Self_Care
+1136,7/12/21,8/13/21,9/10/21,41,17,32,498,Male,Hispanic or Latino,Other,94928,Medi-Cal,29,1,0,1,0,1,42.30090579,Other_Acute_Care_Hospital
+1137,8/2/21,8/19/21,10/8/21,65,18,17,519,Female,Hispanic or Latino,White or Caucasian,94110,Commercial,6,0,1,1,1,1,2.563001882,Home_Health_Care
+1138,8/19/21,8/26/21,10/8/21,98,18,7,536,Female,Not Hispanic or Latino,White or Caucasian,94132,Medicare,0,0,1,0,0,0,2.918450656,Home_Health_Care
+1139,8/12/21,8/28/21,10/8/21,73,18,17,528,Female,Not Hispanic or Latino,Asian,94132,Medicare,0,0,0,0,0,0,2.918450656,Home_Health_Care
+1140,9/28/21,10/3/21,10/15/21,79,19,6,575,Male,Not Hispanic or Latino,Asian,94122,Medicare,2,1,0,0,0,1,1.470404567,Skilled_Nursing_Facility
+1141,8/24/21,8/30/21,10/22/21,73,18,6,541,Male,Not Hispanic or Latino,White or Caucasian,94121,Medicare,0,1,1,0,0,0,2.152271771,Skilled_Nursing_Facility
+1142,4/5/20,4/20/20,10/22/21,34,2,15,35,Female,Hispanic or Latino,Unknown or Declined,95380,Medi-Cal,13,0,0,1,0,1,90.13854365,Home_Health_Care
+1143,8/29/21,9/3/21,10/29/21,54,18,6,545,Female,Not Hispanic or Latino,White or Caucasian,96020,Commercial,0,0,1,0,1,0,186.3545526,Home_or_Self_Care
+1144,8/30/21,9/3/21,10/29/21,71,18,4,547,Female,Not Hispanic or Latino,Black or African American,94115,Medicare,0,0,0,0,0,0,1.966713721,Home_or_Self_Care
+1145,10/14/21,10/28/21,11/1/21,76,20,14,592,Male,Not Hispanic or Latino,White or Caucasian,94116,Medicare,8,1,1,0,0,1,2.017505371,Home_or_Self_Care
+1146,8/29/21,9/9/21,11/5/21,45,18,12,545,Female,Not Hispanic or Latino,American Indian or Alaska Native,94531,Commercial,0,0,0,0,1,0,41.62855244,Home_or_Self_Care
+1147,7/28/21,9/8/21,11/5/21,22,17,42,514,Male,Unknown or Declined,Unknown or Declined,95605,Medi-Cal,30,1,0,0,0,1,76.39484879,Home_or_Self_Care
+1148,9/7/21,10/29/21,11/23/21,48,19,52,555,Male,Not Hispanic or Latino,Black or African American,94601,Medi-Cal,39,1,0,0,0,1,13.21029543,Acute_Rehabilitation_Facility_Other
+1149,10/3/21,10/29/21,11/23/21,31,20,26,581,Male,Unknown or Declined,Unknown or Declined,95501,Medi-Cal,24,1,0,0,0,1,228.1107985,Other_Acute_Care_Hospital
+1150,9/9/21,9/25/21,12/10/21,55,19,16,557,Male,Not Hispanic or Latino,White or Caucasian,96097,Commercial,0,1,1,0,1,0,275.1849263,Home_or_Self_Care

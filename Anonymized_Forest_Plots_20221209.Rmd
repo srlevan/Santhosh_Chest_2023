@@ -1,0 +1,336 @@
+---
+title: "P1A2V2 - Making Forest Plots"
+output: html_notebook
+---
+
+#Analysis Plan
+Begin by making a summary table of Visits per 100 ppl
+Do a poisson analysis with count data
+Do a logistic regression with any visits
+Make a Forest Plot of the Adjusted Values
+
+#Load Required Packages
+```{r}
+#Load Required Packages# 
+library(reshape2)
+library(tidyr)
+library(dplyr)
+library(MASS)
+library(pscl)
+library(ggplot2)
+```
+
+#Set WD 
+```{r}
+rm(list=ls())
+setwd("~/Box Sync/Residency/Research/OPTIMAL Data Analysis/Analysis 2022/")
+```
+
+#Read in Readmission Data and Demographics Data
+```{r}
+ALL_Data_Readmission <- read.csv("~/Box Sync/Residency/Research/OPTIMAL Data Analysis/Analysis 2022/Input_COVIDReAdmissions_Anonymized_20221209.csv", header=TRUE)
+
+#Add A Column for OPTIMAL
+ALL_Data_Readmission$OPTIMAL <- ifelse(is.na(ALL_Data_Readmission$Clinic_Visit_Date)==TRUE,0,1)
+
+#Convert Dates to Dates
+ALL_Data_Readmission$Admission_Date <- as.Date(ALL_Data_Readmission$Admission_Date, format='%m/%d/%Y')
+ALL_Data_Readmission$Discharge_Date <- as.Date(ALL_Data_Readmission$Discharge_Date, format='%m/%d/%Y')
+ALL_Data_Readmission$Clinic_Visit_Date <- as.Date(ALL_Data_Readmission$Clinic_Visit_Date, format='%m/%d/%Y')
+```
+
+#Summarize Counts and Percent
+```{r}
+Readmissions_Summary <- ALL_Data_Readmission %>% group_by(OPTIMAL) %>% summarise(EDCount=sum(EDVisits),EDFreq=(sum(EDVisits)/n_distinct(UCSF_MRN)), HospCount=sum(HospitalAdmissions),HospFreq=(sum(HospitalAdmissions)/n_distinct(UCSF_MRN)),AnyVisitCount=sum(AnyVisits),AnyVisitFreq=(sum(AnyVisits)/n_distinct(UCSF_MRN)),Total=n_distinct(UCSF_MRN))
+
+write.csv(Readmissions_Summary,"SummaryTable_Readmissions_20220316.csv",quote=FALSE, row.names=FALSE)
+```
+
+#Start by Doing a Poisson Analysis of Readmissions
+#Make a Table of OR for Each of the Variables in Table 1
+
+#Change Scales on Your Distance Based Variables
+```{r}
+names(ALL_Data_Readmission)
+ALL_Data_Readmission$AdmDuration_Months <- ALL_Data_Readmission$AdmDuration_days/30
+ALL_Data_Readmission$Distance_100miles <- ALL_Data_Readmission$Distance_miles/100
+ALL_Data_Readmission$Age_20years <-ALL_Data_Readmission$Age_years/20
+```
+
+#Identifying Variables of Interest
+```{r}
+names(ALL_Data_Readmission)
+
+#Identify Risk Factors
+RiskFactors <- names(ALL_Data_Readmission[,c(26,15:19,27,29,28)])
+
+#Create an Offset Variable
+# LengthofStudy = 671 (from 3/1/2020 - 1/1/2022)
+ALL_Data_Readmission$Exposure <-  671-ALL_Data_Readmission$DaysSince20200301
+Offset <- log(ALL_Data_Readmission$Exposure)
+
+#Identify Outcomes
+Outcomes <- names(ALL_Data_Readmission[,c(25)])
+```
+
+```{r}
+#Test a Single Logistic Regression
+Outcomes
+model = glm(ALL_Data_Readmission$AnyVisits ~ ALL_Data_Readmission$OPTIMAL, offset=Offset,family =binomial(link="logit"),
+            data = ALL_Data_Readmission)
+
+summary(model)
+```
+
+#Create a Logistic Regression Function
+```{r}
+#Create a Logistic Regression Function
+LRModel <- function(Outcome, IndependentVariable, OffsetVariable){
+model = glm(Outcome ~ IndependentVariable, offset=OffsetVariable,family =binomial(link="logit"),data = Input)
+summary<-summary(model)
+coefficients <- summary$coefficients
+Estimate <- coefficients[c(2),c(1)]
+Error <- coefficients[c(2),c(2)]
+Pvalue <- coefficients[c(2),c(4)]
+OR <- exp(Estimate)
+lower <- exp(Estimate-1.96*Error)
+upper <- exp(Estimate+1.96*Error)
+Output <- matrix(data = NA, nrow =  6, ncol = 1, dimnames=list(c("Estimate","Error","pvalue","OR","lower CI","upper CI"), c(1)))
+Output[1,1] <- Estimate
+Output[2,1] <- Error
+Output[3,1] <- Pvalue
+Output[4,1] <- OR
+Output[5,1] <- lower
+Output[6,1] <- upper
+t(Output)
+return(t(Output))}
+```
+
+#Use Logistic Regression to Model the Effect of Your Risk Factors on AnyVisits
+```{r}
+Input <- ALL_Data_Readmission
+
+RiskFactors
+
+LRModel(Input$AnyVisits,Input$OPTIMAL,Offset)
+
+Output<- matrix(data = NA, nrow =  6, ncol = 9, dimnames=list(
+                c("Estimate","Error","pvalue","OR","lower CI","upper CI"),c(1:9)))
+
+for (i in 1:9){
+  var <- RiskFactors[i]
+  Stats <- LRModel(Input$AnyVisits, Input[,var], Offset)
+  Output[,(i)] <- Stats
+  colnames(Output) <- paste0(RiskFactors,".Unadjusted")
+}
+
+AnyVisits <- as.data.frame(t(Output))
+AnyVisits
+
+write.table(AnyVisits,"P1A2-LR_AnyVisits_ORs.txt",sep="\t",quote=F,row.names=T)
+
+```
+
+#Verify that potential confounders do not change the Odds Ratio#
+#Want to add potential confounders one at a time and check that OR doesn't change by more than 10%#
+#Potential Confounders are Indicated by a 1#
+#Test for Confounding by Change in OR#
+```{r}
+ConfounderORChange <- function(Outcome,IndependentVariable,SignificantInput){
+  model = glm(Outcome ~ IndependentVariable + SignificantInput, offset=Offset,family =binomial(link="logit"),data = Input)
+  summary<-summary(model)
+  coefficients <- summary$coefficients
+  Estimate <- coefficients[c(2),c(1)]
+  Error <- coefficients[c(2),c(2)]
+  Pvalue <- coefficients[c(2),c(4)]
+  OR <- exp(Estimate)
+  lower <- exp(Estimate-1.96*Error)
+  upper <- exp(Estimate+1.96*Error)
+  AIC <- model$aic
+  EstimateChange <- 100*((Estimate-Estimate_SignificantInput)/Estimate_SignificantInput)
+  Confounder <- ifelse(abs(EstimateChange)>10,1,0)
+  Output <- matrix(data = NA, nrow =  9, ncol = 1, dimnames=list(c("Estimate","Error","pvalue","OR","lower CI","upper CI","AIC","%Change","Confounder"), c(1)))
+  Output[1,1] <- Estimate
+  Output[2,1] <- Error
+  Output[3,1] <- Pvalue
+  Output[4,1] <- OR
+  Output[5,1] <- lower
+  Output[6,1] <- upper
+  Output[7,1] <- AIC
+  Output[8,1] <- EstimateChange
+  Output[9,1] <- Confounder
+  return(Output)
+}
+```
+
+#Look at how much potential confounders change the Estimate#
+```{r}
+Output<- matrix(data = NA, nrow =  9, ncol = 8, dimnames=list(c("Estimate","Error","pvalue","OR","lower CI","upper CI","AIC","%Change","Confounder"),c(1:8)))
+
+#Specify the OR of the Significant Test#
+Estimate_SignificantInput <- AnyVisits[1,1]
+
+#Identify Potential Confounders
+PotentialConfounders <- RiskFactors[c(2:9)] 
+
+#Set the Input
+Input<-ALL_Data_Readmission
+
+ConfounderORChange(Input$AnyVisits,Input$OPTIMAL,Input$Latinx)
+
+for (i in 1:8){
+  var <- PotentialConfounders[i]
+  Stats <- ConfounderORChange(Input$AnyVisits,Input$OPTIMAL,Input[,var])
+  Output[,(i)] <- Stats
+  colnames(Output) <- paste0(PotentialConfounders,".OutpatientVisits")
+}
+ConfounderTest_EstimateChange_AnyVisits <- as.data.frame(t(Output))
+ConfounderTest_EstimateChange_AnyVisits
+
+write.table(ConfounderTest_EstimateChange_AnyVisits,"P1A2-Confounder_EstimateChange_AnyVisits.txt",sep="\t",quote=F,row.names=T)
+```
+#No Confounders Identified using 10% Change Estimate Method
+
+#Write a Test to Look for Confounding using the Change in Model method
+```{r}
+ConfounderTest <- function(Outcome,IndependentVariable,SignificantInput){
+  parent.model=glm(Outcome ~ IndependentVariable, offset=Offset,family =binomial(link="logit"),data = Input)
+  extended.model = glm(Outcome ~ IndependentVariable + SignificantInput, offset=Offset,family =binomial(link="logit"),data = Input)
+  testfordeviance <- anova(parent.model,extended.model, test="Chi")
+  pvalue <- testfordeviance[2,5]
+  print(pvalue)
+}
+```
+
+#Test for Confounders using Change in Model
+```{r}
+Input <- ALL_Data_Readmission
+Output<- matrix(data = NA, nrow = 8, ncol = 3, dimnames=list(c(1:8),c("PotentialConfounder", "pvalue","Confounding?")))
+
+for (i in 1:7){
+  var <- PotentialConfounders[i]
+  Stats <- ConfounderTest(Input$AnyVisits, Input$OPTIMAL, Input[,var])
+  Output[(i),2] <- Stats
+  Output[(i),1] <- paste0(var,".AnyVisits")
+  Output[(i),3] <- ifelse(Stats<0.05,"YES","NO")
+}
+
+#Distance_100miles causes error because of 7 missing Zipcodes
+#Exclude 7 patients with missing zipcodes and rerun
+Input_Distance <- Input[!is.na(Input$Distance_100miles),]
+
+Offset_Distance <- log(Input_Distance$Exposure)
+
+ConfounderTest_forDistance <- function(Outcome,IndependentVariable,SignificantInput){
+  parent.model=glm(Outcome ~ IndependentVariable, offset=Offset_Distance,family =binomial(link="logit"),data = Input_Distance)
+  extended.model = glm(Outcome ~ IndependentVariable + SignificantInput, offset=Offset_Distance,family =binomial(link="logit"),data = Input_Distance)
+  testfordeviance <- anova(parent.model,extended.model, test="Chi")
+  pvalue <- testfordeviance[2,5]
+  print(pvalue)
+}
+Stats_Distance <- ConfounderTest_forDistance(Input_Distance$AnyVisits,Input_Distance$OPTIMAL,Input_Distance$Distance_100miles)
+
+Output[8,1] <- c("Distance_100miles.AnyVisits")
+Output[8,2] <- Stats_Distance
+Output[8,3] <- ifelse(Stats_Distance<0.05,"YES","NO")
+
+ConfounderTest_SignificantModel_AnyVisits <- as.data.frame(Output)
+
+
+ConfounderTest_SignificantModel_AnyVisits
+```
+
+#Identify Potential Confounders#
+- Private insurance
+- Latinx
+
+#Add in Adjusted OR for OPTIMAL Acute visits 
+#Potential Confounders = Private insurance, Latinx
+```{r}
+model = glm(ALL_Data_Readmission$AnyVisits ~ ALL_Data_Readmission$OPTIMAL + ALL_Data_Readmission$PrivateInsurance + ALL_Data_Readmission$Latinx, offset=Offset,family =binomial(link="logit"),data = ALL_Data_Readmission) 
+summary<-summary(model)
+summary
+
+AdjustedORs<- matrix(data = NA, nrow =  6, ncol = 3, dimnames=list(
+                c("Estimate","Error","pvalue","OR","lower CI","upper CI"),
+                c("OPTIMAL","PrivateInsurance","Latinx")))
+
+#Add Optimal Estimates to Chart of Adjusted ORs
+coefficients <- summary$coefficients
+Estimate <- coefficients[c(2),c(1)]
+Error <- coefficients[c(2),c(2)]
+Pvalue <- coefficients[c(2),c(4)]
+
+AdjustedORs[1,1] <- Estimate
+AdjustedORs[2,1] <- Error
+AdjustedORs[3,1] <- Pvalue
+AdjustedORs[4,1] <- exp(Estimate)
+AdjustedORs[5,1] <- exp(Estimate-1.96*Error)
+AdjustedORs[6,1] <- exp(Estimate+1.96*Error)
+
+#Add Private Insurance to Chart of Adjusted ORs
+Estimate <- coefficients[c(3),c(1)]
+Error <- coefficients[c(3),c(2)]
+Pvalue <- coefficients[c(3),c(4)]
+
+AdjustedORs[1,2] <- Estimate
+AdjustedORs[2,2] <- Error
+AdjustedORs[3,2] <- Pvalue
+AdjustedORs[4,2] <- exp(Estimate)
+AdjustedORs[5,2] <- exp(Estimate-1.96*Error)
+AdjustedORs[6,2] <- exp(Estimate+1.96*Error)
+
+#Add Latinx to Chart of Adjusted ORs
+Estimate <- coefficients[c(4),c(1)]
+Error <- coefficients[c(4),c(2)]
+Pvalue <- coefficients[c(4),c(4)]
+
+AdjustedORs[1,3] <- Estimate
+AdjustedORs[2,3] <- Error
+AdjustedORs[3,3] <- Pvalue
+AdjustedORs[4,3] <- exp(Estimate)
+AdjustedORs[5,3] <- exp(Estimate-1.96*Error)
+AdjustedORs[6,3] <- exp(Estimate+1.96*Error)
+
+AnyVisits_AdjustedORs <- as.data.frame(t(AdjustedORs))
+AnyVisits_AdjustedORs
+
+write.table(AnyVisits_AdjustedORs,"P1A2-LR_AnyVisits_AdjustedORs.txt",sep="\t",quote=F,row.names=T)
+```
+
+#Generate Forest Plots for AnyVisits modeled with LR
+```{r}
+#Combine Regular ORs and Adjusted ORs
+AnyVisits
+AnyVisits$Test<-rownames(AnyVisits)
+
+AnyVisits_AdjustedORs$Test <- rownames(AnyVisits_AdjustedORs)
+AnyVisits_AllORs <- rbind(AnyVisits_AdjustedORs,AnyVisits)
+
+row.names(AnyVisits_AllORs)
+AnyVisits_Graph <- AnyVisits_AllORs[c(1:3,5:6,9:12),]
+
+#Put Variables in Order of OR
+
+AnyVisits_Graph$Test <- factor(AnyVisits_Graph$Test,c("Race_White.Unadjusted","Age_20years.Unadjusted","Gender_M.Unadjusted","Distance_100miles.Unadjusted","AdmDuration_Months.Unadjusted","ICU_Stay.Unadjusted","Latinx","PrivateInsurance","OPTIMAL"))
+
+
+Graph <- ggplot(data=AnyVisits_Graph)+
+  geom_point(aes(x=AnyVisits_Graph$Test, y=AnyVisits_Graph$OR))+
+  geom_errorbar(aes(x=AnyVisits_Graph$Test,ymin=AnyVisits_Graph$'lower CI', ymax=AnyVisits_Graph$'upper CI'))+
+  geom_hline(yintercept = 1, linetype="dotted")+
+  theme_classic() +scale_fill_brewer(palette = "Greys", direction=1)+
+  scale_y_log10(limits=c(0.3,2.5),breaks=c(0.3, 0.4,0.5,0.6,0.7,0.8,0.9,1,1.5,2,3))+
+  coord_flip()
+Graph
+ggsave(filename="AnyVisits_ForestPlot.pdf", plot=Graph, useDingbats=FALSE,width=11, height=8.5, units="in")
+
+write.csv(AnyVisits_Graph,"P1A2-LR_AnyVisits_GraphInput.csv",sep=",",quote=F,row.names=T)
+```
+#Summarize number of visits per patient
+```{r}
+
+Input %>% group_by(AnyVisits) %>% dplyr::summarise(n=sum(AcuteVisits),avg=mean(AcuteVisits),median=median(AcuteVisits))
+Input %>% group_by(OPTIMAL,AnyVisits) %>% dplyr::summarise(n=sum(AcuteVisits),avg=mean(AcuteVisits),median=median(AcuteVisits))
+```
+
